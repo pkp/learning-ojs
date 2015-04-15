@@ -1,4 +1,3 @@
-My Awesome Book
-=======
+Learning OJS 3: A Visual Guide to Open Journal Systems
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Copyright: The Public Knowledge Project, 2015
