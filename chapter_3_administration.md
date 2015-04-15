@@ -1,2 +1,2 @@
-# Chapter 3: Administration
+# Chapter 3: Configuring a New Installation
 
