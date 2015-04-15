@@ -8,6 +8,6 @@
 * [Chapter 5: Issue Management](chapter_5_issue_management.md)
 * [Chapter 6: Submissions](chapter_6_submissions.md)
 * [Chapter 7: Reviews](chapter_7_reviews.md)
-* [Chapter 8: Copyediting](chapter_8_copyediting.md)
+* [Chapter 8: Copyediting](en/chapter_8_copyediting.md)
 * [Chapter 9: Production](en/chapter_9_production.md)
 
