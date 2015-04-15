@@ -3,4 +3,5 @@
 * [Preface](README.md)
 * [Chapter 1: Overview](chapter1.md)
 * Chapter 2: Installation
+* Chapter 3: Administration
 
