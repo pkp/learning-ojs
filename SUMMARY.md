@@ -7,4 +7,5 @@
 * [Chapter 4: Setting Up a New Journal](chapter_4_setting_up_a_new_journal.md)
 * Chapter 5: Issue Management
 * Chapter 6: Submissions
+* Chapter 7: Reviews
 
