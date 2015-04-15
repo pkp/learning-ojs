@@ -9,4 +9,5 @@
 * Chapter 6: Submissions
 * Chapter 7: Reviews
 * Chapter 8: Copyediting
+* Chapter 9: Production
 
