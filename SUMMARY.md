@@ -9,5 +9,5 @@
 * [Chapter 6: Submissions](chapter_6_submissions.md)
 * [Chapter 7: Reviews](chapter_7_reviews.md)
 * [Chapter 8: Copyediting](chapter_8_copyediting.md)
-* [Chapter 9: Production](chapter_9_production.md)
+* [Chapter 9: Production](en/chapter_9_production.md)
 
