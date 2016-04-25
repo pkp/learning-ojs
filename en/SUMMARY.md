@@ -4,7 +4,10 @@
 * [Chapter 1: Introduction](chapter_1_introduction.md)
 * [Chapter 2: Installation](chapter_2_installation.md) <!-- Wait for now -->
 * [Chapter 3: Configuring a New Installation](chapter_3_configuring_a_new_installation.md) <!-- Wait for now -->
-* [Chapter 4: Setting Up a New Journal](chapter_4_setting_up_a_new_journal.md) 
+* [Chapter 4: Setting Up a New Journal](chapter_4_setting_up_a_new_journal.md) <!-- Journal Management documentation is going to definitely need an overhaul 
+* Journal Admin
+* Front End
+* Back End -->
 * [Chapter 5: Issue Management](chapter_5_issue_management.md)
 * [Chapter 6: Submissions](chapter_6_submissions.md)
 * [Chapter 7: Reviews](chapter_7_reviews.md)
@@ -17,5 +20,7 @@
 
 - User Registration and Profile Setup
     - Managing Tasks
+
+
 
 -->
