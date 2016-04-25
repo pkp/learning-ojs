@@ -9,19 +9,5 @@
 * [Chapter 6: Submissions](chapter_6_submissions.md)
 * [Chapter 7: Reviews](chapter_7_reviews.md)
 * [Chapter 8: Copyediting](chapter_8_copyediting.md)
-* [Chapter 9: Production](chapter_9_production.md)
-    * <!-- Pre-publishing... workflow... public viewing... -->
+* [Chapter 9: Production](chapter_9_production.md) <!-- Pre-publishing... workflow... public viewing... -->
 * [Chapter 10: Authoring and Peer Review Submissions](chapter_10_.md)
-
-<!-- To add 
-
-- User Registration and Profile Setup
-    - Managing Tasks
-
-Different
--
-
-The same mostly
-- review forms basically identical
-
--->
