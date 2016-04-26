@@ -12,7 +12,7 @@
 * [Chapter 3: Setting up a Journal](journal_setup.md) 
 * [Chapter 4: Registering and Viewing Your Profile](registration.md)
 * [Chapter 5: Authoring (for Authors)](authoring.md) 
-* [Chapter 5: Managing Submissions](managing_submissions.md)
+* [Chapter 6: Managing Submissions](managing_submissions.md)
 
 <! -- [Chapter 6: Submissions](submissions.md) -->
 <! -- [Chapter 7: Reviews](reviews.md) -->
