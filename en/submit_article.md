@@ -1,4 +1,4 @@
-#Submitting an Article
+# Submitting an Article
 
 **Login** to the system. You will be taken to your dashboard. It will be empty as you have made no submissions.
 
