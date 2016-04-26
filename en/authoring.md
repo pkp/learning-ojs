@@ -4,21 +4,29 @@ To make a submission to an OJS 3 journal, you will first need to register as an 
 
 To start a new submission, select the New Submission button on the right side of the screen.
 
-![image 1](images/authoring_image01.png)
+![screenshot of submission summary screen](images/authoring_image01.png)
 
 From here, you will be taken to the first step of the five step process. You will need to select the most appropriate section for your submission (if you aren’t sure, make your best guess), read and check the Checklist boxes, add any comments for the editor, read the journal’s privacy statement, and then hit the Save and Continue button to move to the next step.
+
+![screenshot of upload screen](images/authoring_image02.png)
  
 On Step 2, a window will open allowing you to upload your submission file.
 
-First, however, you MUST select an Article Component. This lets the system know whether the file is the body of the manuscript, an image, a data set, etc. This must be selected before your file will upload.
+First, however, you MUST select an Article Component. This lets the system know whether the file is the body of the manuscript, an image, a data set, etc. **This must be selected before your file will upload**.
 
-Once you’ve made that selection, you can then upload your first file. It is important to note that you can only upload ONE file at a time. Additional files can be uploaded later in the process. Typically, this first file will be the body of your manuscript. Hit the Continue button once the file uploads.
+Once you’ve made that selection, you can then upload your first file. It is important to note that you can only upload **one** file at a time. Additional files can be uploaded later in the process. Typically, this first file will be the body of your manuscript. Hit the Continue button once the file uploads.
 
-Note: we’re currently looking at replacing this upload tool with something more user-friendly.
+> Note: we’re currently looking at replacing this upload tool with something more user-friendly.
+
+![screenshot of upload screen](images/authoring_image03.png)
 
 After uploading the file, you will be asked to add some metadata describing your work, including a filename for internal document management (e.g., Stranack Article Text). Select the Continue button.
 
+![screenshot of metadata tab of upload screen](images/authoring_image04.png)
+
 On the final tab, you have the option to upload another file (e.g., a dataset or an image). Once you have finished uploading all of your files, hit Complete.
+
+![screenshot of "finishing up" tab of upload screen](images/authoring_image05.png)
 
 This will take you back to the second step of the submission process, where you can see a list of all of the files you’ve uploaded (and make any necessary changes using the Edit Metadata link. Hit Save and Continue to move to the next step.
 
