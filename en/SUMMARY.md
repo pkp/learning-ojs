@@ -8,7 +8,7 @@
 * [Chapter 2: Configuring an Installation](configuring_installation.md)
    * [Installation](installation.md)
        * [Components](components.md)
-       * Install Process
+       * [Install Process](install_process.md)
    * [Site Management](site_management.md)
    * [Administrative Functions](administrative_functions.md)
 * [Chapter 3: Setting up a Journal](journal_setup.md)
