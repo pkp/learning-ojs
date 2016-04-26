@@ -1,5 +1,11 @@
 # Chapter 2: Installation
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+Open Journal Systems is an open source application that can be freely downloaded and installed on nearly any desktop or server computer.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Licensing
+
+OJS is distributed under the terms of the GNU General Public License. A copy of the license terms for redistributing OJS code in original or modified form is included with the OJS download.
+
+## System Requirements
+
+A server environment meeting the following requirements is recommended:
