@@ -17,7 +17,7 @@ A server environment meeting the following requirements is recommended:
 
 ## Recommended
 
-* PHP 5.x with iconv, mbstring, libgd, and libfreetype support
+* PHP 5.x with iconv, mbstring, libgd, and [libfreetype](https://sourceforge.net/projects/freetype/) support
 * MySQL 5.x with data storage and connection using UTF8
 * *NIX-like OS (Linux, BSD, Mac OS X)
 * Apache web server configured with PHP via FastCGI
