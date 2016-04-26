@@ -61,3 +61,54 @@ mysql> exit;
 Bye
 ```
 In this example, the database is called ojs; the database user is called pkpuser; and the password is password (certainly not secure!). You will need those three pieces of information later.
+
+## Complete the Install from the Web
+
+Point your web browser to your OJS installation directory. You will see an OJS Installation installation page: fill in all of the form fields (including the database connection information you established previously; and under File Settings, the location of the files path you previously created) and click the Install button at the bottom of the page.
+
+You must configure your site's locale settings: not only the locales available for your users, but also character set options. If possible, change the last two from the default (shown) to "Unicode (UTF-8)". Unless your database server is particularly old, you should not run into any problems setting these options to Unicode. This will ensure better multilingual support.
+
+Figure 13.3. OJS Install: Locale Settings
+
+
+You must then specify the location of the files/ directory you previously created.
+
+Figure 13.4. OJS Install: File Settings
+
+Next, choose your security settings. This configuration option specifies how system passwords are stored. SHA1 is more secure than MD5, so if your PHP version is 4.3.0 or above, choose the SHA1 option.
+
+Figure 13.5. OJS Install: Security Settings
+
+You must then specify a username, password and email for the Administrator Account. After a successful install, you will use this account to log in and configure new journals; but typically, this account will not be used for the day-to-day running of a journal.
+
+Figure 13.6. OJS Install: Administrator Account
+
+Next is the Database Settings section. You must fill in the proper database connection settings: choose the correct database driver for your system; specify the correct host (normally localhost, but this could be different depending on your setup); the username and password of the database user; and the database name that they will be connecting to. If you have not yet created the database, then ensure that the "Create new database" checkbox remains checked; however, this option will not work if your database user does not have sufficient permissions to create databases, in which case you should create the database beforehand.
+
+Figure 13.7. OJS Install: Database Settings
+
+
+OJS Install: Database Settings
+
+
+Then choose an appropriate OAI repository identifier (the default may be sufficient), and choose the Install Open Journal Systems option if your database user can write directly to the database; or Manual Install if you need to populate the database manually.
+
+Figure 13.8. OJS Install: Finalizing Installation
+
+
+If all goes well, you will then see a success screen.
+
+Figure 13.9. OJS Install: Success
+
+
+If your config.inc.php file wasn't writable by the server, you will be prompted to copy the contents of a text field and paste it to the default config.inc.php file on the server.
+
+Figure 13.10. OJS Install: Copy config.inc.php file
+
+
+If you chose to do a Manual Install, you will be prompted to copy a series of SQL statements, which must then be executed via your SQL server.
+
+Figure 13.11. OJS Install: Manual Installation
+
+
+
