@@ -13,8 +13,8 @@
 * [Chapter 4: Authoring (for Authors)](authoring.md) 
 * [Chapter 5: Managing Submissions](managing_submissions.md)
 
-<! -- [Chapter 6: Submissions](chapter_6_submissions.md) -->
-<! -- [Chapter 7: Reviews](chapter_7_reviews.md) -->
-<! -- [Chapter 8: Copyediting](chapter_8_copyediting.md) -->
-<! -- [Chapter 9: Production](chapter_9_production.md) -->
-<! -- [Chapter 10: Authoring and Peer Review Submissions](chapter_10_.md) -->
+<! -- [Chapter 6: Submissions](submissions.md) -->
+<! -- [Chapter 7: Reviews](reviews.md) -->
+<! -- [Chapter 8: Copyediting](copyediting.md) -->
+<! -- [Chapter 9: Production](production.md) -->
+<! -- Chapter 10: Authoring and Peer Review Submissions -->
