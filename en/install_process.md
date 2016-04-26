@@ -41,4 +41,22 @@ In the above example, config.inc.php isn't writable by the server (which is not 
 You will need to create a database for the system to use, and also ensure that you have a database user that has sufficient permissions to operate the database. OJS can conceivably run on many different types of RDBMS, although only PostgreSQL and MySQL are actively tested.
 
 For MySQL, you can create the database and user via phpMyAdmin or the MySQL command line interface. A CLI example follows:
+```
+$ mysql -u root -p
+Enter password: 
 
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 95
+Server version: 5.1.38 MySQL Community Server (GPL)
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+mysql> CREATE DATABASE ojs DEFAULT CHARACTER SET utf8;
+Query OK, 1 row affected (0.13 sec)
+
+mysql> GRANT ALL ON ojs.* TO pkpuser@localhost IDENTIFIED BY 'password';
+Query OK, 0 rows affected (0.15 sec)
+
+mysql> exit;
+Bye
+```
