@@ -5,7 +5,7 @@
   * [System Background](01-1-system-background.md)
   * [Management Structure](01-2-management-structure.md)
   * [Support](01-3-support.md)
-* [Chapter 2: Configuring an Installation](chapter_2_installation.md)
+* [Chapter 2: Configuring an Installation](02-installation.md)
   * [Installation](02-1-installation.md)
   * [Site Management](02-2-site-management.md)
   * [Administrative Functions](02-3-administrative-functions.md) 
