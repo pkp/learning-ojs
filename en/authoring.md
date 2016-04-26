@@ -4,17 +4,20 @@
 
 To make a submission to an OJS 3 journal, you will first need to register as an Author (see [Registering](registration/md). After that, when you login, you will be taken to your dashboard. It is currently empty as you have made no submissions.
 
-## Submitting and Article
+## Submitting an Article
 
-To start a new submission, select the **New Submission** button on the right side of the screen.
+**Login** to the system. You will be taken to your dashboard. It will be empty as you have made no submissions.
+
+Start a new submission by clicking the ‘**New Submission**’ button on the right side of the screen.
 
 ![screenshot of submission summary screen](images/authoring_image01.png)
 
-From here, you will be taken to the first step of the five step process. You will need to select the most appropriate section for your submission (if you aren’t sure, make your best guess), read and check the Checklist boxes, add any comments for the editor, read the journal’s privacy statement, and then hit the **Save and Continue** button to move to the next step.
+From here, you will be taken to **Step 1** of a 5-Step process to upload and describe your submission. To begin select the appropriate section for your submission (e.g., article, review, etc.). If you aren’t sure which section is appropriate, make your best guess. Read and agree to the statements in the submission checklist by checking each box. Include any comments for the editor, read the journal’s privacy statement, and then click the **‘Save and Continue**’ button to move to **Step 2**.
+
 
 ![screenshot of upload screen](images/authoring_image02.png)
  
-On Step 2, a window will open allowing you to upload your submission file.
+On **Step 2**, a window will open allowing you to upload your submission file.
 
 First, however, you MUST select an Article Component. This lets the system know whether the file is the body of the manuscript, an image, a data set, etc. **This must be selected before your file will upload**.
 
@@ -31,6 +34,10 @@ After uploading the file, you will be asked to add some metadata describing your
 On the final tab, you have the option to upload another file (e.g., a dataset or an image). Once you have finished uploading all of your files, hit **Complete**.
 
 ![screenshot of "finishing up" tab of upload screen](images/authoring_image05.png)
+
+In ‘Finishing up’ you have the option to repeat the process to upload additional files (e.g., a data set or an image).
+
+Once you have finished uploading all of your files, click ‘Complete;’ this will close the upload window.
 
 This will take you back to the second step of the submission process, where you can see a list of all of the files you’ve uploaded (and make any necessary changes using the **Edit Metadata** link. Hit **Save and Continue** to move to the next step.
 
