@@ -1,4 +1,4 @@
-#Responding to a Copyediting Request
+# Responding to a Copyediting Request
 <hr />
 [screenshot copyedit]
 <hr />
