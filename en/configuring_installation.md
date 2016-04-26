@@ -15,6 +15,15 @@ A server environment meeting the following requirements is recommended:
 * Apache >= 1.3.2x or >= 2.0.4x or Microsoft IIS 6
 * Operating system: Any OS that supports the above software, including Linux, BSD, Solaris, Mac OS X, Windows
 
+## Recommended
+
+* PHP 5.x with iconv, mbstring, libgd, and libfreetype support
+* MySQL 5.x with data storage and connection using UTF8
+* *NIX-like OS (Linux, BSD, Mac OS X)
+* Apache web server configured with PHP via FastCGI
+
+We also recommend that you have SSH access to your server, as you will find SSH access mandatory for some advanced tasks, and helpful overall.
+
 ## Download
 
 OJS can be downloaded from the [Public Knowledge Project web site.](http://pkp.sfu.ca)
