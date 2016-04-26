@@ -90,6 +90,86 @@ Now wait. You may be contacted for additional information or revisions prior to 
 
 You will see a table with pre-review discussions, where you can view and respond to the comments, and attach any required files. This will send the submission back to the editor, who will send it out for review. 
 
+## Responding to a review
+
+Interacting with your manuscript during the review process will be done mainly in the Review tab of the submitted article. The Review tab is comprised of 4 sections:
+
+- Notifications 
+  - Listed here are editorial decisions
+- Reviewer’s attachments
+  - Loaded here are any attachments from reviewers
+- Revisions
+  - Where you will upload revised files
+- Review discussions
+  - Comment/discussion section where you can communicate with the editor
+
+<hr />
+[screenshot here of blank review stage]
+<hr />
+
+To see the editor’s decision, click on the ‘editor’s decision’ link in the notifications section. Here you will see the decision and any reviewer comments that were included. If the reviewer has attached any documents, you can access these in the next section.
+
+<hr />
+[screenshot]
+<hr />
+
+
+You will upload revisions in the revisions section. To upload a revised file click on ‘Upload file.’ A new window will open allowing you to upload your file(s). Select the appropriate option from the dropdown menu to indicate you are submitting a revised file.
+
+<hr />
+[screenshot]
+<hr />
+
+You can use the discussion section to communicate with the editor. You have the option to start a new discussion, or continue a discussion thread by clicking on the discussion name and clicking on the ‘add message’ button.
+
+<hr />
+[screenshot]
+<hr />
+
+You will be notified by email when the review stage is complete. At this point  the Editor may send your submission to the copyediting stage.
+
+## Resubmit for review
+
+If the editor’s decision is to resubmit for review, you will need to log in and select the article in your submissions page. The resubmission is done in the review stage, there is no need to start a new submission. 
+
+At the review stage you will need to do two things to resubmit once you have revised your document:
+
+Upload the new file in the revisions section. To upload a new file click on ‘Upload file.’ A new window will open allowing you to upload your file(s). Select the appropriate option from the dropdown menu to indicate you not submitting a revision of an existing file.
+
+Add a discussion to notify the editor that you have re-submitted. 
+
+<hr />
+[screenshot]
+<hr />
+
+## Copyediting
+
+<hr />
+[screenshot copyedit]
+<hr />
+
+Depending the journal, you may be required to approve copyedits. You will be notified in the system that you have pending copyedits.
+
+The copyediting stage is mainly managed through the discussion feature.  You can respond to or  approve copyedits via the discussion dialogue box. You can also upload revised files if necessary. 
+
+<hr />
+[screenshot discussion]
+<hr />
+
+When you have approved the copyedits, the editor will send the file to the production stage. You will receive a notification email when it moves to this stage.
+
+
+## Production
+
+Depending the journal, you may be required to approve galleys in the production stage. These can be PDFs or HTML, they are the almost final version of the article which you will be invited to proofread. You will be notified in the system that you have a pending task. The production stage is managed through the discussion feature.  You can respond to or approve galleys via the discussion dialogue box. 
+
+
+
+
+
+
+
+
 
 
 
