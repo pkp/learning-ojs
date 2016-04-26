@@ -1,2 +1,2 @@
-# Chapter 4: Setting Up a New Journal
+# Chapter 4: Authoring For Authors
 
