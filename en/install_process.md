@@ -21,4 +21,24 @@ If you did not download the tar file directly to your web server, you can untar 
 tar xzf ./ojs-2.3.1-2.tar.gz
 ```
 
-This will extract the OJS files into the directory /var/www/html/ojs-3.00 . You may want to change the name of the directory to something more user friendly, such as "ojs". At this point, you should be able to go to that directory on your server, (ie. point your browser to http://example.com/ojs/) and see the install screen.
+This will extract the OJS files into the directory /var/www/html/ojs-3.00. You may want to change the name of the directory to something more user friendly, such as "ojs". At this point, you should be able to go to that directory on your server, (ie. point your browser to http://example.com/ojs/) and see the install screen.
+
+
+## Prepare Your Environment for the Install
+
+You will need to create a directory for OJS to store its submission files in. This should not be in a web-accessible directory, as then it would be possible for private files to be accessed online (eg. by savvy users attempting to point directly to the file in question by typing http://www.example.com/files/journals/1/articles/1/submission/review/1-3-1-RV.doc into their browser). If, for example, you have placed the OJS application files in /var/www/html/ojs/, you will have to create this directory outside of /var/www/.
+
+You will then need to grant file permissions so that the web server can administer and write to the public/ and cache/ subdirectories of the OJS installation path, the files/ directory you just created, and the config.inc.php configuration file. The specifics of setting permissions will depend on your web server configuration, i.e. whether PHP scripts run SetUID. The install page will warn you if you don't have the appropriate permissions.
+
+Figure 13.2. OJS Install: Insufficient Permissions
+
+
+
+In the above example, config.inc.php isn't writable by the server (which is not strictly necessary for normal functioning, although it is for automatic installation), and neither is the cache/t_cache/ directory. Remember, all directories within cache/ must be writable by the server.
+
+##Configure Your Database Information
+
+You will need to create a database for the system to use, and also ensure that you have a database user that has sufficient permissions to operate the database. OJS can conceivably run on many different types of RDBMS, although only PostgreSQL and MySQL are actively tested.
+
+For MySQL, you can create the database and user via phpMyAdmin or the MySQL command line interface. A CLI example follows:
+
