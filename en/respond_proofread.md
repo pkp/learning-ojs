@@ -1,1 +1,1 @@
-#Responding to Proofreading
+#Responding to a Proofreading Request
