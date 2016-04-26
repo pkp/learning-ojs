@@ -20,3 +20,5 @@ If you did not download the tar file directly to your web server, you can untar 
 ```
 tar xzf ./ojs-2.3.1-2.tar.gz
 ```
+
+This will extract the OJS files into the directory /var/www/html/ojs-3.00 . You may want to change the name of the directory to something more user friendly, such as "ojs". At this point, you should be able to go to that directory on your server, (ie. point your browser to http://example.com/ojs/) and see the install screen.
