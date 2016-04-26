@@ -10,8 +10,20 @@ OJS is distributed under the terms of the GNU General Public License. A copy of 
 
 A server environment meeting the following requirements is recommended:
 
-* PHP >= 5.6 ??
-* MySQL >= 3.23.23 (including 4.x) or PostgreSQL >= 7.1 (including PostgreSQL 8.x)
-* Apache >= 1.3.2x or >= 2.0.4x or Microsoft IIS 6+
-* Operating system: Any OS that supports the above software, including Linux, BSD, Solaris, Mac OS X, and Windows
+* PHP >= 5.3.7
+* MySQL >= 4.1 or PostgreSQL >= 9.1.5
+* Apache >= 1.3.2x or >= 2.0.4x or Microsoft IIS 6
+* Operating system: Any OS that supports the above software, including Linux, BSD, Solaris, Mac OS X, Windows
 
+## Recommended
+
+* PHP 5.x with [iconv](http://ca.php.net/iconv), [mbstring](http://ca.php.net/mbstring), [libgd](http://www.libgd.org/Main_Page), and [libfreetype](https://sourceforge.net/projects/freetype/) support
+* MySQL 5.x with data storage and connection using [UTF8](http://dev.mysql.com/doc/refman/5.0/en/charset-unicode.html)
+* *NIX-like OS (Linux, BSD, Mac OS X)
+* Apache web server configured with PHP via [FastCGI](http://www.fastcgi.com/drupal/)
+
+We also recommend that you have [SSH](http://en.wikipedia.org/wiki/Secure_Shell) access to your server, as you will find SSH access mandatory for some advanced tasks, and helpful overall.
+
+## Download
+
+OJS can be downloaded from the [Public Knowledge Project web site.](http://pkp.sfu.ca)
