@@ -1,12 +1,12 @@
 # Summary
 
 * [Preface](README.md)
-* [Chapter 1: Introduction](01-introduction.md)
-  * [System Background](01-1-system-background.md)
-  * [Management Structure](01-2-management-structure.md)
-  * [Support](01-3-support.md)
-* [Chapter 2: Configuring an Installation](02-installation.md)
-  * [Installation](02-1-installation.md)
+* [Chapter 1: Introduction](introduction.md)
+  * [System Background](system_background.md)
+  * [Management Structure](management_structure.md)
+  * [Support](support.md)
+* [Chapter 2: Configuring an Installation](configuring_installation.md)
+  * [Installation](installation.md)
   * [Site Management](02-2-site-management.md)
   * [Administrative Functions](02-3-administrative-functions.md) 
 * [Chapter 3: Setting up a Journal](03-setting-up-journal.md) 
