@@ -9,9 +9,9 @@
   * [Installation](installation.md)
   * [Site Management](site_management.md)
   * [Administrative Functions](administrative_functions.md) 
-* [Chapter 3: Setting up a Journal](03-setting-up-journal.md) 
-* [Chapter 4: Authoring (for Authors)](04-authoring.md) 
-* [Chapter 5: Managing Submissions](05-managing-submissions.md)
+* [Chapter 3: Setting up a Journal](journal_setup.md) 
+* [Chapter 4: Authoring (for Authors)](authoring.md) 
+* [Chapter 5: Managing Submissions](managing_submissions.md)
 
 <! -- [Chapter 6: Submissions](chapter_6_submissions.md) -->
 <! -- [Chapter 7: Reviews](chapter_7_reviews.md) -->
