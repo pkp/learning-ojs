@@ -22,7 +22,7 @@ Once you’ve made that selection, you can then upload your first file. It is im
 
 After uploading the file, you will be asked to add some metadata describing your work, including a filename for internal document management (e.g., Stranack Article Text). Select the Continue button.
 
-![screenshot of metadata tab of upload screen](images/authoring_image04.png)
+![screenshot of "object metadata tab" of upload screen](images/authoring_image04.png)
 
 On the final tab, you have the option to upload another file (e.g., a dataset or an image). Once you have finished uploading all of your files, hit Complete.
 
@@ -34,25 +34,41 @@ This will take you back to the second step of the submission process, where you 
 
 On step 3, you will be asked to fill in more metadata, including the title of the submission (broken down into prefix, title, and subtitle), the abstract, and scrolling down...
 
+![screenshot of "article metadata" tab of uploads](images/authoring_image07.png)
+
 ...any additional contributors.
+
+!["contributors" screenshot](images/authoring_image08.png)
 
 You can add more contributors (e.g., co-authors), by selecting the Add Contributors link. This will open a new window with fields to enter their information.
 
+![additional contributors screenshot](images/authoring_image09.png)
+
 Hit Save, and the new contributor will appear on the screen.
+
+!["contributors" screenshot two](images/authoring_image10.png)
 
 Scrolling down, you will see a series of metadata fields. Fill in all that are relevant to your work. There is also a References field where you can paste in the reference list from your article. These references will be visible on the abstract page of your published article.
 
 Hit Save and Continue to move forward.
 
-Note: We’re currently exploring how many of these metadata fields to display by default, if some should be hidden unless a Journal Manager enables them, etc. We’re trying to find the balance between the journal’s need for detailed metadata and the author’s need for a pleasing user experience.
+> Note: We’re currently exploring how many of these metadata fields to display by default, if some should be hidden unless a Journal Manager enables them, etc. We’re trying to find the balance between the journal’s need for detailed metadata and the author’s need for a pleasing user experience.
+
+![additional metadata (configurable) screenshot](images/authoring_image11.png)
 
 On step 4, you will be asked to confirm that everything is in order. If it is, hit Finish Submission.
 
+!["article confirmation" screenshot](images/authoring_image12.png)
+
 A box will pop up asking you to confirm you are finished. Hit OK.
+
+!["submission" complete screenshot](images/authoring_image13.png)
 
 Your submission is now complete! The editor has been automatically notified of your submission and you can now wait for a response.
 
 At this point, you can follow the links to review your submission, make another submission, return to your dashboard, or logout of the system.
+
+![final submission screen screenshot](images/authoring_image14.png)
 
 If you’d like to try this for yourself, visit: http://journals.sfu.ca/uiux/index.php/publicknowledge/
 
