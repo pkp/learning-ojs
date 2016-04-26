@@ -60,3 +60,4 @@ Query OK, 0 rows affected (0.15 sec)
 mysql> exit;
 Bye
 ```
+In this example, the database is called ojs; the database user is called pkpuser; and the password is password (certainly not secure!). You will need those three pieces of information later.
