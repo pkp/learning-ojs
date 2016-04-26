@@ -2,7 +2,7 @@
 
 ## Registering with the System
 
-To make a submission to an OJS 3 journal, you will first need to register as an Author (see [Registering](registration/md).) After that, when you log in, you will be taken to your dashboard. It is currently empty as you have made no submissions.
+To make a submission to an OJS 3 journal, you will first need to register as an Author (see [Registering](registration/md). After that, when you login, you will be taken to your dashboard. It is currently empty as you have made no submissions.
 
 ## Submitting an Article
 
@@ -27,23 +27,22 @@ Once you’ve made that selection, you can then upload your first file. It is im
 
 ![screenshot of upload screen](images/authoring_image03.png)
 
-After uploading the file, you will be asked to add some metadata describing your work, including a filename for internal document management (e.g., Stranack Article Text). Select the **Continue** button.
+After uploading the file, you will be asked to name the file. To ensure a blind review, do not include any identifying information in your filename. Click the ‘**Continue**’ button.
 
 ![screenshot of "object metadata tab" of upload screen](images/authoring_image04.png)
 
-On the final tab, you have the option to upload another file (e.g., a dataset or an image). Once you have finished uploading all of your files, hit **Complete**.
+In ‘Finishing up’ you have the option to repeat the process to upload additional files (e.g., a data set or an image). 
+Once you have finished uploading all of your files, click ‘**Complete**;’ this will close the upload window.
 
 ![screenshot of "finishing up" tab of upload screen](images/authoring_image05.png)
 
-In ‘Finishing up’ you have the option to repeat the process to upload additional files (e.g., a data set or an image).
+You will be brought back to the ‘submit an article screen’ where you will see the files you’ve uploaded. If you need to make changes, expand the arrow and make any changes using the ‘Edit Metadata’ link. 
 
-Once you have finished uploading all of your files, click ‘Complete;’ this will close the upload window.
-
-This will take you back to the second step of the submission process, where you can see a list of all of the files you’ve uploaded (and make any necessary changes using the **Edit Metadata** link. Hit **Save and Continue** to move to the next step.
+Click ‘Save and Continue’ to move to Step 3.
 
 ![screenshot of submission uploads](images/authoring_image06.png)
 
-On step 3, you will be asked to fill in more metadata, including the title of the submission (broken down into prefix, title, and subtitle), the abstract, and scrolling down...
+On **Step 3**, you will be asked to add more information about the submission, including the title of the submission (broken down into prefix, title, and subtitle), the abstract, and scrolling down...
 
 ![screenshot of "article metadata" tab of uploads](images/authoring_image07.png)
 
@@ -51,7 +50,7 @@ On step 3, you will be asked to fill in more metadata, including the title of th
 
 !["contributors" screenshot](images/authoring_image08.png)
 
-You can add more contributors (e.g., coauthors), by selecting the **Add Contributors** link. This will open a new window with fields to enter their information.
+You can add more contributors (e.g., co-authors), by clicking the ‘**Add Contributors**’ link. This will open a new window with fields to enter their information.
 
 ![additional contributors screenshot](images/authoring_image09.png)
 
@@ -59,31 +58,37 @@ Hit **Save**, and the new contributor will appear on the screen.
 
 !["contributors" screenshot two](images/authoring_image10.png)
 
-Scrolling down, you will see a series of metadata fields. Fill in all that are relevant to your work. There is also a References field where you can paste in the reference list from your article. These references will be visible on the abstract page of your published article.
-
-Hit **Save and Continue** to move forward.
+Depending on the journal you are submitting to, you may see additional fields to complete. 
+ 
+Click ‘**Save and Continue**’ to move forward.
 
 > Note: We’re currently exploring how many of these metadata fields to display by default, if some should be hidden unless a Journal Manager enables them, etc. We’re trying to find the balance between the journal’s need for detailed metadata and the author’s need for a pleasing user experience.
 
 ![additional metadata (configurable) screenshot](images/authoring_image11.png)
 
-On step 4, you will be asked to confirm that everything is in order. If it is, hit **Finish Submission**.
+On Step 4, you will be asked to confirm that you are happy with your submission. 
+
+Click ‘**Finish Submission**.’
 
 !["article confirmation" screenshot](images/authoring_image12.png)
 
-A box will pop up asking you to confirm you are finished. Hit **OK**.
+A box will pop up asking you to confirm you are finished. Click **OK**.
 
 !["submission" complete screenshot](images/authoring_image13.png)
 
-Your submission is now complete! The editor has been automatically notified of your submission and you can now wait for a response.
+Your submission is now complete! The editor has been notified of your submission. At this point, you can follow the links to:
 
-At this point, you can follow the links to review your submission, make another submission, return to your dashboard, or logout of the system.
+- Review your submission
+- Create a new submission
+- Return to your dashboard
 
 ![final submission screen screenshot](images/authoring_image14.png)
 
-If you’d like to try this for yourself, visit: http://journals.sfu.ca/uiux/index.php/publicknowledge/
+Now wait. You may be contacted for additional information or revisions prior to your article being sent to peer review. If this is the case, you will receive an email notifying you of any required changes. Login to your submissions page to respond to the request.  Under ‘my authored’, click the ‘Submission’ link. 
 
-Please send us any feedback you have on the submission process as we’ve designed it for OJS 3, either by commenting directly in this document or via email (kstranac@sfu.ca).
+![screenshot required](
+
+You will see a table with pre-review discussions, where you can view and respond to the comments, and attach any required files. This will send the submission back to the editor, who will send it out for review. 
 
 
 
