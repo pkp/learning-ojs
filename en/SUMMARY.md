@@ -1,9 +1,14 @@
 # Summary
 
 * [Preface](README.md)
-* [Chapter 1: Introduction](chapter_1_introduction.md)
-  * [
-* [Chapter 2: Configuring an Installation](chapter_2_installation.md) 
+* [Chapter 1: Introduction](01-introduction.md)
+  * [System Background](01-1-system-background.md)
+  * [Management Structure](01-2-management-structure.md)
+  * [Support](01-3-support.md)
+* [Chapter 2: Configuring an Installation](chapter_2_installation.md)
+  * [Installation](02-1-installation.md)
+  * [Site Management](02-2-site-management.md)
+  * [Administrative Functions](02-3-administrative-functions.md) 
 * [Chapter 3: Setting up a Journal](chapter_3_configuring_a_new_installation.md) 
 * [Chapter 4: Authoring (for Authors)](chapter_4_setting_up_a_new_journal.md) 
 * [Chapter 5: Managing Submissions](chapter_5_issue_management.md)
