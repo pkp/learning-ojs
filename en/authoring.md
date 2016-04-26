@@ -86,7 +86,7 @@ Your submission is now complete! The editor has been notified of your submission
 
 Now wait. You may be contacted for additional information or revisions prior to your article being sent to peer review. If this is the case, you will receive an email notifying you of any required changes. Login to your submissions page to respond to the request.  Under ‘my authored’, click the ‘Submission’ link. 
 
-![screenshot required](
+![screenshot required](images/screenshot.jpg)
 
 You will see a table with pre-review discussions, where you can view and respond to the comments, and attach any required files. This will send the submission back to the editor, who will send it out for review. 
 
