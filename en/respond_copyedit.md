@@ -1,1 +1,1 @@
-#Responding to Copyediting
+#Responding to a Copyediting Request
