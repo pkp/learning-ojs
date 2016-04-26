@@ -4,6 +4,8 @@ To make a submission to an OJS 3 journal, you will first need to register as an 
 
 To start a new submission, select the New Submission button on the right side of the screen.
 
+![image 1](/en/images/authoring_image01.png)
+
 From here, you will be taken to the first step of the five step process. You will need to select the most appropriate section for your submission (if you aren’t sure, make your best guess), read and check the Checklist boxes, add any comments for the editor, read the journal’s privacy statement, and then hit the Save and Continue button to move to the next step.
  
 On Step 2, a window will open allowing you to upload your submission file.
