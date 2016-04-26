@@ -17,3 +17,6 @@ Unpack the tar file, and move the unpacked contents to a web-accessible director
 > Regarding web accessible directories: each server is different. If you do not know where your web-accessible directory is (that is, the directory where you put everything that you want people to see on your website; sometimes called a web root directory), you should contact your service provider.
 
 If you did not download the tar file directly to your web server, you can untar the tar file on your desktop and transfer its contents by FTP, or you can transfer the tar file by FTP to your web server directly and run the following command:
+```
+tar xzf ./ojs-2.3.1-2.tar.gz
+```
