@@ -1,2 +1,2 @@
-# Chapter 5: Issue Management
+# Chapter 5: Managing Submissions
 
