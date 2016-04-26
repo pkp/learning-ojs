@@ -1,4 +1,4 @@
-Learning OJS 3: A Visual Guide to Open Journal Systems
+Learning OJS 3: A Visual, Task-Based Guide to Open Journal Systems
 
 Copyright: The Public Knowledge Project, 2016
 
