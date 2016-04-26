@@ -1,4 +1,4 @@
-#Responding to a Review
+# Responding to a Review
 Interacting with your manuscript during the review process will be done mainly in the Review tab of the submitted article. The Review tab is comprised of 4 sections:
 
 - Notifications 
