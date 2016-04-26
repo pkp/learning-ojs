@@ -17,12 +17,12 @@ A server environment meeting the following requirements is recommended:
 
 ## Recommended
 
-* PHP 5.x with iconv, mbstring, libgd, and [libfreetype](https://sourceforge.net/projects/freetype/) support
-* MySQL 5.x with data storage and connection using UTF8
+* PHP 5.x with [iconv](http://ca.php.net/iconv), [mbstring](http://ca.php.net/mbstring), [libgd](http://www.libgd.org/Main_Page), and [libfreetype](https://sourceforge.net/projects/freetype/) support
+* MySQL 5.x with data storage and connection using [UTF8](http://dev.mysql.com/doc/refman/5.0/en/charset-unicode.html)
 * *NIX-like OS (Linux, BSD, Mac OS X)
-* Apache web server configured with PHP via FastCGI
+* Apache web server configured with PHP via [FastCGI](http://www.fastcgi.com/drupal/)
 
-We also recommend that you have SSH access to your server, as you will find SSH access mandatory for some advanced tasks, and helpful overall.
+We also recommend that you have [SSH](http://en.wikipedia.org/wiki/Secure_Shell) access to your server, as you will find SSH access mandatory for some advanced tasks, and helpful overall.
 
 ## Download
 
