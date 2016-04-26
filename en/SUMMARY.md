@@ -2,6 +2,7 @@
 
 * [Preface](README.md)
 * [Chapter 1: Introduction](chapter_1_introduction.md)
+  * [sample chapter](samplechapter.md)
 * [Chapter 2: Installation](chapter_2_installation.md) <!-- Wait for now -->
 * [Chapter 3: Configuring a New Installation](chapter_3_configuring_a_new_installation.md) <!-- Wait for now -->
 * [Chapter 4: Setting Up a New Journal](chapter_4_setting_up_a_new_journal.md) 
