@@ -1,1 +1,2 @@
 #Responding to a Proofreading Request
+Depending the journal, you may be required to approve galleys in the production stage. These can be PDFs or HTML, they are the almost final version of the article which you will be invited to proofread. You will be notified in the system that you have a pending task. The production stage is managed through the discussion feature.  You can respond to or approve galleys via the discussion dialogue box. 
