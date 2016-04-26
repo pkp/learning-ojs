@@ -2,7 +2,7 @@
 
 ## Registering with the System
 
-To make a submission to an OJS 3 journal, you will first need to register as an Author (see [Registering](registration/md).) After that, when you login, you will be taken to your dashboard. It is currently empty as you have made no submissions.
+To make a submission to an OJS 3 journal, you will first need to register as an Author (see [Registering](registration/md).) After that, when you log in, you will be taken to your dashboard. It is currently empty as you have made no submissions.
 
 ## Submitting an Article
 
@@ -51,7 +51,7 @@ On step 3, you will be asked to fill in more metadata, including the title of th
 
 !["contributors" screenshot](images/authoring_image08.png)
 
-You can add more contributors (e.g., co-authors), by selecting the **Add Contributors** link. This will open a new window with fields to enter their information.
+You can add more contributors (e.g., coauthors), by selecting the **Add Contributors** link. This will open a new window with fields to enter their information.
 
 ![additional contributors screenshot](images/authoring_image09.png)
 
