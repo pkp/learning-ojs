@@ -1,1 +1,1 @@
-<img src="https://pkp.sfu.ca/wp-content/uploads/2012/10/pkp_logo_vert3.png" style="float:left;"><p>Learning OJS 3: A Visual Guide to Open Journal Systems<br /><br />Copyright: The Public Knowledge Project, 2016<img src="https://i.creativecommons.org/l/by/4.0/88x31.png"/></p>
+<p><img src="https://pkp.sfu.ca/wp-content/uploads/2012/10/pkp_logo_vert3.png" style="float:left;"/>Learning OJS 3: A Visual Guide to Open Journal Systems<br /><br />Copyright: The Public Knowledge Project, 2016<img src="https://i.creativecommons.org/l/by/4.0/88x31.png"/></p>
