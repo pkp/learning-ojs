@@ -30,6 +30,8 @@ On the final tab, you have the option to upload another file (e.g., a dataset or
 
 This will take you back to the second step of the submission process, where you can see a list of all of the files you’ve uploaded (and make any necessary changes using the Edit Metadata link. Hit Save and Continue to move to the next step.
 
+![screenshot of submission uploads](images/authoring_image06.png)
+
 On step 3, you will be asked to fill in more metadata, including the title of the submission (broken down into prefix, title, and subtitle), the abstract, and scrolling down...
 
 ...any additional contributors.
