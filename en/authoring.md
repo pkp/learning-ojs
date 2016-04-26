@@ -1,6 +1,10 @@
 # Chapter 5: Authoring (For Authors!)
 
+## Registering with the System
+
 To make a submission to an OJS 3 journal, you will first need to register as an Author (see [Registering](registration/md). After that, when you login, you will be taken to your dashboard. It is currently empty as you have made no submissions.
+
+## Submitting and Article
 
 To start a new submission, select the **New Submission** button on the right side of the screen.
 
