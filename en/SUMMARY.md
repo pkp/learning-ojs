@@ -8,7 +8,7 @@
    * [Reader Interface](reader_interface.md)
    * [Community Contributions](community_contributions.md)
    * [Support](support.md)
-* [Chapter 2: Configuring an Installation](configuring_installation.md)
+* [Chapter 2: Installing and Upgrading](configuring_installation.md)
    * [Installation](installation.md)
        * [Components](components.md)
        * [Install Process](install_process.md)
