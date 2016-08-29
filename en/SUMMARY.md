@@ -29,7 +29,7 @@
    * [Re-submitting for Review](resubmit_review.md)
    * [Responding to a Copyediting Request](respond_copyedit.md)
    * [Responding to a Proofreading Request](respond_proofread.md)
-* [Chapter 7: Managing Submissions](managing_submissions.md)
+* [Chapter 7: Editorial Workflow](managing_submissions.md)
    * [Submissions](submissions.md)
    * [Review](review.md)
    * [Copyediting](copyediting.md)
