@@ -2,9 +2,9 @@
 
 * [Preface](README.md)
 * [Chapter 1: Introduction](introduction.md)
-   * [Background](system_background.md)
    * [Reader Interface](reader_interface.md)
        * Editorial Interface
+   * [Background](system_background.md)
    * [OJS Features](ojs_features.md)
    * [What's New in OJS 3](whats_new_in_ojs_3.md)
    * [Community Contributions](community_contributions.md)
