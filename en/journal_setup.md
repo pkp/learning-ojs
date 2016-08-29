@@ -1,3 +1,3 @@
-# Chapter 4: Setting up a Journal
+# Chapter 5: Setting up a Journal
 
 You configure it out. 
