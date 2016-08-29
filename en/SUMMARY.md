@@ -1,7 +1,6 @@
 # Summary
 
 * [Preface](README.md)
-   * [Site Administration](site_administration.md)
 * [Chapter 1: Introduction](introduction.md)
    * [Background](system_background.md)
    * [OJS Features](ojs_features.md)
@@ -16,6 +15,7 @@
        * [Upgrading](upgrading.md)
    * [Site Management](site_management.md)
    * [Administrative Functions](administrative_functions.md)
+* [Site Administration](site_administration.md)
 * [Chapter 3: User Accounts](user_accounts.md)
    * [Roles in OJS](roles_in_ojs.md)
    * [Registering with a Journal](registering_with_a_journal.md)
