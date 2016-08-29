@@ -4,7 +4,6 @@ To get to Site Management, login as the Site Administrator, and choose Administr
 
 ![](learning-ojs-3-ch4-site-admin1.png)
 
-
 ## Hosted Journals
 From here, choose Hosted Journals. One the resulting page, you will see all of the journals in this OJS installation. In the example, below, there is only one.
 
@@ -34,6 +33,29 @@ Back on the Hosted Journals page, you can use the Create Journal link to add a n
 
 ## Site Settings
 
+This section will allow you to add information regarding your overall OJS installation, not individual journals.
 
-Once you've created the journal, you may want to create a user account for the Journal Manager or Editor -- see Chapter XX for details.
+###Site Setup
+This includes the name of your site, an introductory statement about your site, a redirect option (if you only plan to have one journal on this installation), a description of your site, contact information, a minimum password length for registered users, and indexing registration. 
+
+You will have the opportunity to provide details about your individual journal(s) at a later stage.
+
+![](learning-ojs-3-ch4-site-settings.png)
+
+###Languages
+
+OJS is a multilingual system and you can add additional languages to your site here, making them available to all of the journals on your installation.
+
+![](learning-ojs-3-ch4-site-settings-languages.png)
+
+OJS 3 currently only has translations for English, German, Portuguese, and Spanish, but we expect to have more contributed over time.
+
+###Plugins
+
+From here, you can choose to enable or disable various plugins, making them available (or not) to all of the journals on this OJS installation.
+
+![](learning-ojs-3-ch4-site-settings-plugins.png)
+
+##Next Steps
+Once you've created a journal and configured the site settings, you may want to create a user account for the Journal Manager or Editor -- see Chapter XX for details.
 
