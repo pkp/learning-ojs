@@ -1,7 +1,6 @@
 # Summary
 
 * [Preface](README.md)
-* User Accounts
 * [Chapter 1: Introduction](introduction.md)
    * [Background](system_background.md)
    * [OJS Features](ojs_features.md)
@@ -9,6 +8,7 @@
    * [Reader Interface](reader_interface.md)
    * [Community Contributions](community_contributions.md)
    * [Support](support.md)
+* User Accounts
 * [Chapter 2: Configuring an Installation](configuring_installation.md)
    * [Installation](installation.md)
        * [Components](components.md)
