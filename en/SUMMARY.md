@@ -20,7 +20,7 @@
 * [Chapter 4: Site Administration](site_administration.md)
    * [Site Management](site_management.md)
    * [Administrative Functions](administrative_functions.md)
-* [Chapter 5: Setting up a Journal](journal_setup.md)
+* [Chapter 5: Settings](journal_setup.md)
 * [Chapter 6: Authoring](authoring.md)
    * [Registering with the System](registering_author.md)
    * [Submitting an Article](submit_article.md)
