@@ -1,2 +1,2 @@
-# Chapter 7: Editorial Workflow
+# Chapter 10: Editorial Workflow
 
