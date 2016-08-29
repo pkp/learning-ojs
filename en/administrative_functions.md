@@ -1,7 +1,12 @@
 # Administrative Functions
 
+This section provides detailed information about the server on which your OJS installation is running.
+
+![](learning-ojs-3-ch4-site-admin1.png)
+
 ##System Information
-This section provides detailed information about your system.
+
+Use this section to find out details about the server running your installation.
 
 ![](learning-ojs-3-ch4-admin-functions-sys-info.png)
 
