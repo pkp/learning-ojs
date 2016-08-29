@@ -1,0 +1,2 @@
+# Registering with a Journal
+
