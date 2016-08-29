@@ -16,6 +16,7 @@
    * [Administrative Functions](administrative_functions.md)
 * [Chapter 3: User Accounts](user_accounts.md)
    * [Roles in OJS](roles_in_ojs.md)
+   * Registering with a Journal
 * [Chapter 3: Setting up a Journal](journal_setup.md)
 * [Chapter 4: Registering and Viewing Your Profile](registration.md)
 * [Chapter 5: Authoring (for Authors)](authoring.md)
