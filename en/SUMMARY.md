@@ -29,10 +29,10 @@
    * [Responding to a Copyediting Request](respond_copyedit.md)
    * [Responding to a Proofreading Request](respond_proofread.md)
 * [Chapter 7: Editorial Workflow](editorial_workflow.md)
+   * [Tasks](tasks.md)
    * [Submissions](submissions.md)
    * [Review](review.md)
    * [Copyediting](copyediting.md)
    * [Production](production.md)
-   * [Tasks](tasks.md)
 * [Chapter 8: Reviewing](reviewing.md)
 
