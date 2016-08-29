@@ -8,13 +8,13 @@
    * [Reader Interface](reader_interface.md)
    * [Community Contributions](community_contributions.md)
    * [Support](support.md)
-* User Accounts
 * [Chapter 2: Configuring an Installation](configuring_installation.md)
    * [Installation](installation.md)
        * [Components](components.md)
        * [Install Process](install_process.md)
    * [Site Management](site_management.md)
    * [Administrative Functions](administrative_functions.md)
+* User Accounts
 * [Chapter 3: Setting up a Journal](journal_setup.md)
 * [Chapter 4: Registering and Viewing Your Profile](registration.md)
 * [Chapter 5: Authoring (for Authors)](authoring.md)
