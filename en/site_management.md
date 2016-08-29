@@ -2,8 +2,10 @@
 
 To get to Site Management, login as the Site Administrator, and choose Administration from the left menu.
 
-![](learning-ojs-3-ch4-site-admin.png)
+![](learning-ojs-3-ch4-site-admin1.png)
 
+
+## Hosted Journals
 From here, choose Hosted Journals. One the resulting page, you will see all of the journals in this OJS installation. In the example, below, there is only one.
 
 ![](learning-ojs-3-ch4-hosted-journals.png)
@@ -29,6 +31,9 @@ Back on the Hosted Journals page, you can use the Create Journal link to add a n
 ![](learning-ojs-3-ch4-hosted-journals-create.png)
 
 >Note: If you do not want the new journal to be visible yet, uncheck the *Enable this journal to appear publicly on the site* box.
+
+## Site Settings
+
 
 Once you've created the journal, you may want to create a user account for the Journal Manager or Editor -- see Chapter XX for details.
 
