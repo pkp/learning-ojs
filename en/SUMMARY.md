@@ -33,5 +33,6 @@
    * [Review](review.md)
    * [Copyediting](copyediting.md)
    * [Production](production.md)
+   * Tasks
 * [Chapter 8: Reviewing](reviewing.md)
 
