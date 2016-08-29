@@ -18,6 +18,8 @@ The Journal Manager also enrolls the Editors, Section Editors, Copyeditors, Layo
 
 The Journal Manager also has access to the journal's other management features, and can create new Sections for the journal, set up Review Forms, edit the default Emails, manage the Reading Tools, view Statistics and Reports, and more.
 
+Many Journal Managers also enroll as Editors, allowing them to easily manage both the journal settings as well as submissions in the editorial workflow.
+
 
 > **Note**
 > 
@@ -28,7 +30,7 @@ See Chapter 5: Setting up a Journal for more details.
 
 ##Author
 
-Authors are able to submit manuscripts to the journal directly through the journal's website. The Author is asked to upload submission files and to provide metadata or indexing information. (The metadata improves the search capacity for research online and for the journal.) The Author can upload multiple files, in the form of data sets, research instruments, or source texts that will enrich the item, as well as contribute to more open and robust forms of research and scholarship. 
+Authors are able to submit manuscripts to the journal directly through the journal's website. The Author is asked to upload submission files and to provide metadata or indexing information (the metadata improves the search capacity for research online and for the journal). The Author can upload multiple files, in the form of data sets, research instruments, or source texts that will enrich the item, as well as contribute to more open and robust forms of research and scholarship. 
 
 The Author is able to track the submission through the review and editorial process — as well as participate in the copyediting and proofreading of submissions accepted for publication — by logging in to the journal's website.
 
@@ -43,6 +45,8 @@ In the editorial process, the Editor assigns submissions to the Section Editors 
 Once review is completed, the Editor typically sees the submission through the Editing process (including copyediting, production, and proofreading) although in some journals this remains the responsibility of the Section Editor in charge of the submission's review process. 
 
 The Editor also creates the journal issues, schedules submissions for publication, arranges the Table of Contents, and publishes the issue as part of the Publishing Process. The Editor can restore archived submissions to the active In Review or In Editing lists.
+
+Many Editors also enroll as Journal Managers, allowing them to easily manage both the editorial workflow as well as the journal settings.
 
 See Chapter 7: Editorial Workflow for more details.
 
