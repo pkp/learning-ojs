@@ -26,7 +26,7 @@
    * [Workflow Settings](workflow_settings.md)
    * [Distribution Settings](distribution_settings.md)
 * [Chapter 6: Issues](issues.md)
-   * Future Issues
+   * [Future Issues](future_issues.md)
    * Back Issues
 * [Chapter 7: Users and Roles](users_and_roles.md)
 * [Chapter 8: Tools](tools.md)
