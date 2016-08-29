@@ -1,4 +1,4 @@
-# Chapter 2: Installation
+# Installation
 
 Open Journal Systems (OJS) has been developed by the Public Knowledge Project.
 For general information about OJS and other open research systems, visit the
