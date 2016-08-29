@@ -36,5 +36,5 @@
    * [Copyediting](copyediting.md)
    * [Production](production.md)
 * [Chapter 8: Reviewing](reviewing.md)
-* [Users and Roles](users_and_roles.md)
+* [Chapter 7: Users and Roles](users_and_roles.md)
 
