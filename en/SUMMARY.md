@@ -3,6 +3,7 @@
 * [Preface](README.md)
 * [Chapter 1: Introduction](introduction.md)
    * [System Background](system_background.md)
+       * Reader Interface
    * [OJS Features](ojs_features.md)
    * [Support](support.md)
 * [Chapter 2: Configuring an Installation](configuring_installation.md)
