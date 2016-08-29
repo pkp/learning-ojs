@@ -21,6 +21,7 @@
    * [Site Management](site_management.md)
    * [Administrative Functions](administrative_functions.md)
 * [Chapter 5: Settings](journal_setup.md)
+   * Journal Settings
 * [Chapter 6: Issues](issues.md)
 * [Chapter 7: Users and Roles](users_and_roles.md)
 * [Chapter 8: Tools](tools.md)
