@@ -10,7 +10,6 @@
    * [Support](support.md)
 * [Chapter 2: Installing and Upgrading](installing_and_upgrading.md)
    * [Installation](installation.md)
-       * [Install Process](install_process.md)
        * [Upgrading](upgrading.md)
 * [Chapter 3: Site Administration](site_administration.md)
    * [Site Management](site_management.md)
