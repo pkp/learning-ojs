@@ -16,7 +16,7 @@
 * [Chapter 3: Site Administration](site_administration.md)
    * [Site Management](site_management.md)
    * [Administrative Functions](administrative_functions.md)
-* [Chapter 3: User Accounts](user_accounts.md)
+* [Chapter 4: User Accounts](user_accounts.md)
    * [Roles in OJS](roles_in_ojs.md)
    * [Registering with a Journal](registering_with_a_journal.md)
    * [Viewing and Changing your Profile](viewing_and_changing_your_profile.md)
