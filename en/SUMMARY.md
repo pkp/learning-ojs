@@ -32,6 +32,6 @@
 * [Chapter 7: Managing Submissions](managing_submissions.md)
    * [Submissions](submissions.md)
    * [Review](review.md)
-   * Copyediting
+   * [Copyediting](copyediting.md)
 * [Chapter 8: Reviewing](reviewing.md)
 
