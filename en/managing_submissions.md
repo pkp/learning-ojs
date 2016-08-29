@@ -1,2 +1,2 @@
-# Chapter 7: Managing Submissions
+# Chapter 7: Editorial Workflow
 
