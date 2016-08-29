@@ -29,6 +29,6 @@
    * [Re-submitting for Review](resubmit_review.md)
    * [Responding to a Copyediting Request](respond_copyedit.md)
    * [Responding to a Proofreading Request](respond_proofread.md)
-* [Chapter 6: Managing Submissions](managing_submissions.md)
+* [Chapter 7: Managing Submissions](managing_submissions.md)
 * [Chapter 7: Reviewing (for Reviewers)](reviewing.md)
 
