@@ -7,6 +7,7 @@
    * [Reader Interface](reader_interface.md)
    * [Community Contributions](community_contributions.md)
    * [Support](support.md)
+   * What's New in OJS 3
 * [Chapter 2: Configuring an Installation](configuring_installation.md)
    * [Installation](installation.md)
        * [Components](components.md)
