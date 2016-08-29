@@ -24,7 +24,7 @@
 * [Chapter 6: Issues](issues.md)
 * [Chapter 7: Users and Roles](users_and_roles.md)
 * [Chapter 8: Tools](tools.md)
-* [Chapter 6: Authoring](authoring.md)
+* [Chapter 9: Authoring](authoring.md)
    * [Registering with the System](registering_author.md)
    * [Submitting an Article](submit_article.md)
    * [Responding to a Review](responding_review.md)
