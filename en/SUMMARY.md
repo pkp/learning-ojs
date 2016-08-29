@@ -33,6 +33,7 @@
    * [Roles](roles.md)
    * [Site Access Options](site_access_options.md)
 * [Chapter 8: Tools](tools.md)
+   * Import/Export
 * [Chapter 9: Authoring](authoring.md)
    * [Registering with the System](registering_author.md)
    * [Submitting an Article](submit_article.md)
