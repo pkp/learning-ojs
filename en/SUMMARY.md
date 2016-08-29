@@ -35,4 +35,5 @@
    * [Copyediting](copyediting.md)
    * [Production](production.md)
 * [Chapter 8: Reviewing](reviewing.md)
+* Issues
 
