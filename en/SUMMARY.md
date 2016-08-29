@@ -21,7 +21,7 @@
    * [Site Management](site_management.md)
    * [Administrative Functions](administrative_functions.md)
 * [Chapter 5: Settings](journal_setup.md)
-   * Journal Settings
+   * [Journal Settings](journal_settings.md)
    * Website Settings
    * Workflow Settings
    * Distribution Settings
