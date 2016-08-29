@@ -5,3 +5,5 @@ By default, Open Journal Systems is installed with a very simple, functional use
 The following image is a screenshot of an OJS Demonstration Journal Table of Contents.
 
 [insert screenshot]
+
+Describe the different elements on the page.
