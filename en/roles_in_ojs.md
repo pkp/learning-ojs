@@ -2,7 +2,7 @@
 
 The OJS workflow revolves around different roles for different users, allowing them access to different parts of the workflow, and different permissions and responsibilities.
 
-Major roles include Site Administrator, Journal Manager, Editor, Section Editor, Reviewer, Copyeditor, Layout Editor, and Proofreader.
+Major roles include Site Administrator, Journal Manager, Editor, Section Editor, Reviewer, Copyeditor, Layout Editor, Proofreader, and Reader.
 
 OJS 3 also includes additional roles such as Translator and Designer. You can also create new roles or rename existing ones. More information on configuring roles is available in Chapter 5.
 
