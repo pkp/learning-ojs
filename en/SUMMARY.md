@@ -1,9 +1,9 @@
-# Table of Contents
+# Summary
 
 * [Preface](README.md)
 * [Chapter 1: Introduction](introduction.md)
    * [System Background](system_background.md)
-   * [Management Structure](management_structure.md)
+   * [OJS Features](management_structure.md)
    * [Support](support.md)
 * [Chapter 2: Configuring an Installation](configuring_installation.md)
    * [Installation](installation.md)
@@ -14,12 +14,12 @@
 * [Chapter 3: Setting up a Journal](journal_setup.md)
 * [Chapter 4: Registering and Viewing Your Profile](registration.md)
 * [Chapter 5: Authoring (for Authors)](authoring.md)
-  * [Registering with the System](registering_author.md)
-  * [Submitting an Article](submit_article.md)
-  * [Responding to a Review](responding_review.md)
-  * [Re-submitting for Review](resubmit_review.md)
-  * [Responding to a Copyediting Request](respond_copyedit.md)
-  * [Responding to a Proofreading Request](respond_proofread.md)
+   * [Registering with the System](registering_author.md)
+   * [Submitting an Article](submit_article.md)
+   * [Responding to a Review](responding_review.md)
+   * [Re-submitting for Review](resubmit_review.md)
+   * [Responding to a Copyediting Request](respond_copyedit.md)
+   * [Responding to a Proofreading Request](respond_proofread.md)
 * [Chapter 6: Managing Submissions](managing_submissions.md)
 * [Chapter 7: Reviewing (for Reviewers)](reviewing.md)
 
