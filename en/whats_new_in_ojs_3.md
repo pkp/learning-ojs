@@ -2,7 +2,7 @@
 
 **Editorial Discussions**
 
-To help track the communications that are a critical part of a submission’s workflow, we’ve built a new internal discussion feature for each editorial stage (Submission, Review, Copyediting, Production). Discussions work much like an online forum — a user creates a discussion topic, invites others to participate, and sends a message (including with attachments):
+To help track the communications that are a critical part of a submission’s workflow, OJS 3 has a new internal discussion feature for each editorial stage (Submission, Review, Copyediting, Production). Discussions work much like an online forum — a user creates a discussion topic, invites others to participate, and sends a message (including with attachments):
 
 ![](https://pkp.sfu.ca/wp-content/uploads/2016/08/shot1-300x75.png)
 
@@ -21,9 +21,7 @@ To increase editorial flexibility, you can easily move a submission from one sta
 
 ![](https://pkp.sfu.ca/wp-content/uploads/2016/08/shot3.png)
 
-You can also involve any users you wish within each stage. Your journal doesn’t involve the authors in proofreading? That’s just fine, don’t include them in the discussion.
-
-Our aim is to make OJS 3 flexible enough to fit just about any workflow. While we will continue to outline steps similar to what you currently see in OJS 2 in our documentation and online courses, you can easily follow your own path through the editorial workflow.
+You can also involve any users you wish within each stage. If your journal doesn’t involve the authors in proofreading, you can simply exclude them in the discussion.
 
 **Flexible Roles**
 
@@ -36,8 +34,6 @@ As well, if you want to create a new role, you can do that to. OJS 3 let’s you
 You can also set them to have similar permissions to existing roles, such as authors, reviewers, section editors, etc. For example, if you create a new Editor-in-Chief role, you could give that role access to all 4 editorial stages, and the same permissions as editors and journal managers (the ability to do anything with the journal settings and anything with submissions).
 
 ![](https://pkp.sfu.ca/wp-content/uploads/2016/08/shot5-300x233.png)
-
-As with the flexible workflow described above, our goal is to allow journals to use OJS 3 in ways that best meet their needs, without needing to do any software customization.
 
 **Flexible Task Access**
 
@@ -53,32 +49,28 @@ In OJS 2, authors can submit a single “main” file (typically the article man
 
 These can all be made available as part of the peer review process, as well as in the Copyediting and Production stages.
 
-Our aim here is to reduce the artificially imposed distinction between the article manuscript and any other files. For example, images of figures are central to the manuscript and should have the option of being treated as part of the main submission.
+The aim here is to reduce the artificially imposed distinction between the article manuscript and any other files. For example, images of figures are central to the manuscript and should have the option of being treated as part of the main submission.
 
 **Customizable Interface**
 
-In addition to making the workflow more customizable, we have also tried to make the user interface more flexible. In OJS 2, creating a new theme was often a challenge due to the extensive number of style sheets that needed to be modified. To reduce this burden, we have separated the style sheets and underlying templates for the administrative interface and the reader interface.
+In addition to making the workflow more customizable, we have also made the user interface more flexible. In OJS 2, creating a new theme was often a challenge due to the extensive number of style sheets that needed to be modified. To reduce this burden, we have separated the style sheets and underlying templates for the administrative interface and the reader interface.
 
 This brings two benefits: first, users who work with multiple OJS 3 journals (e.g., as an editor for one, an author for another, and reviewer for a third) will always have the same user experience in the administrative interface — it will always look the same on the inside; second, separating out the reader interface templates and style sheets means that they will be significantly smaller and easier to modify.
 
-We are hoping to see a wider range of themes develop for OJS 3, as these will be simpler to create and implement. Although OJS 3 will ship with only a basic theme, we are working with a graphic designer to develop some additional themes to share.
-
 **Bootstrap Theming**
 
-At our most recent sprint, work was done to allow you to easily upload an existing bootstrap theme to OJS 3. This is still a work in progress, but shows a great deal of promise for making your journal look unique and polished.
+OJS 3 allows you to upload bootstrap themes, making it easier for your journal to have a unique look.
 
 ![](https://pkp.sfu.ca/wp-content/uploads/2016/05/bootstrap-themes-300x198.gif)
 
 **Responsive Design**
 
-Lack of responsiveness (the ability of the journal’s web page to adjust to the reader’s screen size — from a phone to a desktop computer) was a major issue for OJS 2. As part of the theming enhancement described above, the OJS 3 reader interface will be fully responsive.
+Lack of responsiveness (the ability of the journal’s web page to adjust to the reader’s screen size — from a phone to a desktop computer) was a major issue for OJS 2. The OJS 3 reader interface is fully responsive.
 
 **Simpler Registration**
 
-One final change worth mentioning is the simplification of registration in OJS 3. We received much feedback that OJS 2 required too many fields, even if they were optional, and this often deterred prospective authors or reviewers from signing on.
+To ease registration for new users, we’ve prioritized a small set of required fields on a single screen (e.g., name, affiliation, email, etc.), and allow the registration to proceed once those few are completed.
 
 ![](https://pkp.sfu.ca/wp-content/uploads/2016/08/shot8-134x300.png)
-
-To help, we’ve prioritized a small set of required fields on a single screen (e.g., name, affiliation, email, etc.), and allow the registration to proceed once those few are completed.
 
 The new user can then proceed directly to make a submission or accept a review request. She has the option to fill in a more complete profile if she wishes, or can be asked by the editor to fill in details at a later point (such as upon acceptance of her submission).
