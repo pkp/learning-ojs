@@ -30,7 +30,7 @@
    * [Back Issues](back_issues.md)
 * [Chapter 7: Users and Roles](users_and_roles.md)
    * [Users](users.md)
-   * Roles
+   * [Roles](roles.md)
    * Site Access Options
 * [Chapter 8: Tools](tools.md)
 * [Chapter 9: Authoring](authoring.md)
