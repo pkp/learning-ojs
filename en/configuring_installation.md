@@ -1,3 +1,3 @@
-# Chapter 2: Installation
+# Chapter 2: Installing and Upgrading
 
-You configure out how to install OJS 3 with this chapter of the document. 
+How to install OJS 3 from scratch, or upgrade from 2.x.
