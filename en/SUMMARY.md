@@ -31,7 +31,7 @@
    * [Re-submitting for Review](resubmit_review.md)
    * [Responding to a Copyediting Request](respond_copyedit.md)
    * [Responding to a Proofreading Request](respond_proofread.md)
-* [Chapter 7: Editorial Workflow](editorial_workflow.md)
+* [Chapter 10: Editorial Workflow](editorial_workflow.md)
    * [Tasks](tasks.md)
    * [Submissions](submissions.md)
    * [Review](review.md)
