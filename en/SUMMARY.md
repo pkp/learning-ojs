@@ -21,6 +21,7 @@
    * [Site Management](site_management.md)
    * [Administrative Functions](administrative_functions.md)
 * [Chapter 5: Settings](journal_setup.md)
+* [Chapter 6: Issues](issues.md)
 * [Chapter 6: Authoring](authoring.md)
    * [Registering with the System](registering_author.md)
    * [Submitting an Article](submit_article.md)
@@ -35,5 +36,4 @@
    * [Copyediting](copyediting.md)
    * [Production](production.md)
 * [Chapter 8: Reviewing](reviewing.md)
-* [Chapter 6: Issues](issues.md)
 
