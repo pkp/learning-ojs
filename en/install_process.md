@@ -8,7 +8,7 @@ There are a number of components to a successful OJS install: downloading and un
 
 ## Download and unpack OJS Installation File
 
-All OJS downloads can be found at http://pkp.sfu.ca/ojs_download. Depending on your circumstances you will want to download either the most recent stable version (best for production systems) or the most recent development version (less stable but with more features). The install process is the same for both versions. In this example, we will use the development version, ojs-3.00.tar.gz.
+All OJS downloads can be found at http://pkp.sfu.ca/ojs_download. Depending on your circumstances you will want to download either the most recent stable version (best for production systems) or the most recent development version (less stable but with more features). The install process is the same for both versions. 
 
 Unpack the tar file, and move the unpacked contents to a web-accessible directory on your web server from which you want OJS to run. A common web-accessible directory is /var/www/html, which we will use for this example.
 
@@ -19,7 +19,7 @@ Unpack the tar file, and move the unpacked contents to a web-accessible director
 If you did not download the tar file directly to your web server, you can untar the tar file on your desktop and transfer its contents by FTP, or you can transfer the tar file by FTP to your web server directly and run the following command:
 
 ```
-tar xzf ./ojs-2.3.1-2.tar.gz
+tar xzf ./ojs-3.00.tar.gz
 ```
 
 This will extract the OJS files into the directory /var/www/html/ojs-3.00. You may want to change the name of the directory to something more user friendly, such as "ojs". At this point, you should be able to go to that directory on your server, (ie. point your browser to http://example.com/ojs/) and see the install screen.
@@ -30,10 +30,6 @@ This will extract the OJS files into the directory /var/www/html/ojs-3.00. You m
 You will need to create a directory for OJS to store its submission files in. This should not be in a web-accessible directory, as then it would be possible for private files to be accessed online (eg. by savvy users attempting to point directly to the file in question by typing http://www.example.com/files/journals/1/articles/1/submission/review/1-3-1-RV.doc into their browser). If, for example, you have placed the OJS application files in /var/www/html/ojs/, you will have to create this directory outside of /var/www/.
 
 You will then need to grant file permissions so that the web server can administer and write to the public/ and cache/ subdirectories of the OJS installation path, the files/ directory you just created, and the config.inc.php configuration file. The specifics of setting permissions will depend on your web server configuration, i.e. whether PHP scripts run SetUID. The install page will warn you if you don't have the appropriate permissions.
-
-Figure 13.2. OJS Install: Insufficient Permissions
-
-
 
 In the above example, config.inc.php isn't writable by the server (which is not strictly necessary for normal functioning, although it is for automatic installation), and neither is the cache/t_cache/ directory. Remember, all directories within cache/ must be writable by the server.
 
@@ -69,47 +65,24 @@ Point your web browser to your OJS installation directory. You will see an OJS I
 
 You must configure your site's locale settings: not only the locales available for your users, but also character set options. If possible, change the last two from the default (shown) to "Unicode (UTF-8)". Unless your database server is particularly old, you should not run into any problems setting these options to Unicode. This will ensure better multilingual support.
 
-Figure 13.3. OJS Install: Locale Settings
-
-
 You must then specify the location of the files/ directory you previously created.
-
-Figure 13.4. OJS Install: File Settings
 
 Next, choose your security settings. This configuration option specifies how system passwords are stored. SHA1 is more secure than MD5, so if your PHP version is 4.3.0 or above, choose the SHA1 option.
 
-Figure 13.5. OJS Install: Security Settings
-
 You must then specify a username, password and email for the Administrator Account. After a successful install, you will use this account to log in and configure new journals; but typically, this account will not be used for the day-to-day running of a journal.
-
-Figure 13.6. OJS Install: Administrator Account
 
 Next is the Database Settings section. You must fill in the proper database connection settings: choose the correct database driver for your system; specify the correct host (normally localhost, but this could be different depending on your setup); the username and password of the database user; and the database name that they will be connecting to. If you have not yet created the database, then ensure that the "Create new database" checkbox remains checked; however, this option will not work if your database user does not have sufficient permissions to create databases, in which case you should create the database beforehand.
 
-Figure 13.7. OJS Install: Database Settings
 
-
-OJS Install: Database Settings
+##OJS Install: Database Settings
 
 
 Then choose an appropriate OAI repository identifier (the default may be sufficient), and choose the Install Open Journal Systems option if your database user can write directly to the database; or Manual Install if you need to populate the database manually.
 
-Figure 13.8. OJS Install: Finalizing Installation
-
-
 If all goes well, you will then see a success screen.
-
-Figure 13.9. OJS Install: Success
-
 
 If your config.inc.php file wasn't writable by the server, you will be prompted to copy the contents of a text field and paste it to the default config.inc.php file on the server.
 
-Figure 13.10. OJS Install: Copy config.inc.php file
-
-
 If you chose to do a Manual Install, you will be prompted to copy a series of SQL statements, which must then be executed via your SQL server.
-
-Figure 13.11. OJS Install: Manual Installation
-
 
 
