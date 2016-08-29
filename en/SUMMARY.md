@@ -19,7 +19,7 @@
    * [Registering with a Journal](registering_with_a_journal.md)
    * [Viewing and Changing your Profile](viewing_and_changing_your_profile.md)
    * [Resetting your Password](resetting_your_password.md)
-* [Chapter 3: Setting up a Journal](journal_setup.md)
+* [Chapter 4: Setting up a Journal](journal_setup.md)
 * [Chapter 4: Registering and Viewing Your Profile](registration.md)
 * [Chapter 5: Authoring (for Authors)](authoring.md)
    * [Registering with the System](registering_author.md)
