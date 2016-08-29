@@ -11,6 +11,7 @@
 * [Chapter 2: Installing and Upgrading](installing_and_upgrading.md)
    * [Upgrading](upgrading.md)
    * [Installation](installation.md)
+   * test
 * [Chapter 3: Site Administration](site_administration.md)
    * [Site Management](site_management.md)
    * [Administrative Functions](administrative_functions.md)
