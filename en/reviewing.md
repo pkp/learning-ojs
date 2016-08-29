@@ -1,4 +1,4 @@
-#Chapter 8: Reviewing
+#Chapter 11: Reviewing
 
 As a reviewer, you will learn of the review request via email or by checking your dashboard:
 
