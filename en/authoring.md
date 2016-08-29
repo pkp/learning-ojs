@@ -1,3 +1,3 @@
-# Chapter 5: Authoring (For Authors!)
+# Chapter 6: Authoring (For Authors!)
 
 In this chapter, you will learn about how an author works in OJS.
