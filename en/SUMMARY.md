@@ -31,6 +31,6 @@
    * [Responding to a Proofreading Request](respond_proofread.md)
 * [Chapter 7: Managing Submissions](managing_submissions.md)
    * [Submissions](submissions.md)
-   * Review
+   * [Review](review.md)
 * [Chapter 8: Reviewing](reviewing.md)
 
