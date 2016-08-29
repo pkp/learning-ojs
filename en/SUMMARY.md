@@ -22,7 +22,7 @@
    * [Administrative Functions](administrative_functions.md)
 * [Chapter 5: Settings](journal_setup.md)
    * [Journal Settings](journal_settings.md)
-   * Website Settings
+   * [Website Settings](website_settings.md)
    * Workflow Settings
    * Distribution Settings
 * [Chapter 6: Issues](issues.md)
