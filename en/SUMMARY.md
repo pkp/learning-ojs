@@ -11,7 +11,7 @@
 * [Chapter 2: Installing and Upgrading](installing_and_upgrading.md)
    * [Installation](installation.md)
    * [Upgrading](upgrading.md)
-* [Chapter 4: User Accounts](user_accounts.md)
+* [Chapter 3: User Accounts](user_accounts.md)
    * [Roles in OJS](roles_in_ojs.md)
    * [Registering with a Journal](registering_with_a_journal.md)
    * [Viewing and Changing your Profile](viewing_and_changing_your_profile.md)
