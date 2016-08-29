@@ -1,6 +1,8 @@
 # Summary
 
 * [Preface](README.md)
+* [Reader Interface](reader_interface.md)
+   * Editorial Interface
 * [Chapter 1: Introduction](introduction.md)
    * [Background](system_background.md)
    * [OJS Features](ojs_features.md)
