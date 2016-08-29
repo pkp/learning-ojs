@@ -29,7 +29,7 @@
    * [Future Issues](future_issues.md)
    * [Back Issues](back_issues.md)
 * [Chapter 7: Users and Roles](users_and_roles.md)
-   * Users
+   * [Users](users.md)
    * Roles
    * Site Access Options
 * [Chapter 8: Tools](tools.md)
