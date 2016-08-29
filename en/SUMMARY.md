@@ -1,6 +1,7 @@
 # Summary
 
 * [Preface](README.md)
+   * Site Administration
 * [Chapter 1: Introduction](introduction.md)
    * [Background](system_background.md)
    * [OJS Features](ojs_features.md)
