@@ -17,7 +17,7 @@
 * [Chapter 3: User Accounts](user_accounts.md)
    * [Roles in OJS](roles_in_ojs.md)
    * [Registering with a Journal](registering_with_a_journal.md)
-   * Viewing and Changing your Profile
+   * [Viewing and Changing your Profile](viewing_and_changing_your_profile.md)
 * [Chapter 3: Setting up a Journal](journal_setup.md)
 * [Chapter 4: Registering and Viewing Your Profile](registration.md)
 * [Chapter 5: Authoring (for Authors)](authoring.md)
