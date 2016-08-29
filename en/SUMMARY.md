@@ -31,6 +31,7 @@
 * [Chapter 7: Users and Roles](users_and_roles.md)
    * Users
    * Roles
+   * Site Access Options
 * [Chapter 8: Tools](tools.md)
 * [Chapter 9: Authoring](authoring.md)
    * [Registering with the System](registering_author.md)
