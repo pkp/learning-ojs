@@ -1,6 +1,6 @@
-# Editorial Interface
+# Editorial Interface aka the Dashboard
 
-OJS 3 now has a separate interface once you log into the editorial system. This makes it easier to customize the reader interface, but also provides OJS users of different journals a consistent experience.
+OJS 3 now has a separate interface once you log into the editorial system. This not only makes it easier to customize the reader interface, but also provides OJS users of different journals a consistent experience.
 
 ![](learning-ojs-3-ch1-ed-interface1.png)
 
