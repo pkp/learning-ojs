@@ -10,8 +10,8 @@
    * [Support](support.md)
 * [Chapter 2: Installing and Upgrading](installing_and_upgrading.md)
    * test
+   * [Upgrading](upgrading.md)
    * [Installation](installation.md)
-* [Upgrading](upgrading.md)
 * [Chapter 3: Site Administration](site_administration.md)
    * [Site Management](site_management.md)
    * [Administrative Functions](administrative_functions.md)
