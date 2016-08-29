@@ -24,5 +24,11 @@ To edit the existing journal, click on the blue arrow to the left of the journal
 
 ![](learning-ojs-3-ch4-hosted-journals-settings-wiz.png)
 
+Back on the Hosted Journals page, you can use the Create Journal link to add a new journal to this OJS installation. From the resulting form, fill in the fields with the new information.
 
+![](learning-ojs-3-ch4-hosted-journals-create.png)
+
+>Note: If you do not want the new journal to be visible yet, uncheck the *Enable this journal to appear publicly on the site* box.
+
+Once you've created the journal, you may want to create a user account for the Journal Manager or Editor -- see Chapter XX for details.
 
