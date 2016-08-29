@@ -12,6 +12,7 @@
    * [Installation](installation.md)
        * [Components](components.md)
        * [Install Process](install_process.md)
+       * Upgrading
    * [Site Management](site_management.md)
    * [Administrative Functions](administrative_functions.md)
 * [Chapter 3: User Accounts](user_accounts.md)
