@@ -2,7 +2,7 @@
 
 * [Preface](README.md)
 * [Chapter 1: Introduction](introduction.md)
-   * [System Background](system_background.md)
+   * [Background](system_background.md)
    * [OJS Features](ojs_features.md)
    * [Reader Interface](reader_interface.md)
    * [Support](support.md)
