@@ -6,6 +6,7 @@
    * [OJS Features](ojs_features.md)
    * [Reader Interface](reader_interface.md)
    * [Support](support.md)
+   * Community Contributions
 * [Chapter 2: Configuring an Installation](configuring_installation.md)
    * [Installation](installation.md)
        * [Components](components.md)
