@@ -1,14 +1,12 @@
 # Summary
 
 * [Preface](README.md)
-* [Reader Interface](reader_interface.md)
-   * Editorial Interface
 * [Chapter 1: Introduction](introduction.md)
    * [Background](system_background.md)
-   * [OJS Features](ojs_features.md)
-   * [What's New in OJS 3](whats_new_in_ojs_3.md)
    * [Reader Interface](reader_interface.md)
        * Editorial Interface
+   * [OJS Features](ojs_features.md)
+   * [What's New in OJS 3](whats_new_in_ojs_3.md)
    * [Community Contributions](community_contributions.md)
    * [Support](support.md)
 * [Chapter 2: Installing and Upgrading](installing_and_upgrading.md)
