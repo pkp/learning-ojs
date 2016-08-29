@@ -4,4 +4,4 @@ To view and edit your profile, log in and click your Username link from the uppe
 
 ![](learning-ojs-3-ch3-view-profile.png)
 
-From here, you can update your personal details, contact information, change your roles, add a personal image (which some journals may publish along with your article or on a list of editors), determine your notification settings, or update your password.
+From here, by choosing the different tabs, you can update your personal details, contact information, change your roles, add a personal image (which some journals may publish along with your article or on a list of editors), determine your notification settings, or update your password.
