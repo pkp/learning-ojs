@@ -2,7 +2,7 @@
 
 OJS 3 now has a separate interface once you log into the editorial system. This makes it easier to customize the reader interface, but also provides OJS users of different journals a consistent experience.
 
-
+![](https://www.gitbook.com/book/pkp/ojs3/edit#/edit/master/en/images/learning-ojs-3-ch1-ed-interface.png)
 
 The editorial interface is known as your **dashboard** and consists of the following elements:
 
