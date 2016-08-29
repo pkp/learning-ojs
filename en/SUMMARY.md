@@ -37,5 +37,5 @@
    * [Review](review.md)
    * [Copyediting](copyediting.md)
    * [Production](production.md)
-* [Chapter 8: Reviewing](reviewing.md)
+* [Chapter 11: Reviewing](reviewing.md)
 
