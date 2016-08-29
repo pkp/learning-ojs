@@ -8,3 +8,4 @@ OJS includes the following features:
 5. Responsive, themable reader interface
 6. Email notification for readers
 7. Complete context-sensitive online Help support
+8. Multilingual support
