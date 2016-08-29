@@ -20,10 +20,8 @@ The Journal Manager also has access to the journal's other management features, 
 
 
 > **Note**
-
+> 
 > Although the Journal Manager is a peer-journal role, journal managers should generally be considered system-wide trusted users, as they have the ability to assume the identities of other users who may be enrolled in other journals.
 > 
-
-
 
 See Chapter 5: Setting up a Journal for more details.
