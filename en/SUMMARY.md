@@ -23,7 +23,7 @@
 * [Chapter 5: Settings](journal_setup.md)
    * [Journal Settings](journal_settings.md)
    * [Website Settings](website_settings.md)
-   * Workflow Settings
+   * [Workflow Settings](workflow_settings.md)
    * Distribution Settings
 * [Chapter 6: Issues](issues.md)
 * [Chapter 7: Users and Roles](users_and_roles.md)
