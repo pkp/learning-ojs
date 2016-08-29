@@ -33,6 +33,6 @@
    * [Submissions](submissions.md)
    * [Review](review.md)
    * [Copyediting](copyediting.md)
-   * Production
+   * [Production](production.md)
 * [Chapter 8: Reviewing](reviewing.md)
 
