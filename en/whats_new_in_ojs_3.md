@@ -1,10 +1,10 @@
 # What's New in OJS 3
 
-OJS 3 is significantly different than its predecessor OJS 2, and includes enhancements and new features developed from community feedback, usability testing, and new software design capabilities.
+OJS 3 is significantly different than its predecessor, OJS 2. It includes enhancements and new features developed from community feedback, extensive usability testing, and new software design capabilities.
 
 **Editorial Discussions**
 
-To help track the communications that are a critical part of a submission’s workflow, OJS 3 has a new internal discussion feature for each editorial stage (Submission, Review, Copyediting, Production). Discussions work much like an online forum — a user creates a discussion topic, invites others to participate, and sends a message (including with attachments):
+To help track the communications that are a critical part of a submission's workflow, OJS 3 has a new internal discussion feature for each editorial stage (Submission, Review, Copyediting, Production). Discussions work much like an online forum — a user creates a discussion topic, invites others to participate, and sends a message (including with attachments):
 
 ![](https://pkp.sfu.ca/wp-content/uploads/2016/08/shot1-300x75.png)
 
