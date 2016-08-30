@@ -33,7 +33,7 @@ As well, if you want to create a new role, you can do that to. OJS 3 let’s you
 
 ![](https://pkp.sfu.ca/wp-content/uploads/2016/08/shot4-300x121.png)
 
-You can also set them to have similar permissions to existing roles, such as authors, reviewers, section editors, etc. For example, if you create a new Editor-in-Chief role, you could give that role access to all 4 editorial stages, and the same permissions as editors and journal managers (the ability to do anything with the journal settings and anything with submissions).
+You can also configure custom roles to have similar permissions to existing roles, such as authors, reviewers, section editors, etc. For example, if you create a new Editor-in-Chief role, you could give that role access to all 4 editorial stages, and the same permissions as editors and journal managers (the ability to do anything with the journal settings and anything with submissions).
 
 ![](https://pkp.sfu.ca/wp-content/uploads/2016/08/shot5-300x233.png)
 
