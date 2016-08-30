@@ -48,7 +48,7 @@ The Editor also creates the journal issues, schedules submissions for publicatio
 
 Many Editors also enroll as Journal Managers, allowing them to easily manage both the editorial workflow as well as the journal settings.
 
-See Chapter 7: Editorial Workflow for more details.
+See Chapter 10: Editorial Workflow for more details.
 
 ##Section Editor
 
