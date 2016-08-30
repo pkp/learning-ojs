@@ -122,3 +122,14 @@ Use the Publisher Library to store important documents, such as your journal's M
 
 ![](learning-ojs-3-settings-workflow-settings-pub-library2.png)
 
+##Emails
+
+The section allows you to configure the emails that are sent out from the system.
+
+![](learning-ojs-3-settings-workflow-settings-emails.png)
+
+**Signature**: The information in this field will be added to the bottom of every email sent out by the system.
+
+**Bounce Address**: A notice will be sent to this email address of any system-sent emails that fail to deliver, such as when the targeted email address is no longer valid.
+
+**Prepared Email Tempates**: Pre-written emails are an important part of OJS. You see all of them here, and use the Edit link (as always, found by selecting the blue arrow to the left of the template name) to make any modifications.
