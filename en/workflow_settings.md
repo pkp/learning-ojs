@@ -39,4 +39,5 @@ Use this section to configure the submission process.
 
 **Notification of Author Submission**: Add an email address here to be contacted whenever there is a new submission.
 
-**Submission Metadata**: 
+**Submission Metadata**: This section allows you to determine which metadata fields to use for your journal.
+
