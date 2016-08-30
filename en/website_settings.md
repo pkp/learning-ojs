@@ -25,7 +25,7 @@ The Website Settings allow you to configure how your journal's website looks and
 **Journal thumbnail**: Upload a small logo or image representative of the journal that will be used in lists of journals on this OJS installation. This will only be used on OJS installations with multiple journals.
 
 
-Hit Save to record your changes.
+Hit **Save** to record your changes.
 
 
 
