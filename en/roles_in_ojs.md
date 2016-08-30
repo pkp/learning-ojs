@@ -56,7 +56,7 @@ The Section Editor manages the review and editing of submissions to which they h
 
 Often, however, Section Editors only work with the review process, and an Editor, acting in the role of Section Editor, sees the submissions through the Editing process. The journal will have a policy on how the tasks are divided.
 
-See Chapter 7: Editorial Workflow for more details.
+See [Chapter 10: Editorial Workflow](/en/editorial_workflow.md) for more details.
 
 ##Reviewer
 
@@ -70,7 +70,7 @@ The Copyeditor edits submissions to improve grammar and clarity, works with auth
 
 Some journals have an Editor or Section Editor play this role.
 
-See Chapter 7: Editorial Workflow for more details.
+See [Chapter 10: Editorial Workflow](/en/editorial_workflow.md) for more details.
 
 ##Layout Editor
 
@@ -83,7 +83,7 @@ The Layout Editor transforms the copyedited versions of the submission into gall
 
 In some cases, the Editor or Section Editor will also serve as Layout Editor.
 
-See Chapter 7: Editorial Workflow for more details.
+See [Chapter 10: Editorial Workflow](/en/editorial_workflow.md) for more details.
 
 ##Proofreader
 
