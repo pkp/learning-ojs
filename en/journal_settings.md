@@ -47,6 +47,38 @@ Hit the **Save** button to save your changes.
 
 ##Sections
 
+Use this page to configure the different sections of your journal. E.g., Articles, Editorials, Reviews, Commentary, etc.
 
+All of your existing sections will appear here. OJS requires at least one section, and creates an "Articles" section by default.
 
+![](learning-ojs-3-settings-website-settings-sections.png)
 
+You can modify sections by clicking on the blue arrow to the left of the section name. This will reveal options to edit or delete the section.
+
+###Editing a Section
+
+Selecting the edit link will open a new window with different configuration options.
+
+![](learning-ojs-3-settings-website-settings-sections-edit-1.png)
+
+From here, you can change the name or abbreviation of the section.
+
+**Section Policy**: Use this field to add important details such as submission requirements, peer review, etc.
+
+**Word Count**: Use this to limit the number of words for abstracts in this section.
+
+**Review Form**: You can select specific review forms for each section. Learn more about Review Forms here.
+
+**Indexing**: Each section can have different indexing settings. For example, an Editorial section will not typically be peer-reviewed.
+
+**Identify items published in this section as a(n)**: This used by some indexing systems. Note that it is not a required field.
+
+Hit the **Save** button to save your changes and return to the Sections page.
+
+###Create Section
+
+From the sections page, select the Create Section link to open a blank window, exactly the same as the window used for editing a section described above.
+
+![](learning-ojs-3-settings-website-settings-sections-create.png)
+
+Fill in the details and hit Save to record your work.
