@@ -37,6 +37,11 @@ Use this section to add journal contacts.
 ![](learning-ojs-3-settings-website-settings-contact.png)
 
 
+**Mailing Address**: Add your journal's official mailing address here. This will appear on the journal's Contact page.
+
+**Principal Contact**: Add contact information for the journal's main contact person.
+
+**Technical Support Contact**: Add contact information for the journal's technical support person. This information will appear on the journal's Contact page and also in different points in the workflow to offer assistance to users.
 
 
 
