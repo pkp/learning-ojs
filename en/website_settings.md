@@ -1,8 +1,10 @@
 # Website Settings
 
-The Website Settings allow you to configure how your journal's website looks and operates.
+The Website Settings allow you to configure how your journal's website looks and operates. It consists of tabs for Appearance, Information, Archiving, Languages, Plugins, and Announcements.
 
 ![](learning-ojs-3-settings-website-settings-1.png)
+
+##Appearance
 
 **Logo**: Use this space to upload a journal logo to the upper left corner of your reader interface.
 
@@ -24,9 +26,9 @@ The Website Settings allow you to configure how your journal's website looks and
 
 **Journal thumbnail**: Upload a small logo or image representative of the journal that will be used in lists of journals on this OJS installation. This will only be used on OJS installations with multiple journals.
 
-
 Hit **Save** to record your changes.
 
 
+##Information
 
 
