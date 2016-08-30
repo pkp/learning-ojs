@@ -26,7 +26,7 @@ Many Journal Managers also enroll as Editors, allowing them to easily manage bot
 > Although the Journal Manager is a journal-specific role, journal managers should generally be considered system-wide trusted users, as they have the ability to assume the identities of other users who may be enrolled in other journals.
 > 
 
-See Chapter 5: Setting up a Journal for more details.
+See [Chapter 5: Setting up a Journal](/en/journal_setup.md) for more details.
 
 ##Author
 
