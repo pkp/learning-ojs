@@ -36,3 +36,28 @@ This opens the options to Email, Edit User, Disable, Remove, Login As, Merge Use
 > **Note**: This is the only way to completely delete an account from the system.
 
 You may want to create a dummy user account (e.g., Deleted Users), and use that to merge unwanted accounts into.
+
+###Search
+
+When you have a large number of users, you will want to take advantage of the search feature.
+
+![](learning-ojs-3-users-search.png)
+
+This can help you quickly find a user when you know a first name, a last name, or some other piece of information.
+
+**Note**: If you leave the Search field blank, select a Role, and hit Search, you will get a list of all users in that role (e.g., all copyeditors).
+
+![](learning-ojs-3-users-search-roles.png)
+
+###Add User
+
+To add a new user to your journal, select the Add User link. This will open a new window with a set of fields to fill in.
+
+![](learning-ojs-3-users-add-new.png)
+
+Once these fields are completed and you hit *Save*, you will then be asked to assign roles to the new account. Use the *Add Role* link to open the role selector.
+
+![](learning-ojs-3-users-add-new-roles1.png)
+
+Once you have added all of the roles, hit the **Save** button.
+
