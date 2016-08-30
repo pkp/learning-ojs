@@ -72,3 +72,13 @@ You will notice that some plugins are required for the system and cannot be disa
 ###Plugin Gallery
 
 The Plugin Gallery will eventually provide access to external plugins, not included in your OJS installation, but available for download and activation.
+
+##Announcements
+
+This section allows you to create and display news announcements on the journal's website.
+
+**Announcements**: Configure how announcements will appear on your journal website.
+
+**Announcement Types**: You can create different types of announcements (e.g., News, New Issue Alert, etc.). Use the *Add Annoucment Type* link to create them.
+
+**Annoucements**: Use the *Add Annoucement* link to create a new announcement for your Announcements page.
