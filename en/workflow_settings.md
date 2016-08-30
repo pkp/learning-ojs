@@ -118,7 +118,7 @@ Hit the **Save** button to record your changes.
 
 ##Publisher Library
 
-Use the Publisher Library to store important documents and share them with your editorial team.
+Use the Publisher Library to store important documents, such as your journal's Marketing Plan, and share them with your editorial team.
 
-![](learning-ojs-3-settings-workflow-settings-pub-library.png)
+![](learning-ojs-3-settings-workflow-settings-pub-library2.png)
 
