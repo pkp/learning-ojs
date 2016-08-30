@@ -55,3 +55,42 @@ Remember to hit the **Save** button to record any changes to this page.
 
 ##Review
 
+This tab allows you to configure your journal's review process.
+
+![](learning-ojs-3-settings-workflow-settings-review.png)
+
+**Default Review Deadlines**: Indicate how long reviewers have to decide to accept or decline a review request from the editor, and how long they have to make a recommendation.
+
+**Automated Email Reminders**: Set automatic reminder email messages to be sent to late reviewers. Note that some system settings must be configured by the Site Administrator.
+
+**Review Forms**: Review forms provide reviewers with a set of questions to respond to. This can help focus their feedback in ways that is more useful to you.
+
+###Create Review Form
+Use the Create Review Form link to make a new form.
+
+![](learning-ojs-3-settings-workflow-settings-review-create.png)
+
+Back at the Review Forms page, select the blue arrow to the left of the form name to reveal the Edit link.
+
+![](learning-ojs-3-settings-workflow-settings-review-edit1.png)
+
+Select the Edit link and complete the form.
+
+![](learning-ojs-3-settings-workflow-settings-review-create-items.png)
+
+**Items** are form questions.
+
+You can choose whether to make the question required and visible to the author.
+
+You can then choose the type of response, including:
+
+* a single word text box
+* a single line text box
+* an extended text box (for longer answers)
+* checkboxes (where the reviewer can select multiple possible reponses)
+* radio buttons (where the reviewer can only select one possible answer)
+* dropdown menu (also where reviewers can only select one possible answer)
+
+**Response Options** are the selections you make available for the checkboxes, radio buttons, or dropdown menus. A good example of a checkbox response is a [Likert scale](https://en.wikipedia.org/wiki/Likert_scale), where the reviewer must choose only one option: E.g., Good, Neutral, Bad.
+
+
