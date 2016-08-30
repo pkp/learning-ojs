@@ -2,6 +2,8 @@
 
 Journal Settings include details about the journal, the masthead, contacts, and sections.
 
+Use the tabs to navigate to the different sections of Journal Settings: Masthead, Contact, Sections.
+
 ![](learning-ojs-3-settings-journal-settings-1.png)
 
 ##Masthead
@@ -30,7 +32,9 @@ Hit the **Save** button to save your changes.
 
 ##Contact
 
+Use this section to add journal contacts.
 
+![](learning-ojs-3-settings-website-settings-contact.png)
 
 
 
