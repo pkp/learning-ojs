@@ -118,4 +118,7 @@ Hit the **Save** button to record your changes.
 
 ##Publisher Library
 
+Use the Publisher Library to store important documents and share them with your editorial team.
+
+![](learning-ojs-3-settings-workflow-settings-pub-library.png)
 
