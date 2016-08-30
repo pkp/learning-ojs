@@ -82,3 +82,10 @@ From the sections page, select the Create Section link to open a blank window, e
 ![](learning-ojs-3-settings-website-settings-sections-create.png)
 
 Fill in the details and hit Save to record your work.
+
+###Ordering Sections
+When you have more than one section created, you will see an Order link. Use that to reorder how those sections display on your journal website.
+
+![](learning-ojs-3-settings-website-settings-sections-ordering.png)
+
+Hit the Done button when you are finished.
