@@ -20,7 +20,11 @@ OJS journals will typically have an online ISSN, but some may also publish a pri
 
 **Masthead** allows you to add the names of your editorial team or anyone else you wish to mention. This will appear on the public website under About > Editorial Team.
 
+**About the Journal** is a space to add any information about your journal which may be of interest to readers, authors, or reviewers. 
 
+This could include your open access policy, the focus and scope of the journal, copyright notice, sponsorship disclosure, history of the journal, a privacy statement, and inclusion in any LOCKSS or CLOCKSS archival system.
+
+Hit the **Save** button to save your changes.
 
 
 
