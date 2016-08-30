@@ -31,4 +31,8 @@ Hit **Save** to record your changes.
 
 ##Information
 
+Use these fields to modify the text in the For Readers, For Authors, For Librarians pages on the journal website.
 
+![](learning-ojs-3-settings-website-settings-information.png)
+
+Remember to hit **Save** to record any changes.
