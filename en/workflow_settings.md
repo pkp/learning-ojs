@@ -65,8 +65,7 @@ This tab allows you to configure your journal's review process.
 
 **Review Forms**: Review forms provide reviewers with a set of questions to respond to. This can help focus their feedback in ways that is more useful to you.
 
-###Create Review Form
-Use the Create Review Form link to make a new form.
+**Create Review Form**: Use the Create Review Form link to make a new form.
 
 ![](learning-ojs-3-settings-workflow-settings-review-create.png)
 
@@ -92,5 +91,31 @@ You can then choose the type of response, including:
 * dropdown menu (also where reviewers can only select one possible answer)
 
 **Response Options** are the selections you make available for the checkboxes, radio buttons, or dropdown menus. A good example of a checkbox response is a [Likert scale](https://en.wikipedia.org/wiki/Likert_scale), where the reviewer must choose only one option: E.g., Good, Neutral, Bad.
+
+Remember to hit the **Save** button to record your changes.
+
+Use the **Preview** tab to test out the form.
+
+![](learning-ojs-3-settings-workflow-settings-review-preview.png)
+
+**Blind Review**: Check this box to display a link for instructions on ensuring all submission files are anonymized.
+
+![](learning-ojs-3-settings-workflow-settings-review2.png)
+
+**Competing Interests**: Add your competing interest disclosure policy statement here.
+
+**Reviewer Competing Interest statement**: Add a checkbox that reviewers agree to comply with your competing interest statement.
+
+**Review Guidelines** Provide your reviewers with criteria for judging a submission's suitability for publication in the press, which may include instructions for preparing an effective and helpful review.
+
+**Review Options**: Select whether your journal will follow an double blind, blind, or open review process.
+
+**Reviewer Access**: Enable the first option to provide reviewers with one-click access to the review, by-passing the need to go to the website, login, and find the submission. For security reasons with this option, editors are not able to modify email addresses or add CCs or BCCs prior to sending invitations to reviewers.
+
+Enabling the second option will limit access to submission files until after the reviewer has agreed to do the review.
+
+Hit the **Save** button to record your changes.
+
+##Publisher Library
 
 
