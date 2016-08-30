@@ -41,3 +41,17 @@ Use this section to configure the submission process.
 
 **Submission Metadata**: This section allows you to determine which metadata fields to use for your journal.
 
+![](learning-ojs-3-settings-workflow-settings-submission-submission-metadata.png)
+
+Each entry is a different metadata type available for every article in your journal. 
+
+Some journals may want to activate all of them, but many will wish to keep it simple and just choose Keywords.
+
+If you choose *Enabled*, that metadata type will be added to your submissions for completion by an editor. 
+
+If you choose *Submission Form*, that metadata type will also be presented to your authors for them to fill in during their submission.
+
+Remember to hit the **Save** button to record any changes to this page.
+
+##Review
+
