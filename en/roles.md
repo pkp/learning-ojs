@@ -29,4 +29,7 @@ Selecting the blue arrow to the left of the role name reveals the edit link. Cli
 
 **Role Options**: Use these checkboxes to show anyone with this role in the contributor list (e.g., the author list) as well as whether users can self-register in this role. Authors and Reviewers are good candidates for self-registration. You would definitely NOT want to allow users to self-register as Journal Managers or Editors!
 
+###Create New Roles
+Use the *Create New Roles* link to open a window where you can create a new role for your journal, including setting which stages it can access and how much permission it should have.
+
 
