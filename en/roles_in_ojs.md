@@ -91,7 +91,7 @@ The Proofreader carefully reads over the galleys in the various formats in which
 
 In the case of some journals, the Editor or Section Editor will also serve as Proofreader.
 
-See Chapter 7: Editorial Workflow for more details.
+See [Chapter 10: Editorial Workflow](/en/editorial_workflow.md) for more details.
 
 ##Reader
 
