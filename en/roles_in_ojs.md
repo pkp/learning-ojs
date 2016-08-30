@@ -9,7 +9,7 @@ OJS 3 also includes additional roles such as Translator and Designer. You can al
 ## Site Administrator
 The Site Administrator is responsible for the overall OJS installation, ensuring the server settings are accurate, adding language files, and creating any new journals on the installation. The Site Administrator account is created as part of the installation process. Unlike all other OJS roles, there can only be one Site Administrator.
 
-See Chapter 4: Site Administration for more details.
+See [Chapter 4: Site Administration](/en/site_administration.md) for more details.
 
 ## Journal Manager
 The Journal Manager is responsible for setting up the journal web site, configuring the system options, and managing the user accounts. This does not involve any advanced technical skills, but entails filling out web-based forms and uploading files. 
