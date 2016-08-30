@@ -43,7 +43,9 @@ Use this section to add journal contacts.
 
 **Technical Support Contact**: Add contact information for the journal's technical support person. This information will appear on the journal's Contact page and also in different points in the workflow to offer assistance to users.
 
+Hit the **Save** button to save your changes.
 
+##Sections
 
 
 
