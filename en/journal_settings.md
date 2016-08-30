@@ -28,6 +28,10 @@ This could include your open access policy, the focus and scope of the journal, 
 
 Hit the **Save** button to save your changes.
 
+##Contact
+
+
+
 
 
 
