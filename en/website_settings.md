@@ -36,3 +36,39 @@ Use these fields to modify the text in the For Readers, For Authors, For Librari
 ![](learning-ojs-3-settings-website-settings-information.png)
 
 Remember to hit **Save** to record any changes.
+
+##Archiving
+If you are a member of a LOCKSS or CLOCKSS network, use this page to activate your journal.
+
+![](learning-ojs-3-settings-website-settings-archiving.png)
+
+##Languages
+Use this page to configure the languages used by your journal.
+
+![](learning-ojs-3-settings-website-settings-languages.png)
+
+**Primary Locale**: One language must be set as primary.
+
+**UI**: This will enable all selected languages to appear on the reader interface.
+
+**Submission**: This will enable all selected languages to be available to submitting authors.
+
+**Forms**: This will enable all selected languages to be available when filling in online forms.
+
+If a language is unavailable on this page, contact the Site Administrator to add it for you. See Site Administration for details.
+
+##Plugins
+
+Use this page to see all of the installed plugins and find new plugins.
+
+###Installed Plugins
+
+All of the plugins listed here are available in your OJS installation. Use the Enable link to use them.
+
+![](learning-ojs-3-settings-website-settings-plugins-installed.png)
+
+You will notice that some plugins are required for the system and cannot be disabled.
+
+###Plugin Gallery
+
+The Plugin Gallery will eventually provide access to external plugins, not included in your OJS installation, but available for download and activation.
