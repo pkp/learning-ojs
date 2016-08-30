@@ -24,3 +24,19 @@ You can also edit each component by selecting the blue arrow to the left of the 
 **Options**: Choose how the files associated with this component will be treated and displayed.
 
 **File Type Grouping**: Determine whether this component is associated with the submission document, artwork, or is a supplementary file.
+
+##Submission
+
+Use this section to configure the submission process.
+
+![](learning-ojs-3-settings-workflow-settings-submission.png)
+
+**Author Guidelines**: Use this field to add guidelines for your authors. This information will be displayed on the journal website.
+
+**Submission Preparation Checklist**: Authors must check off that they agree with each item on this list. Use the *Order* link to change the order of the items, use the *Add Item* link to create a new item, and use the blue arrow to the left of the item name to *Edit* an exiting item.
+
+![](learning-ojs-3-settings-workflow-settings-components-edit-item-edit.png)
+
+**Notification of Author Submission**: Add an email address here to be contacted whenever there is a new submission.
+
+**Submission Metadata**: 
