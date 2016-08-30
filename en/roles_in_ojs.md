@@ -34,7 +34,7 @@ Authors are able to submit manuscripts to the journal directly through the journ
 
 The Author is able to track the submission through the review and editorial process — as well as participate in the copyediting and proofreading of submissions accepted for publication — by logging in to the journal's website.
 
-See Chapter 9: Authoring for more details.
+See [Chapter 9: Authoring](/en/authoring.md) for more details.
 
 ##Editor
 
