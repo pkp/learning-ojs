@@ -67,7 +67,7 @@ OJS 3 allows you to upload bootstrap themes, making it easier for your journal t
 
 **Responsive Design**
 
-Lack of responsiveness (the ability of the journal’s web page to adjust to the reader’s screen size — from a phone to a desktop computer) was a major issue for OJS 2. The OJS 3 reader interface is fully responsive.
+Lack of responsiveness (the ability of the journal’s web page to adjust to the reader’s screen size — from a phone, to tablet, to desktop computer) was a major issue for OJS 2. The OJS 3 reader interface is fully responsive.
 
 **Simpler Registration**
 
