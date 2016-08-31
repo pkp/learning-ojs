@@ -121,6 +121,40 @@ You must now wait for the author to respond with her revisions.
 
 ##Author Responds
 
+Once the author has made the revisions, you should receive a message (via email and the Review Discussions panel).
+
+![](learning-ojs-3-ed-discussion-panel.png)
+
+You will also see the revised file in the Revisions panel.
+
+At this point, you can download the revised file, check to make sure it is ready, and communicate with the author using the Review Discussions panel.
+
+In this case, we're going to inform the author that we are accepting the revisions. To so, click on the linked title of the discussion. This will open the discussion box.
+
+![![](learning-ojs-3-ed-discussion-window.png)](learning-ojs-3-ed-discussion-window.png)
+
+Use the **Add Message** button to reply.
+
+![](learning-ojs-3-ed-discussion-window-reply.png)
+
+Another option would be to ask for further revisions, but at this point, we're ready to move on.
+
+##Moving the Copyediting
+
+The submission is now ready to be moved to copyediting. To do so, use the blue Send to Copyediting action button.
+
+![](learning-ojs-3-ed-send-to-copyediting.png)
+
+This will open a new window.
+
+![](learning-ojs-3-ed-accept.png)
+
+Hit the **Record Editorial Decision** button at the bottom of the window.
+
+The submission is automatically moved to the Copyediting stage.
+
+
+
 
 
 
