@@ -4,3 +4,5 @@ The next step in the workflow is to inspect your submission files that have been
 
 You will receive an email indicating that files are available. To see them, login to the journal and go to your dashboard.
 
+![](learning-ojs-3-au-production-dashboard.png)
+
