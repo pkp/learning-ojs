@@ -16,4 +16,6 @@ Click on the linked discussion to open it, read the message, and open the attach
 
 Once you have read the attached file, you can respond to the Layout Editor indicating any required changes or your approval. 
 
+![](learning-ojs-3-au-production-message2.png)
+
 That's it! Your role in the editorial workflow is now completed.
