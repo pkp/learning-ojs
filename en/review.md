@@ -64,6 +64,15 @@ Using the blue arrow toggle next to the reviewer name, you can make additional c
 
 At this point, we could add additional reviewers, and then wait for their recommendations to come in.
 
+##Responding to Reviews
+
+Once the reviewers have completed their work, the section editor can see the results of their work in the dashboard, including notifications that new reviews have been submitted and that all reviews are in.
+
+![](learning-ojs-3-ed-rev-responding.png)
+
+Use the *Read Reviews* link to read the comments from the reviewers.
+
+![](learning-ojs-3-ed-rev-read.png)
 
 
 
