@@ -6,3 +6,14 @@ You will receive an email indicating that files are available. To see them, logi
 
 ![](learning-ojs-3-au-production-dashboard.png)
 
+You can see your entry in the My Authored panel. Select the Production link to go to the full submission record, including the notification in the Production Discussions panel.
+
+![](learning-ojs-3-au-production-record.png)
+
+Click on the linked discussion to open it, read the message, and open the attached file.
+
+![](learning-ojs-3-au-production-message.png)
+
+Once you have read the attached file, you can respond to the Layout Editor indicating any required changes or your approval. 
+
+That's it! Your role in the editorial workflow is now completed.
