@@ -82,3 +82,33 @@ You can now wait for the author's response.
 
 ##Author Responds
 
+Once you hear back from the author, you can review his feedback by checking the discussion reply.
+
+![](learning-ojs-3-se-author-copyedits.png)
+
+From here, you can see no further changes are required.
+
+![](learning-ojs-3-se-author-copyedits-reply.png)
+
+
+##The Final Copyedited File
+
+Now you can go ahead and upload the final copyedited version to the Copyedited panel, near the bottom of the screen.
+
+![](learning-ojs-3-ce-copyedited.png)
+
+Use the Upload/Select Files link to upload the final copyedited version.
+
+![](learning-ojs-3-ce-copyedited-upload-select.png)
+
+It is important to note here that you have a few choices.
+
+1. You can use the Upload File link to upload a new file (e.g., a file with some recent changes since you showed it to the author).
+2. You can select the Author's original version (unlikely).
+3. You can select the Copyeditor version, which is the version you sent to the author (if you made no further changes, choose this one).
+
+For this demonstration, we will select the Copyeditor version by checking the box to the left of that file.
+
+
+
+
