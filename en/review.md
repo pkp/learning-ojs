@@ -44,5 +44,15 @@ Using the blue arrow toggle next to the reviewer name, you can make additional c
 
 ![](learning-ojs-3-ed-rev-reviewer-added-2.png)
 
+**Review Details**: Provides details on the review.
+
+![](learning-ojs-3-ed-rev-reviewer-review-details.png)
+
+**Email Reviewers**: Allows you to send a message to the reviewer.
+
+![](learning-ojs-3-ed-rev-reviewer-email-reviewer.png)
+
+**Edit Review**: Allows you to change the review dates and files.
+
 
 
