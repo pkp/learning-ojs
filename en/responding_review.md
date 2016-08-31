@@ -77,7 +77,7 @@ The later notification is the current one. Click on it to open the message (whic
 
 Use the **X** in the upper right corner to close the window.
 
-Further down your dashboard, you will also see a discussion response from the editor.
+Further down your dashboard, you will also see a discussion reply from the editor.
 
 ![](learning-ojs-3-au-rev-discussions.png)
 
