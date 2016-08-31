@@ -96,7 +96,7 @@ Options include:
 
 **Resubmit for Review**: This will require the Author to make major changes and another round of review will need to take place.
 
-**Send to Copyediting**: This means the submission is accepted without revisions and can proceed to the copyediting stage.
+**Send to Copyediting**: This means the submission is accepted without revisions and can proceed to the Copyediting stage.
 
 **Decline Submission**: This means that the submission has not passed peer review and is unsuitable for further consideration. The submission would then move to the Archives.
 
@@ -151,7 +151,7 @@ This will open a new window.
 
 Hit the **Record Editorial Decision** button at the bottom of the window.
 
-The submission is automatically moved to the copyediting stage.
+The submission is automatically moved to the Copyediting stage.
 
 
 
