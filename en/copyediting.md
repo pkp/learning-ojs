@@ -153,15 +153,15 @@ The Section Editor will receive an email that the copyediting is complete, and s
 
 ![](learning-ojs-3-se-copyedited-dash.png)
 
-You can download and review the final copyedited version from the Copyedit Files panel.
+You can download and review the final copyedited version from the Copyedited panel.
 
 ![](learning-ojs-3-se-copyedited-files.png)
 
-At this point you could communicate further with the copyeditor, or, if you are satisfied, move the submission to the Production stage.
+At this point you could communicate further with the Copyeditor, or, if you are satisfied, move the submission to the Production stage.
 
-To do, select the blue Send to Production action button.
+To do so, select the blue **Send to Production** button.
 
-This will generate an official notice to the authors that the submission is moving to the next stage.
+This will generate an official notice to the Authors that the submission is moving to the next stage.
 
 ![](learning-ojs-3-se-send-to-production.png)
 
