@@ -4,7 +4,7 @@ When the submission enters the Review Stage, a notification indicates that Revie
 
 ![](learning-ojs-3-ed-rev.png)
 
-From the Reviewers panel, she can select Add Reviewer to assign a new reviewer.
+From the Reviewers panel, you can select Add Reviewer to assign a new Reviewer.
 
 This opens a new window, where Reviewers are listed and can be selected one at a time.
 
