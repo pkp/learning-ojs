@@ -106,7 +106,7 @@ Clicking on the *Submission* link opens the full submission record.
 
 ![](learning-ojs-3-ed-submissions-se-record.png)
 
-Note the **Pre-Review Discussion**, which was the editor's invitation to edit, as well as Stephanie now being in the **Participants** list.
+Note the **Pre-Review Discussion**, which was the Editor's invitation to edit, as well as Stephanie now being in the **Participants** list.
 
 ###Accepting the Assignment
 It is not required, but the Section Editor could reply to the Pre-Review Discussion to inform the editor that she will be proceeding with the assignment.
