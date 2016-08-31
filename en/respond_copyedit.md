@@ -1,11 +1,27 @@
 # Responding to a Copyediting Request
 
-Depending the journal, you may be required to approve copyedits. You will be notified via email and in the system that you have pending copyedits.
+The next step in the workflow is to inspect your submission files that have been copyedited. 
 
-The copyediting stage is mainly managed through the discussion feature.  You can respond to or approve copyedits via the discussion dialogue box. You can also upload revised files if necessary. 
+You will receive an email indicating that files are available. To see them, login to the journal and go to your dashboard.
 
-<hr />
-[screenshot discussion]
-<hr />
+![](learning-ojs-3-au-copyedits.png)
 
-When you have approved the copyedits, the editor will send the file to the production stage. You will receive a notification email when it moves to this stage.
+You can see your entry in the My Authored panel. Select the Copyediting link to go to the full submission record, including the notification in the Copyediting Discussions panel.
+
+![](learning-ojs-3-au-copyedits-notice.png)
+
+Click on the linked discussion to open it, read the message, and open the attached file.
+
+![](learning-ojs-3-au-copyedits-message.png)
+
+Once you have read the attached file, you can respond to the copyeditor indicating an required changes or your approval. 
+
+![](learning-ojs-3-au-copyedits-reply.png)
+
+If needed, you could attach a revision, but for this example we will simply approve the changes and hit **OK**.
+
+On your dashboard, you can see that you were the last person to reply to the message.
+
+![](learning-ojs-3-au-copyedits-final-dash.png)
+
+Your role in the copyediting process is now complete and you can wait for the request to proofread the final galleys (e.g., PDFs, HTML, etc.) before publication.
