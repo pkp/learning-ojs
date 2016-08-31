@@ -24,7 +24,7 @@ All of this information can be useful when trying to troubleshoot a problem.
 
 ##Expire User Sessions
 
-Clicking the Expire User Sessions immediately clears all active user sessions in the system, requiring any user that is currently logged in to sign in to the system again. This can be useful before an upgrade, to ensure all users are logged out.
+Clicking *Expire User Sessions* immediately clears all active user sessions in the system, requiring any user that is currently logged in to sign in to the system again. This can be useful before an upgrade, to ensure all users are logged out.
 
 ##Clear Data Caches
 
