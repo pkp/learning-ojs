@@ -1,10 +1,8 @@
 # Submitting an Article
 
-**Login** to the system. You will be taken to your dashboard. It will be empty as you have made no submissions.
-
 Start a new submission by clicking the ‘**New Submission**’ button on the right side of the screen.
 
-![screenshot of submission summary screen](images/authoring_image01.png)
+
 
 From here, you will be taken to **Step 1** of a 5-Step process to upload and describe your submission. To begin select the appropriate section for your submission (e.g., article, review, etc.). If you aren’t sure which section is appropriate, make your best guess. Read and agree to the statements in the submission checklist by checking each box. Include any comments for the editor, read the journal’s privacy statement, and then click the **‘Save and Continue**’ button to move to **Step 2**.
 
