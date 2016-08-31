@@ -76,3 +76,5 @@ Hit **OK** to send the message to the author.
 
 You can now wait for his response.
 
+##Author Responds
+
