@@ -109,7 +109,7 @@ Clicking on the *Submission* link opens the full submission record.
 Note the **Pre-Review Discussion**, which was the editor's invitation to edit, as well as Stephanie now being in the **Participants** list.
 
 ###Accepting the Assignment
-Although not required, the Section Editor could reply to the Pre-Review Discussion, informing the editor that she will be proceeding with the assignment.
+It is not required, but the Section Editor could reply to the Pre-Review Discussion to inform the editor that she will be proceeding with the assignment.
 
 ###Communicating with the Author
 If the Section Editor has any questions for the author, she can use the Pre-Review Discussions.
@@ -119,7 +119,7 @@ Once the Section Editor is satisfied that the submission is appropriate for the 
 
 ![](learning-ojs-3-ed-submissions-send-to-review.png)
 
-It is important to keep the check box checked next to the files to be reviewed.
+ Keep the files that are to be reviewed checked off.
 
 
 
