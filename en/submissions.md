@@ -7,11 +7,11 @@ When an author makes a new submission to your journal, the editor is automatical
 ##My Queue
 This page is divided into 3 sections:
 
-**Unassigned**: This includes submissions added to sections without section editors.
+**Unassigned**: This panel includes submissions added to sections without section editors.
 
-**My Assigned**: This includes submissions added to sections where you are a section editor.
+**My Assigned**: This panel includes submissions added to sections where you are a section editor.
 
-**My Authored**: This includes submissions that you wrote, and should be assigned to a different editor.
+**My Authored**: This panel includes submissions that you wrote, and should be assigned to a different editor.
 
 The **Search** tool for each queue can sometimes be helpful in tracking down submissions.
 
@@ -26,7 +26,7 @@ This section includes a list of all submissions either rejected or already publi
 ![](learning-ojs-3-ed-submissions-achived.png)
 
 ##Our Submission
-For this demonstration, we are looking for the Mishkin submission, entitled *Approach for externalization of expert tacit knowledge*. It can be found in the **Unassigned** queue, as well as at the bottom of the **Active** list.
+For this demonstration, we are looking for the Mishkin submission, entitled *Approach for externalization of expert tacit knowledge*. It can be found in the **Unassigned** queue, as well as at the bottom of the **Active** queue.
 
 ![](learning-ojs-3-ed-submissions-unassigned.png)
 
@@ -45,11 +45,11 @@ To view the submission in more detail, select the *Submission* link to the right
 
 From here, you can see:
 
-**Submission Files**: In this case, there is just one file, but multiple files have been submitted.
+**Submission Files**: This panel lists the files that have been submitted. In this view, there is just one file, but multiple files have been submitted.
 
-**Pre-Review Discussions**: This tool allows me as the editor to communicate with the author, or with others on the editorial team. For example, to ask the author for some additional information, or to ask a section editor to take responsibility for this submission.
+**Pre-Review Discussions**: This panel allows the editor to communicate with the author, or with others on the editorial team. For example, to ask the author for some additional information, or to ask a section editor to take responsibility for this submission.
 
-**Participants**: This is where you will see the participants involved in the submission. Currently, there is only the submission author's name. Other names (editors, section editors, etc.) will appear here as they are added in subsequent steps.
+**Participants**: This panel is where you will see the list of participants involved in the submission. Currently, there is only the submission author's name. Other names (editors, section editors, etc.) will appear here as they are added in subsequent steps.
 
 In addition, along the top, you can see:
 
