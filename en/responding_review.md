@@ -5,7 +5,7 @@ After receiving the email, login to your dashboard.
 
 ![](learning-ojs-3-auth-responding-revisions.png)
 
-Select the *Review* link next to your submission to view the full record.
+Select the *Review* link next to your submission to view the decision.
 
 ![](learning-ojs-3-auth-responding-revisions2.png)
 
