@@ -54,5 +54,18 @@ Using the blue arrow toggle next to the reviewer name, you can make additional c
 
 **Edit Review**: Allows you to change the review dates and files.
 
+![](learning-ojs-3-ed-rev-reviewer-edit-review.png)
+
+**Unassign Reviewer**: Allow you to unassign the reviewer.
+
+**History**: Provides a brief history of the review.
+
+![](learning-ojs-3-ed-rev-review-history.png)
+
+At this point, we could add additional reviewers, and then wait for their recommendations to come in.
+
+
+
+
 
 
