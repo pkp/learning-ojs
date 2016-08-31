@@ -90,3 +90,10 @@ Your submission is now complete! The editor has been notified of your submission
 - Review this submission
 - Create a new submission
 - Return to your dashboard
+
+##Dashboard
+And here is your submission in your Dashboard. You can see that it is currently in the *Submission* stage.
+
+![](learning-ojs-3-author-submission-final.png)
+
+Over the coming days, it will move into the Review stage, and if accepted, into the Copyediting and Production stages before being published.
