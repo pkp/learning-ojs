@@ -94,6 +94,8 @@ You can now see that the Section Editor is listed under Participants, and new Ac
 
 **Decline Submission**: Rejects the submission before going through the review process. The submission would then be archived.
 
+Although in this example, the editor assigned a section editor, it would also be possible for the editor to assign herself to the submission.
+
 ##Section Editor
 
 Now that the Section Editor has been assigned, she can login and view her dashboard. The submission can be found at the bottom of the My Assigned queue.
