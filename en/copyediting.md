@@ -139,13 +139,13 @@ In the discussion window, add the Section Editor, a subject line, and a message.
 
 ![](learning-ojs-3-ce-copyedited-discussion.png)
 
-Hit OK to send the message.
+Hit **OK** to send the message.
 
 Returning to the Copyediting stage, you can see the message is posted.
 
 ![](learning-ojs-3-ce-copyedited-done.png)
 
-You work as the copyeditor is now complete!
+You work as the Copyeditor is now complete!
 
 ##Moving to Production
 
