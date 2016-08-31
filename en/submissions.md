@@ -100,6 +100,10 @@ Now that the Section Editor has been assigned, she can login and view her dashbo
 
 ![](learning-ojs-3-ed-submissions-se-queue.png)
 
+Clicking on the Submission link opens the full submission record.
 
+![](learning-ojs-3-ed-submissions-se-record.png)
+
+Note the **Pre-Review Discussion**, which was the editor's invitation to edit, as well as Stephanie now being in the **Participants** list.
 
 
