@@ -132,3 +132,9 @@ You can now see the final discussion.
 
 ##Section Editor Informs Editor
 
+At this point, the Section Editor receives the notification from the Layout Editor and reviews the galley files. 
+
+She can either ask the Layout Editor to make additional changes (using the Production Discussions) or inform the Editor that the galleys are ready for publication.
+
+To inform the Editor, use the Production Discussion panel's *Add Discussion* link.
+
