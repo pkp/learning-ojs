@@ -6,7 +6,3 @@ At the review stage you will need to do two things to resubmit once you have rev
 Upload the new file in the revisions section. To upload a new file click on ‘Upload file.’ A new window will open allowing you to upload your file(s). Select the appropriate option from the dropdown menu to indicate you not submitting a revision of an existing file.
 
 Add a discussion to notify the editor that you have re-submitted. 
-
-<hr />
-[screenshot]
-<hr />
