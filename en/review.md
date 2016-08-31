@@ -84,6 +84,22 @@ In the Reviewers panel, you can now see a *Thank Reviewer* link. Choose that to 
 
 Hit the **Thank Reviewer** button to send the message.
 
+##Making the Decision
+
+Based on the reviewer recommendations, you can use the action buttons to make a decision.
+
+![](learning-ojs-3-ed-rev-decision.png)
+
+Options include:
+
+**Request Revisions**: This will require the author to make minor changes, but no further peer review is required.
+
+**Resubmit for Review**: This will require the author to make major changes and another round of review will need to take place.
+
+**Send to Copyediting**: This means the submission is accepted without revisions and can proceed to the Copyediting stage.
+
+**Decline Submission**: This means that the submission has not passed peer review and is unsuitable for further consideration. The submission would then move to the Archives.
+
 
 
 
