@@ -107,8 +107,32 @@ It is important to note here that you have a few choices.
 2. You can select the Author's original version (unlikely).
 3. You can select the Copyeditor version, which is the version you sent to the author (if you made no further changes, choose this one).
 
-For this demonstration, we will select the Copyeditor version by checking the box to the left of that file.
+For this demonstration, we will select the Copyeditor version **by checking the box** to the left of that file.
 
+Hit **OK**.
 
+The file is now visible in the *Copyedited* panel (near the bottom of the screen), indicating to the editor that this is the final version, which is ready for the Production stage.
+
+![](learning-ojs-3-ce-copyedited2.png)
+
+##Inform the Section Editor
+
+The final step is for you to inform the Section Editor that the copyediting is complete.
+
+To do so, start a new Copyediting Discussion by using the *Add Discussion* link.
+
+![](learning-ojs-3-ce-copyedited-final.png)
+
+In the discussion window, add the Section Editor, a subject line, and a message.
+
+![](learning-ojs-3-ce-copyedited-discussion.png)
+
+Hit OK to send the message.
+
+Returning to the Copyediting stage, you can see the message is posted.
+
+![](learning-ojs-3-ce-copyedited-done.png)
+
+You work as the copyeditor is now complete!
 
 
