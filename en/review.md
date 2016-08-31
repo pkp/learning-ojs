@@ -40,5 +40,9 @@ Back on the Review Stage, we can see the reviewer is now listed.
 
 ![](learning-ojs-3-ed-rev-reviewer-added.png)
 
+Using the blue arrow toggle next to the reviewer name, you can make additional changes.
+
+![](learning-ojs-3-ed-rev-reviewer-added-2.png)
+
 
 
