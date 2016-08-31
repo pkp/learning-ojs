@@ -1,4 +1,4 @@
-# Responding to a Review
+ # Responding to a Review
 Once the review process has completed, you will be notified via email by the editor of their decision.
 
 After receiving the email, login to your dashboard.
@@ -41,6 +41,21 @@ Your revised file is now visible in the Revisions panel.
 
 ![](learning-ojs-3-auth-responding-upload4.png)
 
+##Inform the Editor
+
+Your next step is to inform the editor that the revised file is now available. To do so, go to the Review Discussion panel.
+
+![](learning-ojs-3-auth-responding-discussion.png)
+
+From there, select the *Add Discussion* link.
+
+![](learning-ojs-3-auth-responding-discussion-add.png)
+
+Use the *Add User* link to add the editor.
+
+Add a subject line and a message.
+
+Hit **OK** to send the message.
 
 
 
