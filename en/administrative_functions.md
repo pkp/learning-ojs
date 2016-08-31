@@ -14,9 +14,9 @@ OJS Version information shows which version is currently installed, and your ver
 
 The Server Information provides details about the server environment hosting your OJS installation.
 
-The OJS Configuration section displays all of the configuration options and their values as they are in config.inc.php. 
+The OJS Configuration section displays all of the configuration options and their values as they are in *config.inc.php*. 
 
-You can find more information about config.inc.php configuration parameters in the file itself.
+You can find more information about *config.inc.php* configuration parameters in the file itself.
 
 The final section on this page displays additional server information: your operating system, PHP version, server and database information. You can also view extended PHP information by clicking the Extended PHP information link (this displays the output of phpinfo()). 
 
@@ -35,6 +35,7 @@ Clicking *Clear Data Caches* clears all cached data, including locale informatio
 Clicking *Clear Template Cache* clears all cached versions of HTML templates. This function may be useful to force templates to be reloaded after customizations have been made.
 
 ##Clear Scheduled Task Execution Logs
-If scheduled tasks have been enabled for your journal, clicking the Clear Scheduled Task Execution Logs will delete the task execution log files from your server. The execution log files include dates that correspond to previously completed scheduled tasks (e.g. sending automatic email review reminders).
+
+If scheduled tasks have been enabled for your journal, clicking *Clear Scheduled Task Execution Logs* will delete the task execution log files from your server. The execution log files include dates that correspond to previously completed scheduled tasks (e.g. sending automatic email review reminders).
 
 
