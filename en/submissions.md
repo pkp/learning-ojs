@@ -26,7 +26,7 @@ This section includes a list of all submissions either rejected or already publi
 ![](learning-ojs-3-ed-submissions-achived.png)
 
 ##Our Submission
-For this demonstration, we are looking for the Mishkin submission, entitled *Approach for externalization of expert tacit knowledge*. It can be found in the **Unassigned** queue, as well as at the bottom of the Active list.
+For this demonstration, we are looking for the Mishkin submission, entitled *Approach for externalization of expert tacit knowledge*. It can be found in the **Unassigned** queue, as well as at the bottom of the **Active** list.
 
 ![](learning-ojs-3-ed-submissions-unassigned.png)
 
