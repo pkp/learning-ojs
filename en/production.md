@@ -138,3 +138,19 @@ She can either ask the Layout Editor to make additional changes (using the Produ
 
 To inform the Editor, use the Production Discussion panel's *Add Discussion* link.
 
+##Scheduling for Publication
+Upon receiving notification of the completed galleys, the editor logs into the submission record, and checks the uploaded galley files.
+
+If the galleys look ready, the editor can hit the blue **Schedule for Publication** action button.
+
+![](learning-ojs-3-ed-production-schedule.png)
+
+Selecting this button opens a Publication window.
+
+![](learning-ojs-3-ed-production-publish.png)
+
+Use this to add the submission to a future or back issue of the journal.
+
+You also have the option to add page numbers, permission, and licensing information.
+
+Hitting **Save** will publish the submission to the selected issue. If the issue is already published, the submission will be immediately available to readers.
