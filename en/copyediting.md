@@ -1,20 +1,20 @@
 # Copyediting
 
-Once the submission is approved, it will automatically move to the Copyediting stage.
+When a submission is approved in the Review Stage, it will automatically move to the Copyediting stage.
 
 ![](learning-ojs-3-ed-copyediting.png)
 
 ##Adding a Copyeditor
 
-The notification let's you know that you must now add a copyeditor to the submission, using the *Add* link on the Participants list.
+When the submission enters the Copyediting Stage, a notification indicates that a Copyeditor needs to be assigned. Copyeditors can be assigned using the *Add* link on the Participants panel.
 
 This will open a new window.
 
 ![](learning-ojs-3-ed-copyediting-add.png)
 
-You can use the role dropdown to choose Copyeditor and hit the Search button. This will bring up all copyeditors.
+You can use the role dropdown to choose Copyeditor and hit the **Search** button. This will bring up all Copyeditors.
 
-Select one of the copyeditors for this submission.
+Select one of the Copyeditors for this submission.
 
 Choose a prepared message.
 
@@ -22,15 +22,15 @@ Make any changes needed to the message.
 
 Hit **Send**.
 
-You can now see the new notification that the submission is awaiting copyedits, the copyeditor is now included in the Participants list, and the request is visible in the Copyediting Discussions.
+You can now see the new notification that the submission is awaiting copyedits, the Copyeditor is now included in the Participants list, and the request is visible in the Copyediting Discussions.
 
 ![](learning-ojs-3-ed-copyediting-add-dash.png)
 
-You can now wait for the copyeditor to do her work.
+You can now wait for the Copyeditor to do her work.
 
 ##Copyeditor
 
-The copyeditor will receive an email message from the section editor requesting her to take on the submission.
+The Copyeditor will receive an email message from the Section Editor requesting her to take on the submission.
 
 To get started, she must login and find the submission from her dashboard.
 
@@ -44,7 +44,7 @@ From here, she can see the Draft Files. These are the files that require copyedi
 
 Outside of OJS, she will do her copyediting work. 
 
-Remember to also check the submission metadata, using the Metadata link in the upper blue bar.
+To check the submission metadata, use the Metadata link in the blue bar at the top.
 
 ![](learning-ojs-3-ce-copyediting-metadata.png)
 
