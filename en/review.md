@@ -30,11 +30,11 @@ This initiates a new window with a message for the Reviewer.
 
 You can revise any of the prepared text.
 
-Further down the form, you will also see additional details to be sent to the Reviewer, including the title and abstract, important dates, and a link to the files to be reviewed.
+Further down the form, you will see the additional details that are sent to the Reviewer including title, abstract, important dates, and a link to the files to be reviewed.
 
 ![](learning-ojs-3-ed-rev-add-4.png)
 
-Hit the **Add Reviewer** button to send the message and assign the reviewer.
+Hit the **Add Reviewer** button to send the message and assign the Reviewer.
 
 Back on the Review Stage, we can see the Reviewer is now listed.
 
@@ -96,7 +96,7 @@ Options include:
 
 **Resubmit for Review**: This will require the Author to make major changes and another round of review will need to take place.
 
-**Send to Copyediting**: This means the submission is accepted without revisions and can proceed to the Copyediting stage.
+**Send to Copyediting**: This means the submission is accepted without revisions and can proceed to the copyediting stage.
 
 **Decline Submission**: This means that the submission has not passed peer review and is unsuitable for further consideration. The submission would then move to the Archives.
 
@@ -139,9 +139,9 @@ Use the **Add Message** button to reply.
 
 Another option would be to ask for further revisions, but at this point, we're ready to move on.
 
-##Moving the Copyediting
+##Moving to Copyediting
 
-The submission is now ready to be moved to copyediting. To do so, use the blue Send to Copyediting action button.
+The submission is now ready to be moved to copyediting. To do so, use the blue **Send to Copyediting** button.
 
 ![](learning-ojs-3-ed-send-to-copyediting.png)
 
@@ -151,7 +151,7 @@ This will open a new window.
 
 Hit the **Record Editorial Decision** button at the bottom of the window.
 
-The submission is automatically moved to the Copyediting stage.
+The submission is automatically moved to the copyediting stage.
 
 
 
