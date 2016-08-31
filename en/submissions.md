@@ -1,6 +1,6 @@
 # Submissions
 
-When an author makes a new submission to your journal, the editor is automatically emailed. When you login to your Dashboard, you can find it either from your Tasks, or by looking in one of the queues.
+When an author makes a new submission to your journal, the editor is automatically emailed. When you log into your Dashboard, you can find it either from your Tasks, or by looking in one of the queues.
 
 ![](learning-ojs-3-ed-submissions.png)
 
@@ -23,4 +23,9 @@ This section includes a list of all submissions, without being organized into qu
 ##Archived
 This section includes a list of all submissions either rejected or already published by the journal.
 
+![](learning-ojs-3-ed-submissions-achived.png)
 
+##Our Submission
+For this demonstration, we are looking for the Mishkin submission, entitled *Approach for externalization of expert tacit knowledge*. It can be found in the **Unassigned** queue, as well as at the bottom of the Active list.
+
+![](learning-ojs-3-ed-submissions-unassigned.png)
