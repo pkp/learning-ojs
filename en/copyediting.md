@@ -74,7 +74,11 @@ Back on the Add window, you can now see the attached file.
 
 Hit **OK** to send the message to the author.
 
-You can now wait for his response.
+It is now visible in the Copyediting Discussions.
+
+![](learning-ojs-3-ce-discussion.png)
+
+You can now wait for the author's response.
 
 ##Author Responds
 
