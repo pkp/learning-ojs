@@ -52,3 +52,6 @@ From here, you can see:
 **Participants**: From here, I can see the submission author's name. Other names will appear here as they become involved with the submission.
 
 ##Assigning the Submission
+
+To move the submission forward, the next step is to assign an editor or section editor. To do so, select the *Add* link in the Participants list.
+
