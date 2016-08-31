@@ -93,3 +93,6 @@ You can now see that the Section Editor is listed under Participants, and new Ac
 **Send to Copyediting**: Skips the Review Stage and moves the submission directly into Copyediting.
 
 **Decline Submission**: Rejects the submission before going through the review process. The submission would then be archived.
+
+##Section Editor
+
