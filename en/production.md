@@ -38,5 +38,11 @@ To get started, login to the system and go to your dashboard.
 
 ![](learning-ojs-3-le-dashboard.png)
 
+From here, find the submission and select the Production link.
+
+This will take you to the submission record.
+
+![](learning-ojs-3-le-submission.png)
+
 
 
