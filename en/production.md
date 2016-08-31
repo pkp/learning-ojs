@@ -85,6 +85,16 @@ The Author has now been notified and you can await his response.
 
 ##Author Response
 
+Once the author has had a chance to review the galleys and respond, you will receive an email notification and will see a reply in the Production Discussions.
+
+![](learning-ojs-3-au-production-message-reply.png)
+
+##Add Galleys
+
+Now that the Author has proofread the galleys, you can make any final changes, an then upload them to the Galleys panel, using the *Add Galley* link.
+
+![](learning-ojs-3-au-production-galleys.png)
+
 
 
 
