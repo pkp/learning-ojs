@@ -56,3 +56,8 @@ Use the *Add User* link to add the editor.
 Add a subject line and a message.
 
 Hit **OK** to send the message.
+
+An email has now been sent to the editor and you (and the editor) can see the message in the Review Discussions panel.
+
+![](learning-ojs-3-auth-responding-discussion-panel.png)
+
