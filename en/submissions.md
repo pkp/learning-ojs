@@ -45,7 +45,7 @@ To view the submission in more detail, select the *Submission* link to the right
 
 From here, you can see:
 
-**Submission Files**: This panel lists the files that have been submitted. In this view, there is just one file, but multiple files have been submitted.
+**Submission Files**: This panel lists the files that have been submitted. In this view, there is just one file, but multiple files could have been submitted.
 
 **Pre-Review Discussions**: This panel allows the editor to communicate with the author, or with others on the editorial team. For example, to ask the author for some additional information, or to ask a section editor to take responsibility for this submission.
 
@@ -102,7 +102,7 @@ Now that the Section Editor has been assigned, she can login and view her dashbo
 
 ![](learning-ojs-3-ed-submissions-se-queue.png)
 
-Clicking on the Submission link opens the full submission record.
+Clicking on the *Submission* link opens the full submission record.
 
 ![](learning-ojs-3-ed-submissions-se-record.png)
 
@@ -115,11 +115,11 @@ Although not required, the Section Editor could reply to the Pre-Review Discussi
 If the Section Editor has any questions for the author, she can use the Pre-Review Discussions.
 
 ###Sending to Review
-Once the Section Editor is satisfied that the submission is appropriate for the journal, she can select the Send to Review action button.
+Once the Section Editor is satisfied that the submission is appropriate for the journal, she can select the **Send to Review** button to move the submission to the next stage.
 
 ![](learning-ojs-3-ed-submissions-send-to-review.png)
 
-It is important to keep the files to be reviewed checked.
+It is important to keep the check box checked next to the files to be reviewed.
 
-Hit the **Send to Review** button to move the submission to the next stage.
+
 
