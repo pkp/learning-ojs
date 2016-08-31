@@ -4,6 +4,8 @@ Once the submission is approved, it will automatically move to the Copyediting s
 
 ![](learning-ojs-3-ed-copyediting.png)
 
+##Adding a Copyeditor
+
 The notification let's you know that you must now add a copyeditor to the submission, using the *Add* link on the Participants list.
 
 This will open a new window.
@@ -135,4 +137,26 @@ Returning to the Copyediting stage, you can see the message is posted.
 
 You work as the copyeditor is now complete!
 
+##Moving to Production
 
+The Section Editor will receive an email that the copyediting is complete, and see a notification in the discussions.
+
+![](learning-ojs-3-se-copyedited-dash.png)
+
+You can download and review the final copyedited version from the Copyedit Files panel.
+
+![](learning-ojs-3-se-copyedited-files.png)
+
+At this point you could communicate further with the copyeditor, or, if you are satisfied, move the submission to the Production stage.
+
+To do, select the blue Send to Production action button.
+
+This will generate an official notice to the authors that the submission is moving to the next stage.
+
+![](learning-ojs-3-se-send-to-production.png)
+
+Notice that the appropriate file, from the Copyedited panel, is included and will be automatically transferred to Production.
+
+Hit **Record Editorial Decision** to proceed.
+
+The Copyediting stage is now complete.
