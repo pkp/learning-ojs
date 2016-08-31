@@ -117,6 +117,10 @@ If there are any attachments, such as marked up file created by a reviewer, you 
 
 Hit the **Record Editorial Decision** button to send the message.
 
+You must now wait for the author to respond with her revisions.
+
+##Author Responds
+
 
 
 
