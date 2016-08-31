@@ -44,6 +44,16 @@ From here, she can see the Draft Files. These are the files that require copyedi
 
 Outside of OJS, she will do her copyediting work. 
 
+Remember to also check the submission metadata, using the Metadata link in the upper blue bar.
+
+![](learning-ojs-3-ce-copyediting-metadata.png)
+
+This would include checking the article title, abstract, author names, keywords, etc.
+
+![](learning-ojs-3-ce-copyediting-metadata2.png)
+
+If you make any changes, be sure to hit the **Save** button before exiting this window.
+
 ###Consult with the Author
 
 Once she has finished copyediting, she will run the changes past the author by adding a new discussion, using the Copyediting Discussions panel's *Add discussion* link.
