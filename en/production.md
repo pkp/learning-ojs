@@ -47,6 +47,45 @@ This will take you to the submission record.
 From the Production Ready Files panel, download the files to your desktop and work outside of OJS to convert them to the formats appropriate for your journal (e.g., HTML, PDF, etc.).
 
 
+> Note: PKP is currently working on a project to automate the conversion of Microsoft Word documents into other formats, including XML, HTML, PDF, EPUB, etc. Keep an eye on our blog for updates.
+
+##Contact the Author
+
+Next, you will want to share the PDF with the author for a final look and sign-off.
+
+To so, use the *Add Discussion* link in the Production Discussion panel. This will open a new window.
+
+![](learning-ojs-3-le-production-add-participant.png)
+
+Remember to add the author at the top of the window, and then add a subject and a message.
+
+Before sending, however, attach a copy of the PDF file using the *Upload File* link. This will make it available to the author.
+
+![](learning-ojs-3-le-production-add-participant-upload.png)
+
+Remember to select the correct Article Component, and then upload the PDF.
+
+Hit **Continue**.
+
+Next, make any changes to the file name (usually you don't need to do anything here).
+
+![](learning-ojs-3-le-production-add-participant-upload2.png)
+
+And then, you can upload additional files, if necessary.
+
+![](learning-ojs-3-le-production-add-participant-upload3.png)
+
+Once you are done, hit **Complete**.
+
+The file is now attached and you can send the message using the **OK** button.
+
+![](learning-ojs-3-le-production-add-participant2.png)
+
+The Author has now been notified and you can await his response.
+
+##Author Response
+
+
 
 
 
