@@ -51,7 +51,7 @@ From here, you can see:
 
 **Participants**: This panel is where you will see the list of participants involved in the submission. Currently, there is only the submission author's name. Other names (editors, section editors, etc.) will appear here as they are added in subsequent steps.
 
-In addition, along the top, you can see:
+In addition, in the blue bar along the top, you can see:
 
 **Metadata**: Where you can view and revise the submission metadata.
 
