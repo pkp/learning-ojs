@@ -81,7 +81,7 @@ Further down your dashboard, you will also see a discussion response from the ed
 
 ![](learning-ojs-3-au-rev-discussions.png)
 
-Clicking the title will open it up.
+Clicking the discussion title will open it up.
 
 ![](learning-ojs-3-au-rev-discussions2.png)
 
