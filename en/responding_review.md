@@ -61,3 +61,7 @@ An email has now been sent to the editor and you (and the editor) can see the me
 
 ![](learning-ojs-3-auth-responding-discussion-panel.png)
 
+At this point, the author needs to wait to hear back from the editor as to whether the revisions are acceptable.
+
+
+
