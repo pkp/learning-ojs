@@ -39,7 +39,7 @@ Once you find the submission, you can use the blue arrow to reveal options to **
 ![](learning-ojs-3-ed-submissions-history.png)
 
 ##Submission Record
-To view the submission in more detail, select the Submission link to the right of the title. This will take you to the submission record.
+To view the submission in more detail, select the *Submission* link to the right of the title. This will take you to the submission record.
 
 ![](learning-ojs-3-ed-submissions-record.png)
 
@@ -49,7 +49,7 @@ From here, you can see:
 
 **Pre-Review Discussions**: This tool allows me as the editor to communicate with the author, or with others on the editorial team. For example, to ask the author for some additional information, or to ask a section editor to take responsibility for this submission.
 
-**Participants**: From here, I can see the submission author's name. Other names will appear here as they become involved with the submission.
+**Participants**: This is where you will see the participants involved in the submission. Currently, there is only the submission author's name. Other names (editors, section editors, etc.) will appear here as they are added in subsequent steps.
 
 In addition, along the top, you can see:
 
