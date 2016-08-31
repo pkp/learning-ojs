@@ -51,6 +51,29 @@ From here, you can see:
 
 **Participants**: From here, I can see the submission author's name. Other names will appear here as they become involved with the submission.
 
+In addition, along the top, you can see:
+
+**Metadata**: Where you can view and revise the submission metadata.
+
+![](learning-ojs-3-ed-submissions-metadata.png)
+
+Use the Identifier tab to also view or add a unique identifier.
+
+![](learning-ojs-3-ed-submissions-identifiers.png)
+
+**Editorial History**: Where you can view the history and any notes about the submission.
+
+![](learning-ojs-3-ed-submissions-ed-history.png)
+
+Use the Notes tab to also view or add any editorial notes.
+
+![](learning-ojs-3-ed-submissions-notes.png)
+
+**Submission Library**: Where you can add any relevant documents to the submission's library.
+
+![](learning-ojs-3-ed-submissions-sub-library.png)
+
+
 ##Assigning the Submission
 
 To move the submission forward, the next step is to assign an editor or section editor. To do so, select the *Add* link in the **Participants** list.
@@ -60,3 +83,13 @@ To move the submission forward, the next step is to assign an editor or section 
 You will have the option to locate a user by role, choose an individual, and send them a message requesting their assistance.
 
 Hit the **OK** button to make the assignment and send the message.
+
+![](learning-ojs-3-ed-submissions-se-added.png)
+
+You can now see that the Section Editor is listed under Participants, and new Action buttons are available:
+
+**Send to Review**: Moves the submission on to the next stage.
+
+**Send to Copyediting**: Skips the Review Stage and moves the submission directly into Copyediting.
+
+**Decline Submission**: Rejects the submission before going through the review process. The submission would then be archived.
