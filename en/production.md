@@ -154,3 +154,5 @@ Use this to add the submission to a future or back issue of the journal.
 You also have the option to add page numbers, permission, and licensing information.
 
 Hitting **Save** will publish the submission to the selected issue. If the issue is already published, the submission will be immediately available to readers.
+
+Congratulations! You have now come to the end of the editorial workflow.
