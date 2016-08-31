@@ -96,3 +96,10 @@ You can now see that the Section Editor is listed under Participants, and new Ac
 
 ##Section Editor
 
+Now that the Section Editor has been assigned, she can login and view her dashboard. The submission can be found at the bottom of the My Assigned queue.
+
+![](learning-ojs-3-ed-submissions-se-queue.png)
+
+
+
+
