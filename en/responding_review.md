@@ -65,4 +65,24 @@ At this point, the author needs to wait to hear back from the editor as to wheth
 
 ##Revisions Accepted
 
+You will receive an email that your revisions have been accepted.
 
+In addition, notifications will appear on your dashboard.
+
+![](learning-ojs-3-au-notifications.png)
+
+The later notification is the current one. Click on it to open the message (which is the same as the email you would have also received).
+
+![](learning-ojs-3-au-notifications2.png)
+
+Use the **X** in the upper right corner to close the window.
+
+Further down your dashboard, you will also see a discussion response from the editor.
+
+![](learning-ojs-3-au-rev-discussions.png)
+
+Clicking the title will open it up.
+
+![](learning-ojs-3-au-rev-discussions2.png)
+
+Congratulations! You've been accepted and your submission file is moving on to the Copyright stage.
