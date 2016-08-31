@@ -28,11 +28,11 @@ Clicking *Expire User Sessions* immediately clears all active user sessions in t
 
 ##Clear Data Caches
 
-Clicking the Clear Data Caches link clears all cached data, including locale information, help cache, and search cache. This function may be useful to force data to be reloaded after customizations have been made.
+Clicking *Clear Data Caches* clears all cached data, including locale information, help cache, and search cache. This function may be useful to force data to be reloaded after customizations have been made.
 
 ##Clear Template Cache
 
-Clicking the Clear Template Cache link clears all cached versions of HTML templates. This function may be useful to force templates to be reloaded after customizations have been made.
+Clicking *Clear Template Cache* clears all cached versions of HTML templates. This function may be useful to force templates to be reloaded after customizations have been made.
 
 ##Clear Scheduled Task Execution Logs
 If scheduled tasks have been enabled for your journal, clicking the Clear Scheduled Task Execution Logs will delete the task execution log files from your server. The execution log files include dates that correspond to previously completed scheduled tasks (e.g. sending automatic email review reminders).
