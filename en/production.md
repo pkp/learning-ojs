@@ -15,3 +15,15 @@ You will see the copyedited files are now available in the *Production Ready Fil
 A notification banner also indicates that you must assign someone to create the galley files (e.g., the PDFs, HTML, etc.) from those production ready files.
 
 This can vary from journal to journal -- you may have layout editors or production assistants to do this work.
+
+To make the assignment, use the *Add* link in the Participants list. This will open a new window.
+
+![](learning-ojs-3-se-production-participants-add.png)
+
+Use the role selector and search button to find appropriate users, select one, choose a predefined message, and hit **OK** to send.
+
+The user has now been notified via email and in his dashboard.
+
+You can now wait for him to complete his tasks.
+
+##Layout Editing
