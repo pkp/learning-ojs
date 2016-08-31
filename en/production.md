@@ -118,3 +118,17 @@ You can now see the galleys in the Galley panel.
 ![](learning-ojs-3-au-production-galleys-uploaded.png)
 
 You can make changes to the upload by selecting the blue arrow to the left of the galley label, which reveals options to edit, change the file, or delete.
+
+##Inform the Section Editor
+Finally, you will need to inform the Section Editor that the galleys have been completed. To do so, use the Production Discussion panel and choose the *Add Discussion* link.
+
+![](learning-ojs-3-au-production-galleys-complete.png)
+
+Add the Section Editor to the top of the page, and then include a subject line and message. Hit **OK** to send the message.
+
+You can now see the final discussion.
+
+![](learning-ojs-3-au-production-galleys-discussions.png)
+
+##Section Editor Informs Editor
+
