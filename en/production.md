@@ -24,6 +24,8 @@ Use the role selector and search button to find appropriate users, select one, c
 
 The user has now been notified via email and in his dashboard.
 
+![](learning-ojs-3-se-production-participants-added.png)
+
 Notice that the notification now indicates the submission is "Awaiting Galleys". You can see the layout editor in the Participants list, and you can see the request notice in the Production Discussions panel.
 
 You can now wait for the Layout Editor to complete his tasks.
