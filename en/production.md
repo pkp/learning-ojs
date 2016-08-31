@@ -44,5 +44,9 @@ This will take you to the submission record.
 
 ![](learning-ojs-3-le-submission.png)
 
+From the Production Ready Files panel, download the files to your desktop and work outside of OJS to convert them to the formats appropriate for your journal (e.g., HTML, PDF, etc.).
+
+
+
 
 
