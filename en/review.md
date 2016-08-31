@@ -70,9 +70,19 @@ Once the reviewers have completed their work, the section editor can see the res
 
 ![](learning-ojs-3-ed-rev-responding.png)
 
-Use the *Read Reviews* link to read the comments from the reviewers.
+Use the *Read Review* link in the Reviewers panel to read the comments from the reviewers, including those for both the author and editor as well as for the editor only.
 
-![](learning-ojs-3-ed-rev-read.png)
+![](learning-ojs-3-ed-rev-read-reviews.png)
+
+Select the **Confirm** link at the bottom of the screen.
+
+![](learning-ojs-3-ed-rev-thank.png)
+
+In the Reviewers panel, you can now see a *Thank Reviewer* link. Choose that to thank the reviewer.
+
+![](learning-ojs-3-ed-rev-thank2.png)
+
+Hit the **Thank Reviewer** button to send the message.
 
 
 
