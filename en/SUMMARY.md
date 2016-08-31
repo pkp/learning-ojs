@@ -36,7 +36,7 @@
    * [Import/Export](importexport.md)
    * [Statistics](statistics.md)
 * [Chapter 9: Authoring](authoring.md)
-   * [Registering with the System](registering_author.md)
+   * [Registering with the Journal](registering_author.md)
    * [Submitting an Article](submit_article.md)
    * [Responding to a Review](responding_review.md)
    * [Re-submitting for Review](resubmit_review.md)
