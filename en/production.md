@@ -91,11 +91,30 @@ Once the author has had a chance to review the galleys and respond, you will rec
 
 ##Add Galleys
 
-Now that the Author has proofread the galleys, you can make any final changes, an then upload them to the Galleys panel, using the *Add Galley* link.
+Now that the Author has proofread the galleys, you can make any final changes, an then upload them to the Galleys panel.
 
 ![](learning-ojs-3-au-production-galleys.png)
 
+To do so, use the *Add Galley* link, which will open a new window.
 
+![](learning-ojs-3-au-production-galleys-upload1.png)
 
+Add an appropriate label (e.g., PDF, HTML, etc.) and Hit **Save**.
 
+![](learning-ojs-3-au-production-galleys-upload2.png)
 
+From this window, choose the appropriate article componenet (e.g., article text) and upload the galley file. Hit **Continue**.
+
+![](learning-ojs-3-au-production-galleys-upload3.png)
+
+If necessary, change the filename. Hit **Continue**.
+
+![](learning-ojs-3-au-production-galleys-upload4.png)
+
+If you have more files, upload them now. Otherwise hit **Complete**.
+
+You can now see the galleys in the Galley panel.
+
+![](learning-ojs-3-au-production-galleys-uploaded.png)
+
+You can make changes to the upload by selecting the blue arrow to the left of the galley label, which reveals options to edit, change the file, or delete.
