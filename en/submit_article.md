@@ -1,6 +1,6 @@
 # Submitting an Article
 
-Start a new submission by clicking the **New Submission** button on the right side of the screen. You will be taken to **Step 1** of a 5-Step process to upload and describe your submission. 
+Start a new submission by clicking the **New Submission** button on the right side of the screen. You will be taken to Step 1 of a 5-Step process to upload and describe your submission. 
 
 ![](learning-ojs-3-author-dashboard.png)
 
