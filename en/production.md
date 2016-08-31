@@ -36,3 +36,7 @@ As the Layout Editor, you will have received a message inviting you to create th
 
 To get started, login to the system and go to your dashboard.
 
+![](learning-ojs-3-le-dashboard.png)
+
+
+
