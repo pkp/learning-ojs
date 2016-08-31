@@ -76,7 +76,7 @@ Use the Notes tab to also view or add any editorial notes.
 
 ##Assigning the Submission
 
-To move the submission forward, the next step is to assign an editor or section editor. To do so, select the *Add* link in the **Participants** list.
+To move the submission forward, the next step is to assign an editor or section editor. To do so, select the *Add* link in the **Participants** panel.
 
 ![](learning-ojs-3-ed-submissions-add-participant.png)
 
