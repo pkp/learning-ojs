@@ -100,6 +100,22 @@ Options include:
 
 **Decline Submission**: This means that the submission has not passed peer review and is unsuitable for further consideration. The submission would then move to the Archives.
 
+##Request Revisions
+In this demonstration, we are going to request that the author make some minor revisions before acceptance.
+
+To do so, select the **Request Revisions** button. This results in a new message window.
+
+![](learning-ojs-3-ed-rev-req-revisions.png)
+
+You can modify any of the text before sending the message.
+
+Use the Add Reviews button to import the reviewer's comments from the Editor and Author field. Comments in the Editor only field will not be displayed.
+
+![](learning-ojs-3-ed-rev-req-revisions2.png)
+
+If there are any attachments, such as marked up file created by a reviewer, you can attach it here (as long as it has been anonymized).
+
+Hit the **Record Editorial Decision** button to send the message.
 
 
 
