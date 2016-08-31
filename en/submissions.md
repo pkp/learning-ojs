@@ -55,3 +55,8 @@ From here, you can see:
 
 To move the submission forward, the next step is to assign an editor or section editor. To do so, select the *Add* link in the **Participants** list.
 
+![](learning-ojs-3-ed-submissions-add-participant.png)
+
+You will have the option to locate a user by role, choose an individual, and send them a message requesting their assistance.
+
+Hit the **OK** button to make the assignment and send the message.
