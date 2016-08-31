@@ -34,7 +34,7 @@ Once you find the submission, you can use the blue arrow to reveal options to **
 
 ![](learning-ojs-3-ed-submissions-more-info.png)
 
-Deleting will remove the submission and More Information will bring up the submission's history.
+**Delete** will remove the submission and **More Information** will bring up the submission's history.
 
 ![](learning-ojs-3-ed-submissions-history.png)
 
