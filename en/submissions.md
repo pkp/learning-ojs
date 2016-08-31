@@ -1,6 +1,6 @@
 # Submissions
 
-When an author makes a new submission to your journal, the editor is automatically emailed. When you log into your Dashboard, you can find it either from your Tasks, or by looking in one of the queues.
+When an author makes a new submission to your journal, the editor is automatically emailed. When you log into your Dashboard, you can find it either from your Tasks, or from My Queue.
 
 ![](learning-ojs-3-ed-submissions.png)
 
