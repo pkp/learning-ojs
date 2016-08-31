@@ -52,13 +52,13 @@ This would include checking the article title, abstract, author names, keywords,
 
 ![](learning-ojs-3-ce-copyediting-metadata2.png)
 
-If you make any changes, be sure to hit the **Save** button before exiting this window.
+If any changes are made, hit the **Save** button before exiting this window.
 
 ###Consult with the Author
 
-Once she has finished copyediting, she will run the changes past the author by adding a new discussion, using the Copyediting Discussions panel's *Add discussion* link.
+Once she has finished copyediting, she will run the changes past the Author by adding a new discussion, using the Copyediting Discussions panel's *Add discussion* link.
 
-From the Add Discussion window, she must choose the author and add a subject line and message.
+From the Add Discussion window, she must choose the Author and add a subject line and message.
 
 ![](learning-ojs-3-ce-add-discussion.png)
 
