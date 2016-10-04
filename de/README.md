@@ -1,3 +1,5 @@
-Lernen OJS 3: visuelle Hilfe Journal Systems zu öffnen
+OJS 3 erlernen: Ein visuelles Handbuch zu Open Journal Systems
 
-Copyright: Das Public Knowledge Project 2015
+Copyright: Public Knowledge Project, 2015
+
+<img src="https://i.creativecommons.org/l/by/4.0/88x31.png"/>
