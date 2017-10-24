@@ -46,7 +46,8 @@ A secure deployment can be best achieved by using the following policies:
   the OJS installation and cannot be accessed directly via the web  
   server. Restrict file permissions as much as possible. Automated  
   backups of this directory should be roughly synchronized with  
-  database backups.
+  database backups. These steps are **critical to maintaining a secure   
+  environment** and avoiding the misuse or hacking of your journal.
 
 ## Download
 
@@ -76,9 +77,10 @@ To install OJS:
    * cache/\_db
 
 3. Create a directory to store uploaded files \(submission files, etc.\)  
-   and make this directory writeable. It is recommended that this  
-   directory be placed in a non-web-accessible location \(or otherwise  
-   protected from direct access, such as via .htaccess rules\).
+   and make this directory writeable. It is **strongly** recommended that this  
+   directory be placed in a non-web-accessible location to ensure a secure  
+   environment \(or otherwise protected from direct access, such as via   
+   .htaccess rules\).
 
 4. Open a web browser to [http://yourdomain.com/path/to/ojs/](http://yourdomain.com/path/to/ojs/) and  
    follow the on-screen installation instructions.
