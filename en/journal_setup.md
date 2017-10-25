@@ -4,6 +4,7 @@ The Settings section allows you to configure your OJS installation to best meet 
 
 You can find the Settings in the left menu panel when you are logged in as a user with Journal Manager permissions.
 
-![](learning-ojs-3-settings.png)
+![](/assets/learning-ojs3.1-jm-settings-journal.PNG)
 
 It consists of Journal Settings, Website Settings, Workflow Settings, and Distribution Settings, each of which will be covered in this chapter.
+
