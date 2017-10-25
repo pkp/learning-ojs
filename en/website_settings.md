@@ -94,5 +94,23 @@ This section allows you to create and display news announcements on the journal'
 
 **Announcement Types**: You can create different types of announcements \(e.g., News, New Issue Alert, etc.\). Use the _Add Annoucment Type_ link to create them.
 
-**Annoucements**: Use the _Add Annoucement_ link to create a new announcement for your Announcements page.
+**Announcements**: Use the _Add Announcement_ link to create a new announcement for your Announcements page.
+
+### Navigation Menus
+
+This section allows you to configure your navigation menus, such as including new links.
+
+![](/assets/learning-ojs3.1-jm-settings-web-navmenu.PNG)
+
+**Navigation Menus**: Configure the User Menu \(which includes Language, View Site, and Username\) or the Primary Menu \(on the journal home page, including Current, Archive, About, etc.\).
+
+**Navigation Menu Items**: These are programmed links you can add to either menu above. If you wish to add a link to the Primary Menu \(e.g., "Our Society"\), add it here using the _Add Item_ link.
+
+![](/assets/learning-ojs3.1-jm-settings-web-navmenu-add.PNG)
+
+It will now appear in the list of Navigation Menu Items. Next, go to the desired Navigation Menu \(e.g., Primary\), use the blue arrow to reveal the options, and choose Edit. You can now drag and drop it into the appropriate location on the menu.
+
+![](/assets/learning-ojs3.1-jm-settings-web-navmenu-add-nav.PNG)
+
+Hit Save to record the change.
 
