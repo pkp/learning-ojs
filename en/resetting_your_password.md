@@ -8,6 +8,7 @@ You can reset your password by:
 4. Entering your current password and then your new password twice
 5. Hitting Save
 
-![](learning-ojs-3-ch3-change-pw.png)
+![](/assets/learning-ojs3.1-ed-change-pw.PNG)
 
 Your password is now changed.
+
