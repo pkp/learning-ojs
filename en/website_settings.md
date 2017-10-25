@@ -44,13 +44,13 @@ Remember to hit **Save** to record any changes.
 
 If you are a member of a LOCKSS or CLOCKSS network, use this page to activate your journal.
 
-![](learning-ojs-3-settings-website-settings-archiving.png)
+![](/assets/learning-ojs3.1-jm-settings-web-archive.PNG)
 
 ## Languages
 
 Use this page to configure the languages used by your journal.
 
-![](learning-ojs-3-settings-website-settings-languages.png)
+![](/assets/learning-ojs3.1-jm-settings-web-lang.PNG)
 
 **Primary Locale**: One language must be set as primary.
 
@@ -60,7 +60,7 @@ Use this page to configure the languages used by your journal.
 
 **Forms**: This will enable all selected languages to be available when filling in online forms.
 
-If a language is unavailable on this page, contact the Site Administrator to add it for you. See Site Administration for details.
+If a language is unavailable on this page, contact the Site Administrator to add it for you. See Site Administration for details in Chapter 4.
 
 ## Plugins
 
@@ -70,17 +70,25 @@ Use this page to see all of the installed plugins and find new plugins.
 
 All of the plugins listed here are available in your OJS installation. Use the Enable link to use them.
 
-![](learning-ojs-3-settings-website-settings-plugins-installed.png)
+![](/assets/learning-ojs3.1-jm-settings-web-plugins.PNG)
 
 You will notice that some plugins are required for the system and cannot be disabled.
 
 ### Plugin Gallery
 
-The Plugin Gallery will eventually provide access to external plugins, not included in your OJS installation, but available for download and activation.
+The Plugin Gallery provides access to externally-created plugins, that may not be included in your OJS installation, but are available for download and activation.
+
+![](/assets/learning-ojs3.1-jm-settings-web-plugins-gallery.PNG)
+
+Selecting the plugin title will provide additional details, including the author, status, description, and compatibility.
+
+![](/assets/learning-ojs3.1-jm-settings-web-plugins-gallery-hypo.PNG)
 
 ## Announcements
 
 This section allows you to create and display news announcements on the journal's website.
+
+![](/assets/learning-ojs3.1-jm-settings-web-announce.PNG)
 
 **Announcements**: Configure how announcements will appear on your journal website.
 
