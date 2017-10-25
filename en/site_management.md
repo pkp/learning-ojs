@@ -2,17 +2,15 @@
 
 To get to Site Management, login as the Site Administrator, and choose Administration from the left menu.
 
-![](learning-ojs-3-ch4-site-admin1.png)
+![](/assets/learning-ojs3.1-sa-site-admin.PNG)
 
 ## Hosted Journals
 
 From here, choose Hosted Journals. One the resulting page, you will see all of the journals in this OJS installation. In the example, below, there is only one.
 
-![](learning-ojs-3-ch4-hosted-journals.png)
+![](/assets/learning-ojs3.1-sa-hosted-journals.PNG)
 
-To edit the existing journal, click on the blue arrow to the left of the journal name. You will see options to edit, remove, or update the settings.
-
-![](learning-ojs-3-ch4-hosted-journals-edit.png)
+To edit the existing journal, click on the blue arrow to the left of the journal name. You will see options to edit, remove, or update the settings.![](/assets/learning-ojs3.1-sa-hosted-journals-edit.PNG)
 
 **Edit** will let you change the title, description, or path.
 
@@ -25,6 +23,10 @@ To edit the existing journal, click on the blue arrow to the left of the journal
 **Settings Wizard** will take you to the various settings options for that journal. We'll go over these settings in detail in Chapter 5.
 
 ![](learning-ojs-3-ch4-hosted-journals-settings-wiz.png)
+
+**Users **will allow you to add and manage users associated with this journal.
+
+![](/assets/learning-ojs3.1-sa-hosted-journals-users.PNG)
 
 Back on the Hosted Journals page, you can use the Create Journal link to add a new journal to this OJS installation. From the resulting form, fill in the fields with the new information.
 
