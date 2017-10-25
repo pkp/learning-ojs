@@ -108,7 +108,7 @@ This section allows you to configure your navigation menus, such as including ne
 
 ![](/assets/learning-ojs3.1-jm-settings-web-navmenu-add.PNG)
 
-It will now appear in the list of Navigation Menu Items. Next, go to the desired Navigation Menu \(e.g., Primary\), use the blue arrow to reveal the options, and choose Edit. You can now drag and drop it into the appropriate location on the menu.
+It will now appear in the list of Navigation Menu Items. Next, go to the desired Navigation Menu \(e.g., Primary\), use the blue arrow to reveal the options, and choose Edit. You can now drag and drop it from Unassigned Menu Items to Assigned Menu Items and into the appropriate location on the menu.
 
 ![](/assets/learning-ojs3.1-jm-settings-web-navmenu-add-nav.PNG)
 
