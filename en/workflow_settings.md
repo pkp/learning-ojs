@@ -2,38 +2,35 @@
 
 The Workflow Settings allow you to configure various parts of the journal's editorial workflow. Its tabs include Components, Submission, Review, Publisher Library, and Emails.
 
-![](learning-ojs-3-settings-workflow-settings-1.png)
-
-##Components
+## Components
 
 When an author makes a submission, they can upload multiple files. Typically, one file will be the article text, and others can include interview transcripts, data, images, etc. Each of these files is a **component** of the submission. The components available for the author to choose from when making her submission are listed here.
 
-![](learning-ojs-3-settings-workflow-settings-components.png)
+![](/assets/learning-ojs3.1-jm-settings-workflow-comp.PNG)
 
-Using the links provided, you can change the **Order** of the components (how they will be listed to the submitting author), **Add a Component** (if something you need is not included by default -- e.g., Video), or **Restore the Defaults** (if someone has made too many modifications and you just want to reset everything).
+Using the links provided, you can change the **Order** of the components \(how they will be listed to the submitting author\), **Add a Component** \(if something you need is not included by default -- e.g., Video\), or **Restore the Defaults** \(if someone has made too many modifications and you just want to reset everything\).
 
 ### Edit Component
+
 You can also edit each component by selecting the blue arrow to the left of the component name. This will reveal an Edit link and a Delete link.
 
-![](learning-ojs-3-settings-workflow-settings-components-edit.png)
+![](/assets/learning-ojs3.1-jm-settings-workflow-comp-edit.PNG)
 
 **Name**: This is the name of the component, as presented to the author.
-
-**Designation**: This is a unique code to identify the component.
 
 **Options**: Choose how the files associated with this component will be treated and displayed.
 
 **File Type Grouping**: Determine whether this component is associated with the submission document, artwork, or is a supplementary file.
 
-##Submission
+## Submission
 
 Use this section to configure the submission process.
 
-![](learning-ojs-3-settings-workflow-settings-submission.png)
+![](/assets/learning-ojs3.1-jm-settings-workflow-submission.PNG)
 
 **Author Guidelines**: Use this field to add guidelines for your authors. This information will be displayed on the journal website.
 
-**Submission Preparation Checklist**: Authors must check off that they agree with each item on this list. Use the *Order* link to change the order of the items, use the *Add Item* link to create a new item, and use the blue arrow to the left of the item name to *Edit* an exiting item.
+**Submission Preparation Checklist**: Authors must check off that they agree with each item on this list. Use the _Order_ link to change the order of the items, use the _Add Item_ link to create a new item, and use the blue arrow to the left of the item name to _Edit_ an exiting item.
 
 ![](learning-ojs-3-settings-workflow-settings-components-edit-item-edit.png)
 
@@ -43,21 +40,23 @@ Use this section to configure the submission process.
 
 ![](learning-ojs-3-settings-workflow-settings-submission-submission-metadata.png)
 
-Each entry is a different metadata type available for every article in your journal. 
+Each entry is a different metadata type available for every article in your journal.
 
 Some journals may want to activate all of them, but many will wish to keep it simple and just choose Keywords.
 
-If you choose *Enabled*, that metadata type will be added to your submissions for completion by an editor. 
+If you choose _Enabled_, that metadata type will be added to your submissions for completion by an editor.
 
-If you choose *Submission Form*, that metadata type will also be presented to your authors for them to fill in during their submission.
+If you choose _Submission Form_, that metadata type will also be presented to your authors for them to fill in during their submission.
 
 Remember to hit the **Save** button to record any changes to this page.
 
-##Review
+**Privacy Statement**: The default privacy statement can be modified if you wish.
+
+## Review
 
 This tab allows you to configure your journal's review process.
 
-![](learning-ojs-3-settings-workflow-settings-review.png)
+![](/assets/learning-ojs3.1-jm-settings-workflow-review.PNG)
 
 **Default Review Deadlines**: Indicate how long reviewers have to decide to accept or decline a review request from the editor, and how long they have to make a recommendation.
 
@@ -85,10 +84,10 @@ You can then choose the type of response, including:
 
 * a single word text box
 * a single line text box
-* an extended text box (for longer answers)
-* checkboxes (where the reviewer can select multiple possible reponses)
-* radio buttons (where the reviewer can only select one possible answer)
-* dropdown menu (also where reviewers can only select one possible answer)
+* an extended text box \(for longer answers\)
+* checkboxes \(where the reviewer can select multiple possible reponses\)
+* radio buttons \(where the reviewer can only select one possible answer\)
+* dropdown menu \(also where reviewers can only select one possible answer\)
 
 **Response Options** are the selections you make available for the checkboxes, radio buttons, or dropdown menus. A good example of a checkbox response is a [Likert scale](https://en.wikipedia.org/wiki/Likert_scale), where the reviewer must choose only one option: E.g., Good, Neutral, Bad.
 
@@ -116,20 +115,21 @@ Enabling the second option will limit access to submission files until after the
 
 Hit the **Save** button to record your changes.
 
-##Publisher Library
+## Publisher Library
 
 Use the Publisher Library to store important documents, such as your journal's Marketing Plan, and share them with your editorial team.
 
-![](learning-ojs-3-settings-workflow-settings-pub-library2.png)
+![](/assets/learning-ojs3.1-jm-settings-workflow-publib.PNG)
 
-##Emails
+## Emails
 
 The section allows you to configure the emails that are sent out from the system.
 
-![](learning-ojs-3-settings-workflow-settings-emails.png)
+![](/assets/learning-ojs3.1-jm-settings-workflow-emails.PNG)
 
 **Signature**: The information in this field will be added to the bottom of every email sent out by the system.
 
 **Bounce Address**: A notice will be sent to this email address of any system-sent emails that fail to deliver, such as when the targeted email address is no longer valid.
 
-**Prepared Email Tempates**: Pre-written emails are an important part of OJS. You see all of them here, and use the Edit link (as always, found by selecting the blue arrow to the left of the template name) to make any modifications.
+**Prepared Email Tempates**: Pre-written emails are an important part of OJS. You see all of them here, and use the Edit link \(as always, found by selecting the blue arrow to the left of the template name\) to make any modifications.
+
