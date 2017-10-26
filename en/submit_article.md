@@ -1,20 +1,20 @@
 # Submitting an Article
 
-Start a new submission by clicking the **New Submission** button on the right side of the screen. You will be taken to Step 1 of a 5-Step process to upload and describe your submission. 
+Start a new submission by clicking the **New Submission** button on the right side of the screen. You will be taken to Step 1 of a 5-Step process to upload and describe your submission.
 
-![](learning-ojs-3-author-dashboard.png)
+![](/assets/learning-ojs3.1-au-dashboard-new.PNG)
 
-##Step 1
+## Step 1
 
 In **Step 1** you will provide preliminary information about your submission.
 
-![](learning-ojs-3-author-submission-step1.png)
+![](/assets/learning-ojs3.1-au-dashboard-new-1.PNG)
 
-To begin select the appropriate section for your submission (e.g., article, review, etc.). If you aren’t sure which section is appropriate, make your best guess. 
+To begin select the appropriate section for your submission \(e.g., article, review, etc.\). If you aren’t sure which section is appropriate, make your best guess.
 
 Read and agree to the statements in the submission checklist by checking each box. Include any comments for the editor, read the journal’s privacy statement, and then click the **Save and Continue** button to move to **Step 2**.
- 
-##Step 2
+
+## Step 2
 
 On **Step 2**, a window will open allowing you to upload your submission file.
 
@@ -32,68 +32,69 @@ After uploading the file, you will be asked to review the name of the file. Use 
 
 Click the **Continue** button.
 
-Next, you have the option to repeat the process to upload additional files (e.g., a data set or an image). 
+Next, you have the option to repeat the process to upload additional files \(e.g., a data set or an image\).
 
 Once you have finished uploading all of your files, click **Complete**; this will close the upload window.
 
 ![](learning-ojs-3-author-submission-step2-4.png)
 
-You will be brought back to the *Submit an Article* screen where you will see the files you’ve uploaded. If you need to make changes, expand the blue arrow to the left of your file and make any changes using the *Edit* link. 
+You will be brought back to the _Submit an Article_ screen where you will see the files you’ve uploaded. If you need to make changes, expand the blue arrow to the left of your file and make any changes using the _Edit_ link.
 
 Click ‘Save and Continue’ to move to Step 3.
 
-##Step 3
+## Step 3
 
-On **Step 3**, you will be asked to add more information about the submission, including the title of the submission (broken down into prefix, title, and subtitle), the abstract, and scrolling down...
+On **Step 3**, you will be asked to add more information about the submission, including the title of the submission \(broken down into prefix, title, and subtitle\), the abstract, and scrolling down...
 
-![](learning-ojs-3-author-submission-step3.png)
+![](/assets/learning-ojs3.1-au-dashboard-new-3.PNG)
 
 ...any additional contributors.
 
-![](learning-ojs-3-author-submission-step3-1.png)
+![](/assets/learning-ojs3.1-au-dashboard-new-3-contrib.PNG)
 
-You can add more contributors (e.g., co-authors), by clicking the **Add Contributors** link. This will open a new window with fields to enter their information.
+You can add more contributors \(e.g., co-authors\), by clicking the **Add Contributors** link. This will open a new window with fields to enter their information.
 
 ![](learning-ojs-3-author-submission-step3-2.png)
 
 Hit **Save**, and the new contributor will appear on the screen.
 
-![](learning-ojs-3-author-submission-step3-3.png)
+![](/assets/learning-ojs3.1-au-dashboard-new-3-contrib-new.PNG)
 
-Depending on the journal you are submitting to, you may see additional fields to complete, such as keywords. 
+Depending on the journal you are submitting to, you may see additional fields to complete, such as keywords.
 
 ![](learning-ojs-3-author-submission-step3-4.png)
 
 To enter keyword, simply type the word or phrase and hit your Enter key. The word or phrase will be formatted as a keyword.
- 
+
 Click **Save and Continue** to move forward.
 
+## Step 4
 
-##Step 4
-
-On Step 4, you will be asked to confirm that you are happy with your submission. 
+On Step 4, you will be asked to confirm that you are happy with your submission.
 
 Click **Finish Submission**.
 
-![](learning-ojs-3-author-submission-step4.png)
+![](/assets/learning-ojs3.1-au-dashboard-new-4.PNG)
 
 A box will pop up asking you to confirm you are finished. Click **OK**.
 
 ![](learning-ojs-3-author-submission-step4-1.png)
 
-##Step 5
+## Step 5
 
-![](learning-ojs-3-author-submission-step5.png)
+![](/assets/learning-ojs3.1-au-dashboard-new-5.PNG)
 
 Your submission is now complete! The editor has been notified of your submission. At this point, you can follow the links to:
 
-- Review this submission
-- Create a new submission
-- Return to your dashboard
+* Review this submission
+* Create a new submission
+* Return to your dashboard
 
-##Dashboard
-And here is your submission in your Dashboard. You can see that it is currently in the *Submission* stage.
+## Dashboard
 
-![](learning-ojs-3-author-submission-final.png)
+And here is your submission in your Dashboard. You can see that it is currently in the _Submission_ stage.
+
+![](/assets/learning-ojs3.1-au-dashboard-new-sub.PNG)
 
 Over the coming days, it will move into the Review stage, and if accepted, into the Copyediting and Production stages before being published.
+
