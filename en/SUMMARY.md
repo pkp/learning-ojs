@@ -42,7 +42,8 @@
   * [Payment Types](chapter-9-subscriptions/payment-types.md)
   * [Payments](chapter-9-subscriptions/payments.md)
   * [Individual Subscriptions](chapter-9-subscriptions/individual-subscriptions.md)
-  * temp2
+  * [Institutional Subscriptions](chapter-9-subscriptions/institutional-subscriptions.md)
+  * [temp2](chapter-9-subscriptions/temp2.md)
 * [Chapter 10: Authoring](authoring.md)
   * [Registering with the Journal](registering_author.md)
   * [Submitting an Article](submit_article.md)
