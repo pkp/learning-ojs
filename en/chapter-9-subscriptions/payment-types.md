@@ -1,0 +1,4 @@
+## Payment Types
+
+
+
