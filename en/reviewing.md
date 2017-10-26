@@ -1,4 +1,4 @@
-#Chapter 11: Reviewing
+# Chapter 12: Reviewing
 
 As a reviewer, you will learn of the review request via email or by checking your dashboard:
 
@@ -38,13 +38,13 @@ Hit **Continue** to move to step 3. From here you can download a copy of the rev
 
 ![](learning-ojs-3-rev-step3.png)
 
-Once you have read the paper and added your comments, scroll down the page to optionally upload a marked up copy of the review file (remember to strip any personal identification from the file before uploading it). 
+Once you have read the paper and added your comments, scroll down the page to optionally upload a marked up copy of the review file \(remember to strip any personal identification from the file before uploading it\).
 
 ![](learning-ojs-3-rev-step3-1.png)
 
 Next, you must then make your recommendation using the dropdown menu.
 
-Your choices include: 
+Your choices include:
 
 **Accept Submission**: it is ready to go to Copyediting as is.
 
@@ -58,7 +58,6 @@ Your choices include:
 
 **See Comments**: if none of the above recommendations make sense, you can leave a comment for the editor detailing your concerns.
 
-
 Finally, hit the Submit Review button to complete your task. You’ll be asked to confirm.
 
 ![](learning-ojs-3-rev-step3-2.png)
@@ -68,6 +67,4 @@ Hit OK. You will be taken the final confirmation screen thanking you for your wo
 ![](learning-ojs-3-rev-step4.png)
 
 That's it! The review is now complete.
-
-
 
