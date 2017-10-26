@@ -1,6 +1,6 @@
 ## Subscription Types
 
-The first step in setting up subscription management is to designate the types of subscriptions the journal offers. 
+The next step in setting up subscription management is to designate the types of subscriptions the journal offers.
 
 ![](/assets/learning-ojs3.1-jm-subscriptions-types.PNG)
 
