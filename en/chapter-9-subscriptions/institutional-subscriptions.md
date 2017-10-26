@@ -10,5 +10,19 @@ You can create a new individual subscription by using the Create New Subscriptio
 
 ![](/assets/learning-ojs3.1-jm-subscriptions-instit-create.PNG)
 
-Subscription Type: 
+**Subscription Type**: Select the appropriate type for this new subscriber \(e.g., Library\) and its status \(e.g., Active\).
+
+> Subscription Types were configured earlier in this chapter.
+
+**Date**: Set the start and end dates for this subscription.
+
+**Institution**: Add the name of the institution for this subscription \(e.g., Simon Fraser University Library\).
+
+**Mailing Address**: Add the address of the institution.
+
+**Domain**: Readers coming from a computer with this domain will automatically receive access \(e.g., sfu.ca\). This will apply to on-campus users.
+
+**IP Ranges**: The institution may provide you with IP ranges. Readers coming from a computer from this IP range will automatically receive access.
+
+**Notes**: If you have any relevant notes to add, record that information here \(optional\).
 
