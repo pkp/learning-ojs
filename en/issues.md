@@ -2,4 +2,5 @@
 
 From the left menu, select Issues to manage all of the issues for your journal.
 
-![](learning-ojs-3-issues.png)
+![](/assets/learning-ojs3.1-jm-issues.PNG)
+
