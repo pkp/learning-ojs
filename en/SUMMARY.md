@@ -36,6 +36,7 @@
   * [Import/Export](importexport.md)
   * [Statistics](statistics.md)
 * [Chapter 9: Subscriptions](chapter-9-subscriptions.md)
+  * [Subscription Types](chapter-9-subscriptions/subscription-types.md)
 * [Chapter 10: Authoring](authoring.md)
   * [Registering with the Journal](registering_author.md)
   * [Submitting an Article](submit_article.md)
