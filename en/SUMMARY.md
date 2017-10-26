@@ -35,6 +35,7 @@
 * [Chapter 8: Tools](tools.md)
   * [Import/Export](importexport.md)
   * [Statistics](statistics.md)
+* [Chapter 9: Subscriptions](chapter-9-subscriptions.md)
 * [Chapter 10: Authoring](authoring.md)
   * [Registering with the Journal](registering_author.md)
   * [Submitting an Article](submit_article.md)
@@ -49,5 +50,4 @@
   * [Copyediting](copyediting.md)
   * [Production](production.md)
 * [Chapter 12: Reviewing](reviewing.md)
-* Subscriptions
 
