@@ -8,7 +8,7 @@ You can create a new individual subscription by using the Create New Subscriptio
 
 ![](/assets/learning-ojs3.1-jm-subscriptions-indiv-create.PNG)
 
-**Subscription Type**: Select the appropriate type for this new subscriber \(e.g., Student\).
+**Subscription Type**: Select the appropriate type for this new subscriber \(e.g., Student\) and its status \(e.g., Active\).
 
 > Subscription Types were configured earlier in this chapter.
 
@@ -19,8 +19,4 @@ You can create a new individual subscription by using the Create New Subscriptio
 **Reference Number**: If the subscribe is associated with any relevant reference number \(such as an invoice number for payment\), add that information here \(optional\).
 
 **Notes**: If you have any relevant notes to add, record that information here \(optional\).
-
-
-
-
 
