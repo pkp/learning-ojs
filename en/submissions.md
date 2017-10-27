@@ -1,47 +1,62 @@
 # Submissions
 
-When an author makes a new submission to your journal, the editor is automatically emailed. When you log into your Dashboard, you can find it either from your Tasks, or from one of the queues (My Queue, Active, and Archives).
+When an author makes a new submission to your journal, the editor is automatically emailed. When you log into your Dashboard, you can find it either from your Tasks, or from one of the queues \(My Queue, Unassigned, All Active, and Archives\).
 
-![](learning-ojs-3-ed-submissions.png)
+![](/assets/learning-ojs3.1-ed-dashboard-active.PNG)
 
-##My Queue
-This page is divided into 3 sections:
+## My Queue
 
-**Unassigned**: This panel includes submissions added to sections without section editors.
-
-**My Assigned**: This panel includes submissions added to sections where you are a section editor.
-
-**My Authored**: This panel includes submissions that you wrote, and should be assigned to a different editor.
+**My Assigned**: This panel includes submissions added to sections where you are a section editor or to your own submissions if you are also an author with this journal.
 
 The **Search** tool for each queue can sometimes be helpful in tracking down submissions.
 
-##Active
+The **Filter **tool allows you to limit your browsing to specific status \(e.g., incomplete, overdue\) stages \(submission, review, copyediting, production\), or sections \(e.g., articles, reviews\) for faster searching.
+
+![](/assets/learning-ojs3.1-ed-dashboard-filter.PNG)
+
+Note that you can use the blue arrows to the right of each submission to reveal more details, including how many reviews are outstanding, new discussions, and more. It also reveals buttons to take you to the submission record, view the activity log and notes, and to delete the submission.
+
+![](/assets/learning-ojs3.1-ed-dashboard-active-details.PNG)
+
+## Unassigned
+
+This panel includes submissions added to sections without section editors.
+
+![](/assets/learning-ojs3.1-ed-dashboard-unassigned.PNG)
+
+In the above example, there are no unassigned submissions, so the panel is empty.
+
+## All Active
+
 This section includes a list of all submissions, without being organized into queues.
 
-![](learning-ojs-3-ed-submissions-active.png)
+![](/assets/learning-ojs3.1-ed-dashboard-all-active.PNG)
 
-##Archived
+## Archived
+
 This section includes a list of all submissions either rejected or already published by the journal.
 
-![](learning-ojs-3-ed-submissions-achived.png)
+![](/assets/learning-ojs3.1-ed-dashboard-archive.PNG)
 
-##Our Submission
-For this demonstration, we are looking for the Mishkin submission, entitled *Approach for externalization of expert tacit knowledge*. It can be found in the **Unassigned** queue, as well as at the bottom of the **Active** queue.
+## Demonstration Submission
 
-![](learning-ojs-3-ed-submissions-unassigned.png)
+For this demonstration, we are looking for the Williamson and Serletis submission, entitled _The Official Knowledge and Adult Education Agents_. It can be found at the top of the **My Assigned** queue, as well as in the **All Active** queue.
 
-Once you find the submission, you can use the blue arrow to reveal options to **Delete** or find **More Information**.
+![](/assets/learning-ojs3.1-ed-dashboard-active.PNG)
 
-![](learning-ojs-3-ed-submissions-more-info.png)
+Once you find the submission, you can use the blue arrow to reveal options to see if there are any open discussion \(there are none\), as well as to view the submission, view the activity logs and note, or to delete the submission.
 
-**Delete** will remove the submission and **More Information** will bring up the submission's history.
+![](/assets/learning-ojs3.1-ed-submission-details.PNG)
 
-![](learning-ojs-3-ed-submissions-history.png)
+**Delete** will move the submission to the Archives and **Activity Log & Notes** will bring up the submission's history.
 
-##Submission Record
-To view the submission in more detail, select the *Submission* link to the right of the title. This will take you to the submission record.
+![](/assets/learning-ojs3.1-ed-dashboard-log.PNG)
 
-![](learning-ojs-3-ed-submissions-record.png)
+## Submission Record
+
+To view the submission in more detail, select **View Submission** button. This will take you to the submission record.
+
+![](/assets/learning-ojs3.1-ed-dashboard-record.PNG)
 
 From here, you can see:
 
@@ -49,21 +64,25 @@ From here, you can see:
 
 **Pre-Review Discussions**: This panel allows the editor to communicate with the author, or with others on the editorial team. For example, to ask the author for some additional information, or to ask a section editor to take responsibility for this submission.
 
-**Participants**: This panel is where you will see the list of participants involved in the submission. Currently, there is only the submission author's name. Other names (editors, section editors, etc.) will appear here as they are added in subsequent steps.
+**Action Buttons**: These include Send to Review, Accept and Skip Review, and Decline Submission.
+
+> Note: If you don't see these buttons, you likely have not yet assigned the submission to an editor.
+
+**Participants**: This panel is where you will see the list of participants involved in the submission, including the editor, section editors, and author. Other names \(copyeditors, layout editors, etc.\) will appear here as they are added in subsequent steps.
 
 In addition, in the blue bar along the top, you can see:
 
 **Metadata**: Where you can view and revise the submission metadata.
 
-![](learning-ojs-3-ed-submissions-metadata.png)
+![](/assets/learning-ojs3.1-ed-dashboard-record-metadata.PNG)
 
-Use the Identifier tab to also view or add a unique identifier.
+Use the Identifiers tab to also view or add a unique identifier.
 
 ![](learning-ojs-3-ed-submissions-identifiers.png)
 
 **Editorial History**: Where you can view the history and any notes about the submission.
 
-![](learning-ojs-3-ed-submissions-ed-history.png)
+![](/assets/learning-ojs3.1-ed-dashboard-log.PNG)
 
 Use the Notes tab to also view or add any editorial notes.
 
@@ -73,53 +92,55 @@ Use the Notes tab to also view or add any editorial notes.
 
 ![](learning-ojs-3-ed-submissions-sub-library.png)
 
+## Assigning the Submission
 
-##Assigning the Submission
-
-To move the submission forward, the next step is to assign an editor or section editor. To do so, select the *Add* link in the **Participants** panel.
+To move the submission forward, the next step is to assign an editor or section editor. To do so, select the _Assign_ link in the **Participants** panel.
 
 ![](learning-ojs-3-ed-submissions-add-participant.png)
 
 You will have the option to locate a user by role, choose an individual, and send them a message requesting their assistance.
 
+> Note: If you aren't sure of the names of the section editors, simply choose that role from the dropdown menu and then hit the Search button. All Section Editors will be displayed and available for selection.
+
 Hit the **OK** button to make the assignment and send the message.
 
-![](learning-ojs-3-ed-submissions-se-added.png)
+![](/assets/learning-ojs3.1-ed-dashboard-record-assign.PNG)
 
-You can now see that the Section Editor is listed under Participants, and new Action buttons are available:
+> Note the new Pre-Review Discussion that was automatically created as part of the assignment.
+
+You can now see that the Section Editor is listed under Participants, and the Action buttons are available:
 
 **Send to Review**: Moves the submission on to the next stage.
 
-**Send to Copyediting**: Skips the Review Stage and moves the submission directly into Copyediting.
+**Accept and Skip Review**: Skips the Review Stage and moves the submission directly into Copyediting.
 
 **Decline Submission**: Rejects the submission before going through the review process. The submission would then be archived.
 
 Although in this example, the editor assigned a section editor, it would also be possible for the editor to assign herself to the submission.
 
-##Section Editor
+## Section Editor
 
-Now that the Section Editor has been assigned, she can login and view her dashboard. The submission can be found at the bottom of the My Assigned queue.
+Now that the Section Editor has been assigned, she can login and view her dashboard. The submission can be found at the top of the My Assigned queue.
 
-![](learning-ojs-3-ed-submissions-se-queue.png)
+![](/assets/learning-ojs3.1-se-dashboard.PNG)
 
-Clicking on the *Submission* link opens the full submission record.
+Clicking on the article title opens the full submission record.
 
-![](learning-ojs-3-ed-submissions-se-record.png)
+![](/assets/learning-ojs3.1-se-record.PNG)
 
-Note the **Pre-Review Discussion**, which was the Editor's invitation to edit, as well as Stephanie now being in the **Participants** list.
+### Accepting the Assignment
 
-###Accepting the Assignment
 It is not required, but the Section Editor could reply to the Pre-Review Discussion to inform the editor that she will be proceeding with the assignment.
 
-###Communicating with the Author
+### Communicating with the Author
+
 If the Section Editor has any questions for the author, she can use the Pre-Review Discussions.
 
-###Sending to Review
+### Sending to Review
+
 Once the Section Editor is satisfied that the submission is appropriate for the journal, she can select the **Send to Review** button to move the submission to the next stage.
 
 ![](learning-ojs-3-ed-submissions-send-to-review.png)
 
- Keep the files that are to be reviewed checked off.
-
-
+Keep the files that are to be reviewed checked off.
 
