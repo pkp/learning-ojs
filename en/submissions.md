@@ -140,7 +140,7 @@ If the Section Editor has any questions for the author, she can use the Pre-Revi
 
 Once the Section Editor is satisfied that the submission is appropriate for the journal, she can select the **Send to Review** button to move the submission to the next stage.
 
-![](learning-ojs-3-ed-submissions-send-to-review.png)
+![](/assets/learning-ojs3.1-se-record-sendReview.PNG)
 
 Keep the files that are to be reviewed checked off.
 
