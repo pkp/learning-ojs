@@ -28,7 +28,7 @@ For this demonstration, we will pick Adela as our Reviewer and hit the **Select 
 
 This initiates a new window with a message for the Reviewer.
 
-![](learning-ojs-3-ed-rev-add-3.png)
+![](/assets/learning-ojs3.1-se-record-revstage-revreq.PNG)
 
 You can revise any of the prepared text.
 
