@@ -42,7 +42,7 @@ When you have a large number of users, you will want to take advantage of the se
 
 ![](learning-ojs-3-users-search.png)
 
-This can help you quickly find a user when you know a first name, a last name, or some other piece of information.
+This can help you quickly find a user by first name, last name, or email address, or to see all users in a particular role.
 
 **Note**: If you leave the Search field blank, select a Role, and hit Search, you will get a list of all users in that role \(e.g., all copyeditors\).
 
