@@ -68,6 +68,8 @@ This tab allows you to configure your journal's review process.
 
 ![](learning-ojs-3-settings-workflow-settings-review-create.png)
 
+The Description and Instructions provide information about the form and when to use it for Journal Managers and Editors. This content is not included on the form that reviewers see. You can add instructions and guidelines for reviewers under Review Guidelines \(below\).
+
 Back at the Review Forms page, select the blue arrow to the left of the form name to reveal the Edit link.
 
 ![](learning-ojs-3-settings-workflow-settings-review-edit1.png)
