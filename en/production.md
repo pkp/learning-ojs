@@ -89,9 +89,9 @@ Example \(see HTML link at bottom of the page\): [Forum Qualitative Sozialforsch
 
 #### Creating ePUB Files
 
-Similar to HTML files, ePub files are ideal for mobile devices, but require specialized coding to create. Conversion tools are available, such as [Calibre](https://calibre-ebook.com/). More detailed HOW TO instructions for creating ePub files are [available here](https://www.wikihow.com/Convert-a-Word-Document-to-Epub). 
+Similar to HTML files, ePub files are ideal for mobile devices, but require specialized coding to create. Conversion tools are available, such as [Calibre](https://calibre-ebook.com/). More detailed HOW TO instructions for creating ePub files are [available here](https://www.wikihow.com/Convert-a-Word-Document-to-Epub).
 
-Like HTML files, some additional cleanup may be required after conversion and [require some knowledge](http://www.jedisaber.com/eBooks/Introduction.shtml) of the format. 
+Like HTML files, some additional cleanup may be required after conversion and [require some knowledge](http://www.jedisaber.com/eBooks/Introduction.shtml) of the format.
 
 Example \(see EPUB link at bottom of the page\): [International Review of Research in Open and Distance Learning](http://www.irrodl.org/index.php/irrodl/article/view/2895)
 
@@ -105,9 +105,9 @@ Example \(see MP3 link at bottom of the page\): [International Review of Researc
 
 #### Creating XML Files
 
-Creating XML files is a very efficient way to publish in multiple formats. When you create an XML file, you can then automatically generate PDFs, HTML, ePub, and other formats. Unfortunately, XML is very complex and currently no free conversion tools are available \(although PKP is currently [currently working on developing just such a service](http://pkp.sfu.ca/wiki/index.php?title=XML_Publishing)\). As a result, you will need to learn how to create XML files yourself.[Excellent tutorials](http://www.w3schools.com/xml/)are available online, but will require a significant time investment to become proficient.
+Creating XML files is a very efficient way to publish in multiple formats. When you create an XML file, you can then automatically generate PDFs, HTML, ePub, and other formats. PKP is developing an XML conversion tool called the [Open Typesetting Stack](https://pkp.sfu.ca/open-typesetting-stack/), which is currently available in beta. You can also learn how to create XML files yourself. [Excellent tutorials](https://www.w3schools.com/xml/) are available online, but will require a significant time investment to become proficient.
 
-Example \(see XML link at bottom of the page\):[Translational Developmental Psychiatry](http://www.translationaldevelopmentalpsychiatry.net/index.php/tdp/article/view/19673)
+Example \(see XML link at bottom of the page\):
 
 ## Contact the Author
 
