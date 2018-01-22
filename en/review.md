@@ -32,9 +32,13 @@ This initiates a new window with a message for the Reviewer.
 
 You can revise any of the prepared text.
 
+If you are using a Blind Review method, ensure that the files you send to the Reviewer are stripped of any identifying information about the Author.
+
 Further down the form, you will see the additional details that are sent to the Reviewer including title, abstract, important dates, and a link to the files to be reviewed.
 
 ![](learning-ojs-3-ed-rev-add-4.png)
+
+By default, Reviewers will be provided with an extended text box to type in their comments. However, the Journal Manager can create Review Forms in [**Workflow Settings &gt; Review**](https://pkp.gitbooks.io/ojs3/content/en/workflow_settings.html) to ask more focused questions. If you would like the Reviewer to fill out a review form, select it under **Review Form**.
 
 Hit the **Add Reviewer** button to send the message and assign the Reviewer.
 
