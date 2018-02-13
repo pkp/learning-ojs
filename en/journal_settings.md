@@ -1,6 +1,6 @@
 # Journal Settings
 
-The Journal Settings page includes details about the journal.
+The Journal Settings page includes details about the journal. 
 
 Use the tabs to navigate to the different sections of Journal Settings: Masthead, Contact, Sections.
 
