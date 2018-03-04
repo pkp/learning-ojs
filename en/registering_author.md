@@ -6,7 +6,3 @@ To make a submission to an OJS 3.1 journal, you will first need to register as a
 
 It is currently empty as you have made no submissions.
 
-![](/en/assets/testing.png)
-
-
-
