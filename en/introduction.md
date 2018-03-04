@@ -6,3 +6,5 @@ It has been designed to reduce the time and energy devoted to the clerical and m
 
 This book covers OJS version 3.1, released in October 2017, and features significant enhancements over the previous versions of the software. We hope you find it helpful for your publishing projects.
 
+![](/assets/Screenshot 2018-03-04 16.18.54.png)
+
