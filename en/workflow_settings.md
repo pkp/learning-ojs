@@ -93,11 +93,13 @@ You can then choose the type of response, including:
 
 **Response Options** are the selections you make available for the checkboxes, radio buttons, or dropdown menus. A good example of a checkbox response is a [Likert scale](https://en.wikipedia.org/wiki/Likert_scale), where the reviewer must choose only one option: E.g., Good, Neutral, Bad.
 
-Remember to hit the **Save** button to record your changes.
+Remember to hit the **Save** button to record your changes. 
 
 Use the **Preview** tab to test out the form.
 
 ![](learning-ojs-3-settings-workflow-settings-review-preview.png)
+
+Once you send the form to a reviewer you will no longer be able to edit it because that would change the record for existing reviews using that form. If you want to make changes to the review form at that point you can copy the existing form and create a new updated version.
 
 **Blind Review**: Check this box to display a link for instructions on ensuring all submission files are anonymized.
 
