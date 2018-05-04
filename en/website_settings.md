@@ -80,7 +80,7 @@ The Plugin Gallery provides access to externally-created plugins, that may not b
 
 ![](/assets/learning-ojs3.1-jm-settings-web-plugins-gallery.PNG)
 
-Selecting the plugin title will provide additional details, including the author, status, description, and compatibility.
+Selecting the plugin title will provide additional details, including the author, status, description, and compatibility. Only an Administrator user can install a new plugin.
 
 ![](/assets/learning-ojs3.1-jm-settings-web-plugins-gallery-hypo.PNG)
 
