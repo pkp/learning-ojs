@@ -18,7 +18,7 @@ You can also edit each component by selecting the blue arrow to the left of the 
 
 **Name**: This is the name of the component, as presented to the author.
 
-**Options**: Choose how the files associated with this component will be treated and displayed.
+**Options**: Choose how the files associated with this component will be treated and displayed. Anything that is marked as a Dependent file will not be published.
 
 **File Type Grouping**: Determine whether this component is associated with the submission document, artwork, or is a supplementary file.
 
