@@ -93,7 +93,7 @@ You can then choose the type of response, including:
 
 **Response Options** are the selections you make available for the checkboxes, radio buttons, or dropdown menus. A good example of a checkbox response is a [Likert scale](https://en.wikipedia.org/wiki/Likert_scale), where the reviewer must choose only one option: E.g., Good, Neutral, Bad.
 
-Remember to hit the **Save** button to record your changes. 
+Remember to hit the **Save** button to record your changes.
 
 Use the **Preview** tab to test out the form.
 
@@ -135,5 +135,5 @@ The section allows you to configure the emails that are sent out from the system
 
 **Bounce Address**: A notice will be sent to this email address of any system-sent emails that fail to deliver, such as when the targeted email address is no longer valid.
 
-**Prepared Email Tempates**: Pre-written emails are an important part of OJS. You see all of them here, and use the Edit link \(as always, found by selecting the blue arrow to the left of the template name\) to make any modifications.
+**Prepared Email Tempates**: Pre-written emails are an important part of OJS. You see all of them here, and use the Edit link \(as always, found by selecting the blue arrow to the left of the template name\) to make any modifications. Not all templates listed are used in OJS 3. If you use the link to "Add Email Template," the template will not be available to use at any stage in the workflow.
 
